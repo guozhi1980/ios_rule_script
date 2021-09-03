@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-09-03 11:08:42
-# DOMAIN: 14514
+# UPDATED: 2021-09-04 02:08:15
+# DOMAIN: 14502
 # DOMAIN-KEYWORD: 28
 # DOMAIN-SUFFIX: 13223
 # IP-CIDR: 158
 # IP-CIDR6: 1
-# TOTAL: 27924
+# TOTAL: 27912
 payload:
   - '0.up.qingdaonews.com'
   - '00-gov.cn'
@@ -23,7 +23,6 @@ payload:
   - '033.com'
   - '039ad0897e6da.com'
   - '0511code.com'
-  - '0512pifa.com.cn'
   - '0512s.com'
   - '0551huayanbdf.com'
   - '0591101.com'
@@ -215,7 +214,6 @@ payload:
   - '2c3a97984f45.com'
   - '2c6bcbbb82ce911.com'
   - '2f.com'
-  - '2gok8g15p2.com'
   - '2hanwriten.com'
   - '2ip.ua'
   - '2kl08cd74f.com'
@@ -2138,7 +2136,6 @@ payload:
   - 'arkalealb.site'
   - 'arkayne.com'
   - 'arkbuyarm.club'
-  - 'arkinsoftware.in'
   - 'arlime.com'
   - 'arpxs.com'
   - 'arrowpushengine.com'
@@ -3670,7 +3667,6 @@ payload:
   - 'consumable.com'
   - 'consumergenepool.com'
   - 'contactmonkey.com'
-  - 'contadd.com'
   - 'contadordevisitas.es'
   - 'contadorgratis.com'
   - 'contadorgratis.es'
@@ -4623,6 +4619,7 @@ payload:
   - 'dmpxs.com'
   - 'dmsz.win7sky.com'
   - 'dmtracker.com'
+  - 'dmtu.0m31a.cn'
   - 'dmx.districtm.io'
   - 'dmxleo.com'
   - 'dn34cbtcv9mef.cloudfront.net'
@@ -4938,7 +4935,6 @@ payload:
   - 'ecortb.com'
   - 'ecpmrocks.com'
   - 'ecpms.net'
-  - 'ecto-ecto-uno.com'
   - 'ecustomeropinions.com'
   - 'ecxgfgas.com'
   - 'ed9wkbpy.com'
@@ -6628,7 +6624,6 @@ payload:
   - 'ilovecheating.com'
   - 'im-apps.net'
   - 'im2ss2ss.top'
-  - 'image.cecash.com'
   - 'image.ptmind.com'
   - 'image.qndown.com'
   - 'imageadvantage.net'
@@ -7258,6 +7253,7 @@ payload:
   - 'keyxel.com'
   - 'khewwakrywmgxr.com'
   - 'khg.xinrongblg.com'
+  - 'khgj.cn'
   - 'kickass.best'
   - 'kickass.vc'
   - 'kids-fashion.dk'
@@ -7636,7 +7632,6 @@ payload:
   - 'lndnserror6.wo.com.cn'
   - 'lndnserror7.wo.com.cn'
   - 'lnhkqohy.com'
-  - 'lningcity.com.cn'
   - 'lnkgt.com'
   - 'lnkrdr.com'
   - 'lnr1.com'
@@ -7878,7 +7873,6 @@ payload:
   - 'm.xeig.cn'
   - 'm.xr883.cn'
   - 'm.xsk5j.cn'
-  - 'm.xuanlimin.top'
   - 'm.xuwm6.cn'
   - 'm.yanyankj.com'
   - 'm.yitime.top'
@@ -8319,7 +8313,6 @@ payload:
   - 'mo.grqf.com.cn'
   - 'mo.oneshouyou.cn'
   - 'mo.qitouch.cn'
-  - 'mo.rltk.com.cn'
   - 'mo.wajsa.com'
   - 'mo.zdceaa.cn'
   - 'mo8mwxi1.com'
@@ -9177,6 +9170,7 @@ payload:
   - 'optimonk.com'
   - 'optimost.com'
   - 'optin-machine.com'
+  - 'optinemailpro.com'
   - 'optinmonster.com'
   - 'optkit.com'
   - 'optmnstr.com'
@@ -9292,7 +9286,6 @@ payload:
   - 'p.zol.com.cn'
   - 'p0.raasnet.com'
   - 'p24.hu'
-  - 'p2ads.com'
   - 'p2poolmining.com'
   - 'p2r14.com'
   - 'p2sdmkj6t.bkt.clouddn.com'
@@ -10298,6 +10291,7 @@ payload:
   - 'r.dlandroid.com'
   - 'r.mobpartner.mobi'
   - 'r.movad.de'
+  - 'r2.tschewang.com'
   - 'r24-tech.com'
   - 'r42tag.com'
   - 'r5g.cc'
@@ -10601,7 +10595,6 @@ payload:
   - 'richmetrics.com'
   - 'richstring.com'
   - 'richwebmedia.com'
-  - 'rick-rick-rob.com'
   - 'ridingintractable.com'
   - 'rigfoxcup.site'
   - 'rightmessage.com'
@@ -10864,7 +10857,6 @@ payload:
   - 'sarov.ws'
   - 'sas.com'
   - 'sas15k01.com'
-  - 'sascentral.com'
   - 'sasson-cpa.co.il'
   - 'satismeter.com'
   - 'saub27i3os.com'
@@ -11197,7 +11189,6 @@ payload:
   - 'shalleda.com'
   - 'shalseey.com'
   - 'shangjiabiao.com'
-  - 'shangmiss.wap.xsbiquge.com'
   - 'share-server.com'
   - 'share.gree.jp'
   - 'share.itraffic.su'
@@ -13815,7 +13806,6 @@ payload:
   - 'wufel.ml'
   - 'wundercounter.com'
   - 'wunderloop.net'
-  - 'wuvac.agwebdigital.com'
   - 'wv-law.com'
   - 'wwbn.com'
   - 'wwclicknews.club'
@@ -13844,7 +13834,6 @@ payload:
   - 'www.am0624.com'
   - 'www.angolotesti.it'
   - 'www.archigate.it'
-  - 'www.arkinsoftware.in'
   - 'www.authedwebmine.cz'
   - 'www.bcservice.it'
   - 'www.besocial.online'
@@ -14160,7 +14149,6 @@ payload:
   - 'xsapp.cdn.bcebos.com'
   - 'xsolid.baidu.com'
   - 'xsrs.com'
-  - 'xsu.cc'
   - 'xswbmktpgcwcud.com'
   - 'xsweb.pxuns.com'
   - 'xszysc.com'

@@ -1,13 +1,13 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-09-03 11:08:42
-# DOMAIN: 15317
+# UPDATED: 2021-09-04 02:08:16
+# DOMAIN: 15296
 # DOMAIN-KEYWORD: 88
 # DOMAIN-SUFFIX: 81102
 # IP-CIDR: 244
 # IP-CIDR6: 1
-# TOTAL: 96752
+# TOTAL: 96731
 payload:
   - DOMAIN,0001.2waky.com
   - DOMAIN,000lk3v.wcomhost.com
@@ -1312,7 +1312,6 @@ payload:
   - DOMAIN,albamargroup.com
   - DOMAIN,albanypowerexchange.com
   - DOMAIN,alberguecasaanita.com
-  - DOMAIN,albertohernandezart.com
   - DOMAIN,albiondrugs.com
   - DOMAIN,albullansa.com
   - DOMAIN,albumdownloadfree.com
@@ -1891,7 +1890,6 @@ payload:
   - DOMAIN,arizandy.com
   - DOMAIN,arjunrammeghwal.com
   - DOMAIN,arkbuyarm.club
-  - DOMAIN,arkinsoftware.in
   - DOMAIN,arkmeditech.com
   - DOMAIN,arkonziv.com
   - DOMAIN,armaninofoods.com
@@ -2923,7 +2921,6 @@ payload:
   - DOMAIN,calcomsec.com
   - DOMAIN,calhacks.org
   - DOMAIN,calhasmaringa.com
-  - DOMAIN,calicutmis.com
   - DOMAIN,californiaroaddream.com
   - DOMAIN,californiastateparks.com
   - DOMAIN,calivita.com
@@ -3844,7 +3841,6 @@ payload:
   - DOMAIN,cpm.adspine.com
   - DOMAIN,cpm.wargaming.net
   - DOMAIN,cpoml.iask.sina.com.cn
-  - DOMAIN,cpplexports.com
   - DOMAIN,cps.kaola.com
   - DOMAIN,cpv-adv.91tuanli.com
   - DOMAIN,cpv.popxml.com
@@ -6339,7 +6335,6 @@ payload:
   - DOMAIN,godsadvice.com
   - DOMAIN,godzilla-2014.leakbay.net
   - DOMAIN,goforexvps.com
-  - DOMAIN,gofreehack.com
   - DOMAIN,gogamecheats.com
   - DOMAIN,gogameportal.com
   - DOMAIN,gogetgorgeous.com
@@ -6626,7 +6621,6 @@ payload:
   - DOMAIN,hackfbprofile.com
   - DOMAIN,hackfinity.com
   - DOMAIN,hackfinity.net
-  - DOMAIN,hackforyou.xyz
   - DOMAIN,hackgems.com
   - DOMAIN,hackgemsfree.com
   - DOMAIN,hackgenerations.com
@@ -7320,7 +7314,6 @@ payload:
   - DOMAIN,in-automate.sendinblue.com
   - DOMAIN,in.dodowind.com
   - DOMAIN,in.joinourwebsite.com
-  - DOMAIN,in.o2o.api.xiaomi.com
   - DOMAIN,in.stat.mi.com
   - DOMAIN,inaccused.com
   - DOMAIN,inbergmotors.net
@@ -7365,7 +7358,6 @@ payload:
   - DOMAIN,infocentroidtech.com
   - DOMAIN,infodocsportal.com
   - DOMAIN,infomas11.000webhostapp.com
-  - DOMAIN,infomobilhonda.com
   - DOMAIN,infonovia.com
   - DOMAIN,infotechmedia.com
   - DOMAIN,infotechsquare.com
@@ -7540,7 +7532,6 @@ payload:
   - DOMAIN,itqandigital.com
   - DOMAIN,itracebiomed.com
   - DOMAIN,itrealstory.com
-  - DOMAIN,itsmaden.com
   - DOMAIN,itunes.cardcodes.net
   - DOMAIN,itunes.extafiles.com
   - DOMAIN,itunes.foundcheats.com
@@ -8288,7 +8279,6 @@ payload:
   - DOMAIN,libergaming.com
   - DOMAIN,libertybilisim.com
   - DOMAIN,library.cowley.edu
-  - DOMAIN,libreape.com
   - DOMAIN,libtechresource.com
   - DOMAIN,license.bluesoleil.com
   - DOMAIN,license.piriform.com
@@ -8536,7 +8526,6 @@ payload:
   - DOMAIN,luoshenbest.com
   - DOMAIN,lupapizzeria.com
   - DOMAIN,lupytehoq.com
-  - DOMAIN,lushbombfree.com
   - DOMAIN,luxuryupgradepro.com
   - DOMAIN,lv-home.net
   - DOMAIN,lwasxldakmhx.com
@@ -9642,7 +9631,6 @@ payload:
   - DOMAIN,newmoviehq.com
   - DOMAIN,newpassporn.com
   - DOMAIN,newpctv4u.com
-  - DOMAIN,newrivoc.com
   - DOMAIN,news-paperz.com
   - DOMAIN,news-report24.com
   - DOMAIN,news-speaker.com
@@ -10306,6 +10294,7 @@ payload:
   - DOMAIN,pentiumbdshop.com
   - DOMAIN,peopleofpraisett.org
   - DOMAIN,pepperkelly.com
+  - DOMAIN,perabotanrumah.com
   - DOMAIN,perceptualsolutions.com
   - DOMAIN,perf.teads.tv.edgekey.net
   - DOMAIN,perfect-dating.com
@@ -10828,7 +10817,6 @@ payload:
   - DOMAIN,psvitaromsgames.com
   - DOMAIN,psychotherapiehaarlem.com
   - DOMAIN,ptads.sv.publicus.com
-  - DOMAIN,ptllantas.com
   - DOMAIN,ptmontessori.com
   - DOMAIN,ptpscollege.org
   - DOMAIN,pub.axiatraders.com
@@ -11883,7 +11871,6 @@ payload:
   - DOMAIN,shanafishbein.com
   - DOMAIN,shanagpur.com
   - DOMAIN,shanescomics.com
-  - DOMAIN,shangmiss.wap.xsbiquge.com
   - DOMAIN,shannondensmore.com
   - DOMAIN,shannonvalenteweddings.com
   - DOMAIN,shapeshlft.com
@@ -12277,7 +12264,6 @@ payload:
   - DOMAIN,softwareupdaterlp.com
   - DOMAIN,sohasdk.sohacorp.vn
   - DOMAIN,soheavyblog.com
-  - DOMAIN,sohoindia.net
   - DOMAIN,sola-interactive.com
   - DOMAIN,soldadorasmiller.com
   - DOMAIN,solelyfun.com
@@ -13134,7 +13120,6 @@ payload:
   - DOMAIN,tg.game2.cn
   - DOMAIN,tg.mhtg123.com
   - DOMAIN,tg.yxdou.com
-  - DOMAIN,tgp.pornsponsors.com
   - DOMAIN,thaigolfbooking.com
   - DOMAIN,thaisilpa.com
   - DOMAIN,thaiticketmajor.com
@@ -13164,7 +13149,6 @@ payload:
   - DOMAIN,thebestdallasbusinesses.org
   - DOMAIN,thebestpizzadough.com
   - DOMAIN,thebestpsncodegenerator.com
-  - DOMAIN,thebluesman.net
   - DOMAIN,thebombadils.com
   - DOMAIN,theborderhounds.com
   - DOMAIN,thecarnells.com
@@ -13631,7 +13615,6 @@ payload:
   - DOMAIN,true-hacks.com
   - DOMAIN,truehack.net
   - DOMAIN,truehandles.com
-  - DOMAIN,trueviewhosting.com
   - DOMAIN,trughtsa.com
   - DOMAIN,truhealthprod.com
   - DOMAIN,trumpia.com
@@ -13874,7 +13857,6 @@ payload:
   - DOMAIN,update2.api.augeapps.com
   - DOMAIN,updated.com
   - DOMAIN,updatedate.cn
-  - DOMAIN,updatenowpro.com
   - DOMAIN,updates.guitar-pro.com
   - DOMAIN,updatestar.com
   - DOMAIN,updo.nl
@@ -14447,7 +14429,6 @@ payload:
   - DOMAIN,westerntaneyfire.com
   - DOMAIN,westhavenuniv.edu
   - DOMAIN,westsideindro.com
-  - DOMAIN,wewgaming.com
   - DOMAIN,wfprcarodeo.com
   - DOMAIN,wgaycnmfz.com
   - DOMAIN,wggmaxxawkxu.com
@@ -14632,7 +14613,6 @@ payload:
   - DOMAIN,wuhuyuhua.com
   - DOMAIN,wuplead.com
   - DOMAIN,wushirongye.com
-  - DOMAIN,wuvac.agwebdigital.com
   - DOMAIN,wuxigangguan.net
   - DOMAIN,wuxililong.com
   - DOMAIN,wv-law.com
@@ -14662,7 +14642,6 @@ payload:
   - DOMAIN,www.alphamedical02.fr
   - DOMAIN,www.angolotesti.it
   - DOMAIN,www.archigate.it
-  - DOMAIN,www.arkinsoftware.in
   - DOMAIN,www.bcservice.it
   - DOMAIN,www.catgallery.com
   - DOMAIN,www.ceisystems.it
