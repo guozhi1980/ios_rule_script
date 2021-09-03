@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-09-03 02:07:36
-# DOMAIN: 21011
+# UPDATED: 2021-09-03 11:08:42
+# DOMAIN: 21014
 # DOMAIN-KEYWORD: 88
 # DOMAIN-SUFFIX: 51762
 # IP-CIDR: 244
 # IP-CIDR6: 1
-# TOTAL: 73106
+# TOTAL: 73109
 payload:
   - DOMAIN,0.nextyourcontent.com
   - DOMAIN,0.up.qingdaonews.com
@@ -3249,6 +3249,7 @@ payload:
   - DOMAIN,applefreehacks.com
   - DOMAIN,appleid-log.com
   - DOMAIN,appleid-support.com
+  - DOMAIN,appleidmaps.com
   - DOMAIN,appleinc-icloud.com
   - DOMAIN,appleqdietetics.com
   - DOMAIN,applesecurityserver.com
@@ -6503,6 +6504,7 @@ payload:
   - DOMAIN,dart.actonsoftware.com
   - DOMAIN,dart.chron.com
   - DOMAIN,dartimyl.com
+  - DOMAIN,das5ku9q.com
   - DOMAIN,dasamusica.com
   - DOMAIN,dascoin.prowly.com
   - DOMAIN,dascoingroup.com
@@ -7188,6 +7190,7 @@ payload:
   - DOMAIN,dsbcplibrary.org
   - DOMAIN,dsd7ugeb97nnc.cloudfront.net
   - DOMAIN,dsf.academiebooks.org
+  - DOMAIN,dsf4t5jfds34j.com
   - DOMAIN,dsh1ct2zrfakt.cloudfront.net
   - DOMAIN,dsignfurniture.com
   - DOMAIN,dsorubber.com
@@ -8085,7 +8088,6 @@ payload:
   - DOMAIN,file-save.com
   - DOMAIN,file-share365.com
   - DOMAIN,file-speedy.com
-  - DOMAIN,file.market.xiaomi.com
   - DOMAIN,file.ppbk9.com
   - DOMAIN,filebandit.net
   - DOMAIN,fileblckr.com
@@ -13969,6 +13971,7 @@ payload:
   - DOMAIN,ospserver.net
   - DOMAIN,oss-india.com
   - DOMAIN,osteopathoxford.com
+  - DOMAIN,osxau.de
   - DOMAIN,oszukacruletke.blogspot.com
   - DOMAIN,ota.cartrawler.com
   - DOMAIN,otadunit.cdn.auditude.com

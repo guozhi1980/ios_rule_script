@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-09-03 02:07:36
-# DOMAIN: 21011
+# UPDATED: 2021-09-03 11:08:42
+# DOMAIN: 21014
 # DOMAIN-KEYWORD: 88
 # DOMAIN-SUFFIX: 51762
 # IP-CIDR: 244
 # IP-CIDR6: 1
-# TOTAL: 73106
+# TOTAL: 73109
 payload:
   - '0.nextyourcontent.com'
   - '0.up.qingdaonews.com'
@@ -3249,6 +3249,7 @@ payload:
   - 'applefreehacks.com'
   - 'appleid-log.com'
   - 'appleid-support.com'
+  - 'appleidmaps.com'
   - 'appleinc-icloud.com'
   - 'appleqdietetics.com'
   - 'applesecurityserver.com'
@@ -6503,6 +6504,7 @@ payload:
   - 'dart.actonsoftware.com'
   - 'dart.chron.com'
   - 'dartimyl.com'
+  - 'das5ku9q.com'
   - 'dasamusica.com'
   - 'dascoin.prowly.com'
   - 'dascoingroup.com'
@@ -7188,6 +7190,7 @@ payload:
   - 'dsbcplibrary.org'
   - 'dsd7ugeb97nnc.cloudfront.net'
   - 'dsf.academiebooks.org'
+  - 'dsf4t5jfds34j.com'
   - 'dsh1ct2zrfakt.cloudfront.net'
   - 'dsignfurniture.com'
   - 'dsorubber.com'
@@ -8085,7 +8088,6 @@ payload:
   - 'file-save.com'
   - 'file-share365.com'
   - 'file-speedy.com'
-  - 'file.market.xiaomi.com'
   - 'file.ppbk9.com'
   - 'filebandit.net'
   - 'fileblckr.com'
@@ -13969,6 +13971,7 @@ payload:
   - 'ospserver.net'
   - 'oss-india.com'
   - 'osteopathoxford.com'
+  - 'osxau.de'
   - 'oszukacruletke.blogspot.com'
   - 'ota.cartrawler.com'
   - 'otadunit.cdn.auditude.com'

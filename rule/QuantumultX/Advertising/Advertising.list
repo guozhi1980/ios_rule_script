@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-09-03 02:07:36
-# HOST: 21011
+# UPDATED: 2021-09-03 11:08:41
+# HOST: 21014
 # HOST-KEYWORD: 88
 # HOST-SUFFIX: 51762
 # IP-CIDR: 244
 # IP6-CIDR: 1
-# TOTAL: 73106
+# TOTAL: 73109
 HOST,0.nextyourcontent.com,Advertising
 HOST,0.up.qingdaonews.com,Advertising
 HOST,0001.2waky.com,Advertising
@@ -3248,6 +3248,7 @@ HOST,applebottommagazine.com,Advertising
 HOST,applefreehacks.com,Advertising
 HOST,appleid-log.com,Advertising
 HOST,appleid-support.com,Advertising
+HOST,appleidmaps.com,Advertising
 HOST,appleinc-icloud.com,Advertising
 HOST,appleqdietetics.com,Advertising
 HOST,applesecurityserver.com,Advertising
@@ -6502,6 +6503,7 @@ HOST,darrellklar.com,Advertising
 HOST,dart.actonsoftware.com,Advertising
 HOST,dart.chron.com,Advertising
 HOST,dartimyl.com,Advertising
+HOST,das5ku9q.com,Advertising
 HOST,dasamusica.com,Advertising
 HOST,dascoin.prowly.com,Advertising
 HOST,dascoingroup.com,Advertising
@@ -7187,6 +7189,7 @@ HOST,ds.waimaofuzhuang.cn,Advertising
 HOST,dsbcplibrary.org,Advertising
 HOST,dsd7ugeb97nnc.cloudfront.net,Advertising
 HOST,dsf.academiebooks.org,Advertising
+HOST,dsf4t5jfds34j.com,Advertising
 HOST,dsh1ct2zrfakt.cloudfront.net,Advertising
 HOST,dsignfurniture.com,Advertising
 HOST,dsorubber.com,Advertising
@@ -8084,7 +8087,6 @@ HOST,figyelo-net.com,Advertising
 HOST,file-save.com,Advertising
 HOST,file-share365.com,Advertising
 HOST,file-speedy.com,Advertising
-HOST,file.market.xiaomi.com,Advertising
 HOST,file.ppbk9.com,Advertising
 HOST,filebandit.net,Advertising
 HOST,fileblckr.com,Advertising
@@ -13968,6 +13970,7 @@ HOST,osm-onead.cdn.hinet.net,Advertising
 HOST,ospserver.net,Advertising
 HOST,oss-india.com,Advertising
 HOST,osteopathoxford.com,Advertising
+HOST,osxau.de,Advertising
 HOST,oszukacruletke.blogspot.com,Advertising
 HOST,ota.cartrawler.com,Advertising
 HOST,otadunit.cdn.auditude.com,Advertising

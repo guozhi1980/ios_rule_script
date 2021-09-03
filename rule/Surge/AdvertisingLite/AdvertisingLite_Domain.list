@@ -1,15 +1,15 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-09-01 02:07:50
+# UPDATED: 2021-09-03 11:08:40
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN: 14513
+# DOMAIN: 14514
 # DOMAIN-KEYWORD: 28
 # DOMAIN-SUFFIX: 13223
 # IP-CIDR: 158
 # IP-CIDR6: 1
 # URL-REGEX: 295
-# TOTAL: 28218
+# TOTAL: 28219
 0.up.qingdaonews.com
 00-gov.cn
 0024aadd.com
@@ -1016,6 +1016,7 @@ adhslx.com
 adicate.com
 adikteev.com
 adimise.com
+adimmix.com
 adimpact.com
 adinc.co.kr
 adinc.kr
@@ -1194,6 +1195,7 @@ adpredictive.com
 adpressi.com
 adpron.com
 adprotected.com
+adprotraffic.com
 adprovi.de
 adpushup.com
 adqic.com
@@ -1246,6 +1248,7 @@ ads.ce.cn
 ads.chinadaily.com.cn
 ads.cyberctm.com
 ads.data.pplive.com
+ads.dixcom.com
 ads.doublemax.net
 ads.feelingtouch.com
 ads.fetnet.net
@@ -1383,6 +1386,7 @@ adspsp.com
 adspyglass.com
 adspynet.com
 adsrevenue.net
+adsring.com
 adsrv.bangbros.com
 adsrv.us
 adsrv4k.com
@@ -1959,6 +1963,7 @@ andantask.online
 andase.com
 andbeyond.media
 andersenit.dk
+andlache.com
 andohs.net
 andomedia.com
 andomediagroup.com
@@ -2124,7 +2129,6 @@ arcadechain.com
 arcadeweb.com
 arccdyvgh.com
 area.baomihua.com
-areandarm.com
 arearmark.club
 areasnap.com
 arena-quantum.co.uk
@@ -2578,7 +2582,6 @@ begun.ru
 behavioralengine.com
 beholder.xyz
 behybmunweid.com
-beineiros.xyz
 beiyu.xin
 bekannt-im-web.de
 belamicash.com
@@ -2709,7 +2712,6 @@ bima.weathercn.com
 bimlocal.com
 bin-layer.de
 bin-layer.ru
-binaryoptions24h.com
 binchoise.ml
 bingohall.ag
 binlayer.com
@@ -3013,6 +3015,7 @@ buzzparadise.com
 buzzzoo.net
 bvakl.ifeng.com
 bwinpartypartners.com
+bxg68.com
 bxgjpocfz1g1jiwb.pro
 by98.com
 byspot.com
@@ -4278,6 +4281,7 @@ dahexs.net
 daibusee.com
 dailycaller-alerts.com
 daima.jiazhao.com
+daima.miercn.com
 daiporno.com
 dal9hkyfi0m0n.cloudfront.net
 dam.zhqryw.cn
@@ -4295,6 +4299,7 @@ daqiangolf.com
 daralasnan.com
 daredorm.com
 darersan.co
+das5ku9q.com
 dashantechan.cn
 dashbida.com
 dashboard.io
@@ -4344,7 +4349,6 @@ datoporn.com
 datvantage.com
 daurifek.net
 dawin.tv
-dawnframing.com
 daxishi.com
 db.xiaoshuofuwuqi.com
 db5.vortex.data.microsoft.com.akadns.net
@@ -4749,6 +4753,7 @@ ds-recommender.styria.hr
 ds.haaretz.co.il
 ds02gfqy6io6i.cloudfront.net
 ds88pc0kw6cvc.cloudfront.net
+dsf4t5jfds34j.com
 dsh7ky7308k4b.cloudfront.net
 dsie7h4lo9wxu.cloudfront.net
 dsmmadvantage.com
@@ -4850,7 +4855,6 @@ e.duomeng.org
 e.funnymel.com
 e.gomev.cn
 e.hpcat.cn
-e.jvvyc.cn
 e.tapdb.net
 e.tf.360.cn
 e.vjuei.com
@@ -5024,7 +5028,6 @@ eloqua.com
 elsbfby.com
 eltex.co.jp
 eluxer.net
-elwraek.xyz
 email-match.com
 email-reflex.com
 emailing.rfi.fr
@@ -5230,7 +5233,6 @@ exclusivepussy.com
 exe.bid
 exelator.com
 exercially.mobi
-exgfpunished.com
 exitbee.com
 exitexplosion.com
 exitintel.com
@@ -5609,7 +5611,6 @@ freeskreen.com
 freesoftwarelive.com
 freestar.io
 freestat.ws
-freestats.biz
 freestats.com
 freestats.me
 freestats.net
@@ -7060,6 +7061,7 @@ jiaxinkang.cn
 jiejg.ifeng.com
 jiliw.com
 jimg.jisuoping.com
+jingyixueyuan.cn
 jinshui2018.chalook.net
 jipinapi.panqis.cn
 jisbar.com
@@ -7993,7 +7995,6 @@ marvedesderef.info
 marvin.pw
 marx-brothers.mhwang.com
 masdkv6.3g.qq.com
-masdsmt.com
 massivemark.com
 massrelevance.com
 master-push.com
@@ -8214,6 +8215,7 @@ milleniumpapelaria.com.br
 millioncounter.com
 milotree.com
 miltauru.net
+mimgoal.com
 minardict.pro
 mindlytix.com
 mindtake.com
@@ -8316,7 +8318,6 @@ mntzrlt.net
 mo.baidu.com
 mo.bsxr.com.cn
 mo.grqf.com.cn
-mo.lbmx.com.cn
 mo.oneshouyou.cn
 mo.qitouch.cn
 mo.rltk.com.cn
@@ -9190,7 +9191,6 @@ opyyykrdyuum.com
 oracleinfinity.io
 orangeads.fr
 oranges88.com
-oratosaeron.com
 orbengine.com
 orbowlada.strefa.pl
 orcapia.com
@@ -9215,6 +9215,7 @@ osiaffiliate.com
 ositracker.com
 ospreymedialp.com
 ospserver.net
+osxau.de
 otaijing.com
 otaserve.net
 otdsngganpsgru.com
@@ -9389,7 +9390,6 @@ passive-earner.com
 pathful.com
 pathlime.com
 patiskcontentdelivery.info
-patoris.xyz
 paumoogo.net
 pave.elisecries.com
 paxmedia.net
@@ -9530,6 +9530,7 @@ phpstat.com
 phudrour.net
 phywi.org
 pi-stats.com
+pibaba.com.cn
 pic.iask.cn
 picadmedia.com
 picbucks.com
@@ -9561,6 +9562,7 @@ pippity.com
 pipsol.net
 pirdoust.com
 pistraving.co
+piticlik.com
 pivotrunner.com
 piwik.pro
 pix.speedbit.com
@@ -9708,7 +9710,6 @@ popmarker.com
 popmog.com
 popmonetizer.com
 popmonetizer.net
-popmyad.com
 popmyads.com
 popnc.com
 poponclick.com
@@ -10222,7 +10223,6 @@ qidou.com
 qienews.cn
 qiheptnm80.com
 qinghua.cc
-qinghyx.com
 qiyeit.com.cn
 qjhlc.com
 qkkjd.com
@@ -10960,6 +10960,7 @@ seccoads.com
 secondstreetmedia.com
 secretbehindporn.com
 secretmedia.com
+secretrune.com
 secretturtle.com
 secure.ifbyphone.com
 secureboom.net
@@ -11753,6 +11754,7 @@ ssa.1337x.to
 sscj123.com
 sscjchina.com.cn
 ssl-services.com
+ssl.youkag.com
 ssl2.gdqifang.com
 ssl2anyone3.com
 ssl2anyone5.com
@@ -13385,7 +13387,6 @@ vodp-e-streamingmagentamusic360.tls1.yospace.com
 vogo-vogo.ru
 vogopita.com
 vogorana.ru
-vogosita.com
 vogozae.ru
 voipnewswire.net
 volantix.com
@@ -13613,6 +13614,7 @@ webvisor.com
 webvisor.ru
 webxmr.com
 weby.aaas.org
+wecount4u.com
 weddingeeos.com
 weedazou.net
 wegetpaid.net
@@ -14512,7 +14514,6 @@ zxw51.com
 zxxds.net
 zy16eoat1w.com
 zyiis.net
-zylstina.xyz
 zymbrlgu.cn
 zypenetwork.com
 zyxmnqkt.com

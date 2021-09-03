@@ -1,14 +1,14 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-09-03 02:07:37
+# UPDATED: 2021-09-03 11:08:43
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN: 15314
+# DOMAIN: 15317
 # DOMAIN-KEYWORD: 88
-# DOMAIN-SUFFIX: 81040
+# DOMAIN-SUFFIX: 81102
 # IP-CIDR: 1
 # URL-REGEX: 301
-# TOTAL: 96744
+# TOTAL: 96809
 0001.2waky.com
 000lk3v.wcomhost.com
 000lkub.rcomhost.com
@@ -1826,6 +1826,7 @@ applebottommagazine.com
 applefreehacks.com
 appleid-log.com
 appleid-support.com
+appleidmaps.com
 appleinc-icloud.com
 appleqdietetics.com
 applesecurityserver.com
@@ -4119,6 +4120,7 @@ dark-forum.net
 darmowe-ebooki.net
 darmowetesty.com
 darrellklar.com
+das5ku9q.com
 dasamusica.com
 dascoin.prowly.com
 dascoingroup.com
@@ -4660,6 +4662,7 @@ ds.waimaofuzhuang.cn
 dsbcplibrary.org
 dsd7ugeb97nnc.cloudfront.net
 dsf.academiebooks.org
+dsf4t5jfds34j.com
 dsignfurniture.com
 dsorubber.com
 dsp-vast.unityads.unity3d.com
@@ -5410,7 +5413,6 @@ fightingcancer.net
 file-save.com
 file-share365.com
 file-speedy.com
-file.market.xiaomi.com
 file.ppbk9.com
 filebandit.net
 fileblckr.com
@@ -6300,6 +6302,7 @@ gmod-free.com
 gmodfree.com
 gmtrack.net
 gnytravel.com
+go-mpulse.net.edgekey.net
 go-quicky.com
 go-waters.com
 go.ad2upapp.com
@@ -15521,6 +15524,7 @@ zzz.clickbank.net
 .0ka.com
 .0klxjejyxak3.com
 .0mr.cc
+.0myksyhuuz.cn
 .0n6h.cn
 .0nin.cn
 .0o.868iy.cn
@@ -16852,6 +16856,7 @@ zzz.clickbank.net
 .4py3oe.cn
 .4qn1k.cn
 .4rabettraff.com
+.4rgm6z478o.cn
 .4rm.de
 .4rt6auqet2rx.com
 .4s5n.cn
@@ -18743,6 +18748,7 @@ zzz.clickbank.net
 .aajxkw.mootoon.co.kr
 .aakkzzz.com
 .aalaan.tv
+.aaliyaheartha.com
 .aam.gumtree.com.au
 .aamapi.com
 .aamsitecertifier.com
@@ -23985,6 +23991,7 @@ zzz.clickbank.net
 .adzos.com
 .adzouk.com
 .adzouk1tag.com
+.adzpier.com
 .adzpower.com
 .adzrevads.com
 .adzs.com
@@ -24643,6 +24650,7 @@ zzz.clickbank.net
 .ajpxs.xyz
 .ajtctiiiaz.com
 .ajuhd.com
+.ajur.info
 .ajwssds.com
 .ajx130.online
 .ak-events-collector.spot.im
@@ -26268,7 +26276,6 @@ zzz.clickbank.net
 .api.splkmobile.com
 .api.ssp.adoceans.com
 .api.starsmp.com
-.api.stats.promoapka.pl
 .api.telemetry.watchabc.go.com
 .api.tinyhoneybee.com
 .api.tllms.com
@@ -28268,6 +28275,7 @@ zzz.clickbank.net
 .bannerads.anytimenews.com
 .bannerads.de
 .bannerads.zwire.com
+.banneradsday.com
 .bannerbank.ru
 .bannerbit.com
 .bannerboo.com
@@ -28414,6 +28422,7 @@ zzz.clickbank.net
 .bannuncio.com
 .banofusa.com
 .banomago.com
+.banonemind.com
 .banreklama.ru
 .banroads.com
 .bans.bride.ru
@@ -28550,6 +28559,7 @@ zzz.clickbank.net
 .bayctrk.com
 .bayfluke.com
 .bayhypertpb.be
+.bayil.cn
 .bayimob.com
 .bayirksrap.com
 .baynote.net
@@ -30269,7 +30279,6 @@ zzz.clickbank.net
 .bounce.bar
 .bounceads.net
 .bounceexchange.com
-.bounceme.net
 .bouncepilot.com
 .bouncex.com
 .bouncyproperty.com
@@ -31111,6 +31120,7 @@ zzz.clickbank.net
 .bytemgdd.com
 .bytlo.com
 .byujf.cn
+.byvihare.com
 .byvngx98ssphwzkrrtsjhnbyz5zss81dxygxvlqd05.com
 .byvue.com
 .byvuleci.pro
@@ -31313,6 +31323,7 @@ zzz.clickbank.net
 .c10ed2b8b417880.com
 .c12bleue.com
 .c1313.f28014.cn
+.c153yb4hps.ru
 .c15fb199d1ea.com
 .c16cp358.com
 .c19f2.cn
@@ -31618,6 +31629,7 @@ zzz.clickbank.net
 .cappens-dreperor.com
 .cappumedia.com
 .cappushino.com
+.capriceprop.com
 .capriciouscorn.com
 .capricornnestlevile.com
 .caprofitx.com
@@ -32537,6 +32549,7 @@ zzz.clickbank.net
 .chaicdn.tk
 .chainads.io
 .chainblock.science
+.chaingab.net
 .chainsawoffer.com
 .chaintopdom.nl
 .chainwalladsy.com
@@ -32889,6 +32902,7 @@ zzz.clickbank.net
 .chpfgx.com
 .chpok.pw
 .chqspuonctkgz.com
+.chqsw.cn
 .christian.lifeway.com
 .christianbusinessadvertising.com
 .christians.lifeway.com
@@ -33678,6 +33692,7 @@ zzz.clickbank.net
 .clonezilla.es
 .clonezilla.fr
 .cloot.ga
+.closedcows.com
 .closefly.com
 .closeoutproductsreview.com
 .closestfantasticpoll.com
@@ -34505,6 +34520,7 @@ zzz.clickbank.net
 .comwgi.com
 .conabi.xjditan.com
 .conative.de
+.concd.cn
 .conceiveintentlybookie.com
 .concentleconse.site
 .concentratebeauabsolute.com
@@ -36144,6 +36160,7 @@ zzz.clickbank.net
 .cweclub.cn
 .cwgads.com
 .cwgwgo.ecanta.com.tr
+.cwhsmgs1.cn
 .cwj2h.cn
 .cwkuki.com
 .cwlehfntz.com
@@ -36239,6 +36256,7 @@ zzz.clickbank.net
 .cyto-biotherapy.com
 .cytoclause.com
 .cytrkxfzkxrjv.com
+.cytxt.com
 .cyudkx.panafoto.com
 .cyulewkqz.com
 .cyveillance.com
@@ -36630,11 +36648,13 @@ zzz.clickbank.net
 .d2so4705rl485y.cloudfront.net
 .d2sucq8qh4zqzj.cloudfront.net
 .d2t77mnxyo7adj.cloudfront.net
+.d2t7a3zbo166a9.cloudfront.net
 .d2taktuuo4oqx.cloudfront.net
 .d2tcg4i9q4js4a.cloudfront.net
 .d2tgfbvjf3q6hn.cloudfront.net
 .d2tkdzior84vck.cloudfront.net
 .d2u1npnnqecmpq.cloudfront.net
+.d2u6dc21frjf6h.cloudfront.net
 .d2uap9jskdzp2.cloudfront.net
 .d2uepos3ef6db0.cloudfront.net
 .d2uhnetoehh304.cloudfront.net
@@ -36920,6 +36940,7 @@ zzz.clickbank.net
 .dadskis.com
 .dadskiz.com
 .dadslims.com
+.dadslimz.com
 .dadsoks.com
 .dadsokz.com
 .dadspms.com
@@ -37499,6 +37520,7 @@ zzz.clickbank.net
 .ddhuangchao.com
 .ddioce.wolverine.com
 .ddivisitdiffi.club
+.ddkbxqvf.com
 .ddkkrrla.m.qxs.la
 .ddl.3g567.com
 .ddm.io
@@ -37509,6 +37531,7 @@ zzz.clickbank.net
 .ddomm.com
 .ddot.xyz
 .ddpaowanji.com
+.ddpwhd77eg.ru
 .ddpxhq.cn
 .ddrrccck.m.qxs.la
 .dds.sogua.com
@@ -38400,6 +38423,7 @@ zzz.clickbank.net
 .diseasonal.club
 .disembarkappendix.com
 .disgraceextended.com
+.disguisemayhem.com
 .disguisesirrational.com
 .disguisesunattractive.com
 .disgustingvoluntarilykiss.com
@@ -40545,6 +40569,7 @@ zzz.clickbank.net
 .ednplus.com
 .edo5.com
 .edococounter.de
+.edoedrl.cn
 .edog2017.karyamedia.net
 .edomz.com
 .edomz.net
@@ -41425,6 +41450,7 @@ zzz.clickbank.net
 .enhance-config.fgl.com
 .enhance.com
 .enhancereviewpacket.com
+.enhencer.com
 .enhucherions.xyz
 .eniousirre.top
 .enjoyingbind.com
@@ -43498,6 +43524,7 @@ zzz.clickbank.net
 .firstload.com
 .firstload.de
 .firstparty.alloyio.com
+.firstpromoter.com
 .firstsponsor.de
 .firsttrack.ru
 .fisari.com
@@ -46128,7 +46155,6 @@ zzz.clickbank.net
 .go-in-search.net
 .go-mpulse
 .go-mpulse.net
-.go-mpulse.net.edgekey.net
 .go-rank.de
 .go-rillatrack.com
 .go-route.com
@@ -47517,6 +47543,7 @@ zzz.clickbank.net
 .happyyong.com
 .haprjb.com
 .haraads.com
+.haracteris.club
 .haracticdag.fun
 .haractice.club
 .haradeiu.rocks
@@ -47623,6 +47650,7 @@ zzz.clickbank.net
 .hbagency.it
 .hbalx.cn
 .hbaog.com
+.hbawqr.com
 .hbb.afl.rakuten.co.jp
 .hbbww.com
 .hbchwmrqb.bid
@@ -47784,6 +47812,7 @@ zzz.clickbank.net
 .hearob.klix.ba
 .hearsmugglergarden.com
 .heartbeat.flickr.com
+.heartbeats.prd.data.s.joyn.de
 .heartbrokendilapidation.com
 .heartbrokenscallion.com
 .hearthcoronation.com
@@ -48553,6 +48582,7 @@ zzz.clickbank.net
 .hodling.faith
 .hoegutvie.com
 .hoemasfat.site
+.hofofici.com
 .hogantgot.com
 .hogyp.com
 .hohosearch.com
@@ -49585,6 +49615,7 @@ zzz.clickbank.net
 .icbwyfg.pro
 .iccee.com
 .iccompanzens.fun
+.icdazoy.cn
 .icdecidents.biz
 .icdirect.com
 .icdxc.com
@@ -49798,6 +49829,7 @@ zzz.clickbank.net
 .igetui.com
 .igexin.com
 .igg.biz
+.igig87.cn
 .igiheonline.com
 .igj5y.yongchanghengyuan.com
 .iglaique.net
@@ -50249,6 +50281,7 @@ zzz.clickbank.net
 .immersedcopythinking.com
 .immigrantarchipelagopoetic.com
 .immob.cn
+.immortalsplashslob.com
 .imms1.macau.ctm.net
 .immugendx.com
 .immunepine.com
@@ -51953,6 +51986,7 @@ zzz.clickbank.net
 .jas.indeednps.com
 .jasaiklan.com
 .jashautchord.com
+.jasjei2ejk.ru
 .jaskolski.biz
 .jasmin.com
 .jasonsvid.com
@@ -53204,6 +53238,7 @@ zzz.clickbank.net
 .k859n.cn
 .k8dl08.cc
 .k8sport.com
+.k8trangphim.com
 .k8vina17.com
 .k8vn03.com
 .k8yy.tv
@@ -53478,6 +53513,7 @@ zzz.clickbank.net
 .ketstheralinver.info
 .kevabila.com
 .keweifuwu.shop
+.kewhexethe.com
 .kewithrittit.ru
 .kewuruve.xyz
 .kexigia.com
@@ -54658,6 +54694,7 @@ zzz.clickbank.net
 .lchar.com
 .lchbsv.tesser.ru
 .lciapi.ninthdecimal.com
+.lcloc.com
 .lcmqyl.cn
 .lcnf.pro
 .lcodff.uta-net.com
@@ -55080,6 +55117,7 @@ zzz.clickbank.net
 .lhcqbim.cn
 .lhcyii.cn
 .lhengilin.com
+.lhhrupisllmy.com
 .lhhxlj.com
 .lhinsights.com
 .lhljbgevp.com
@@ -57585,6 +57623,7 @@ zzz.clickbank.net
 .madcpms.com
 .maddeningpowder.com
 .madeleinekrook.nl
+.mademoisellewang.com
 .madhouse.cn
 .madinad.com
 .madisonavenue.com
@@ -62876,6 +62915,7 @@ zzz.clickbank.net
 .napitrend.blogspot.hu
 .napiujsag.hu
 .naplo-extra.com
+.nappyattack.com
 .nappybedcandid.com
 .naqboz.eadwyden.com.br
 .naqigs.com
@@ -63408,7 +63448,6 @@ zzz.clickbank.net
 .newpush.support
 .newredirect.net
 .newrelic.com
-.newrelic.map.fastly.net
 .newrrb.bid
 .news-37876-mshome.com
 .news-389767-mshome.com
@@ -64539,6 +64578,7 @@ zzz.clickbank.net
 .nv.5.p2l.info
 .nv43.com
 .nvbwgk.com
+.nvemalwh.cn
 .nvergetpatr.top
 .nviolinami.fun
 .nvironymscli.info
@@ -67021,6 +67061,7 @@ zzz.clickbank.net
 .parcelcommitted.com
 .parcelcreature.com
 .parchedangle.com
+.parchedsofa.com
 .parchlusciousepoch.com
 .parchmentwhale.com
 .parcle.io
@@ -67387,6 +67428,7 @@ zzz.clickbank.net
 .pdfbs.com
 .pdfcomplete.com
 .pdfexpert.cc
+.pdflive.org
 .pdfmxsh.cn
 .pdheuryopd.loan
 .pdiinfo.com.cn
@@ -67818,6 +67860,7 @@ zzz.clickbank.net
 .philstraffic.com
 .phimmedia03.com
 .phinker.ru
+.phipobywhy.com
 .phirgese.com
 .phiriaxi.com
 .phjml.cn
@@ -68909,6 +68952,7 @@ zzz.clickbank.net
 .popclck.net
 .popclck.org
 .popclick.net
+.popclow.xyz
 .popcornews.me
 .popcornvod.com
 .popcpm.com
@@ -70755,6 +70799,7 @@ zzz.clickbank.net
 .qbissc.mutnam.com
 .qbittorrent.com
 .qbj8.com
+.qbjsymmi0w.cn
 .qbkzvophvva.com
 .qblkeu.vamvelosiped.ru
 .qbooos.cairosales.com
@@ -70771,6 +70816,7 @@ zzz.clickbank.net
 .qc.designervn.net
 .qc.itsgroup.vn
 .qc.japo.vn
+.qc.kqbd88.com
 .qc.violet.vn
 .qcblzn.pinkpanda.it
 .qccoccocmedia.vn
@@ -71129,6 +71175,7 @@ zzz.clickbank.net
 .qreparaguaq.club
 .qreport.qunar.com
 .qrezvwhtppiv.com
+.qrhlgdak.cn
 .qring-tms.qq.com
 .qrirufliyj.com
 .qrius.me
@@ -73248,7 +73295,9 @@ zzz.clickbank.net
 .rotdubboy.com
 .rote8mino.com
 .rotfrigilityfrigility.com
+.rothermophony.com
 .rothoglyro.pro
+.rothupegri.com
 .rotobanner468.utro.ru
 .rotorads.com
 .rottenwhorememe.cf
@@ -75181,6 +75230,7 @@ zzz.clickbank.net
 .sdytsh.com
 .sdziy.us
 .se.360.cn
+.se42ade5e3son7ing.com
 .se967.com
 .sea-nov-1.com
 .sea.net.edu.cn
@@ -75694,6 +75744,7 @@ zzz.clickbank.net
 .separationreverttap.com
 .separenujilo.club
 .sephora-qa.branchstaging.com
+.sepox.xyz
 .septembership.com
 .sepyra.com
 .sequently.club
@@ -79167,6 +79218,7 @@ zzz.clickbank.net
 .soso.ws
 .sosohmmen.club
 .sostats.mozilla.com
+.sotchoft.net
 .sotuktraffic.com
 .soua.com
 .souacode.com
@@ -79559,6 +79611,7 @@ zzz.clickbank.net
 .spontaneousshady.com
 .spoods.io
 .spoods.rce.veeseo.com
+.spookysleet.com
 .spookyslope.com
 .spoonshandyman.com
 .spoonslaxoil.com
@@ -81436,6 +81489,7 @@ zzz.clickbank.net
 .stepkeydo.com
 .stepmotherembroidery.com
 .stepmotherillegaldepressing.com
+.steppevegetationforefather.com
 .stepplane.com
 .steptaik.net
 .stereoproxy.com
@@ -81711,6 +81765,7 @@ zzz.clickbank.net
 .stupendouspeacock.com
 .stupendousselection.com
 .stupendoussleet.com
+.stupendoussnow.com
 .stupidsnake.com
 .sturdyinvaluable.com
 .sturgeon.petjeaf.net
@@ -82626,7 +82681,6 @@ zzz.clickbank.net
 .t.etraveli.com
 .t.felmat.net
 .t.festo.com
-.t.firstpromoter.com
 .t.flix360.com
 .t.flux.com
 .t.freelancer.com
@@ -83926,6 +83980,7 @@ zzz.clickbank.net
 .thepornsurvey.com
 .thepounder.com
 .thepubedo.com
+.thequin.ai
 .therapistla.com
 .therapistpopulationcommentary.com
 .theredirect.net
@@ -84171,6 +84226,7 @@ zzz.clickbank.net
 .ticrowdingne.club
 .tics.seeker.gg
 .tics.techdirt.com
+.ticsandski.club
 .tidafors.xyz
 .tidaltv.com
 .tidaltv.com.akadns.net
@@ -84267,6 +84323,7 @@ zzz.clickbank.net
 .tinypap.cn
 .tinyppa.cn
 .tinystat.ir
+.tinytendency.com
 .tinyurler.com
 .tinyweene.com
 .tiojk.com
@@ -84487,7 +84544,6 @@ zzz.clickbank.net
 .tlrrlomssbt.com
 .tls.dxsvr.com
 .tls.thelibrarystore.com
-.tls10.newrelic.com.cdn.cloudflare.net
 .tluumnjyrc.com
 .tlvmedia.com
 .tlwl1.cn
@@ -85834,6 +85890,7 @@ zzz.clickbank.net
 .tracker.bestshopping.com
 .tracker.blueprintinteractivetest.com
 .tracker.blutv.com
+.tracker.bongngo.bar
 .tracker.bongngo.store
 .tracker.bonnint.net
 .tracker.brainsins.com
@@ -85860,6 +85917,7 @@ zzz.clickbank.net
 .tracker.fado.vn
 .tracker.financialcontent.com
 .tracker.giftd.ru
+.tracker.gigaphim.com
 .tracker.icerocket.com
 .tracker.idg.co.uk
 .tracker.idocdn.com
@@ -85909,6 +85967,7 @@ zzz.clickbank.net
 .tracker.svcoffer.com
 .tracker.swedish.org
 .tracker.tgbus.com
+.tracker.thichxemphim.net
 .tracker.thinkermail.com
 .tracker.thinkindot.com
 .tracker.timesgroup.com
@@ -88899,6 +88958,7 @@ zzz.clickbank.net
 .vai1hqegr2ou.ru
 .vaia06o630os.com
 .vaigowoa.com
+.vaileeps.com
 .vainews.cn
 .vaipsona.com
 .vaipsouw.com
@@ -91762,6 +91822,7 @@ zzz.clickbank.net
 .wm.szdushi.com.cn
 .wm17666.com
 .wma.io
+.wmbd.gamersky.com
 .wmbuilr.cn
 .wmcasher.ru
 .wmcdp.io
@@ -93109,6 +93170,7 @@ zzz.clickbank.net
 .www91.intel.la
 .www91.intel.pl
 .www91.intel.ru
+.www99.bounceme.net
 .www99.fdns.net
 .www99.zapto.org
 .wwwadcntr.com
@@ -93377,6 +93439,7 @@ zzz.clickbank.net
 .xbcnvj2mdk1dn1.com
 .xberu.com
 .xbidflare.com
+.xbirmkzpgcnb.com
 .xbmhm.xyz
 .xbmwyidqbeiv.com
 .xbnvucutpcq.com
@@ -95195,6 +95258,7 @@ zzz.clickbank.net
 .yuggcd.com
 .yuhuads.com
 .yuhuanjiuye.com
+.yuhvjuedhcu.com
 .yuituityula.com
 .yujianai520.com
 .yujiangchu.com
@@ -95904,6 +95968,7 @@ zzz.clickbank.net
 .zjlanbi.com
 .zjlfqf.com
 .zjlovexb.xyz
+.zjlv.top
 .zjo0tjqpm1.com
 .zjrtuhds.top
 .zjsyawqj.cn
