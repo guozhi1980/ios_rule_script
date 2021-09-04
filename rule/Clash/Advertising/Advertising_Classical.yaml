@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-09-04 02:08:15
-# DOMAIN: 20991
+# UPDATED: 2021-09-05 02:06:42
+# DOMAIN: 20985
 # DOMAIN-KEYWORD: 88
 # DOMAIN-SUFFIX: 51762
 # IP-CIDR: 244
 # IP-CIDR6: 1
-# TOTAL: 73086
+# TOTAL: 73080
 payload:
   - DOMAIN,0.nextyourcontent.com
   - DOMAIN,0.up.qingdaonews.com
@@ -43,7 +43,6 @@ payload:
   - DOMAIN,024xuyisheng.com
   - DOMAIN,03383bd.netsolhost.com
   - DOMAIN,04.jh-api.nym2.appnexus.com
-  - DOMAIN,042707d90914.agrigid.com
   - DOMAIN,0440082.wcomhost.com
   - DOMAIN,0511zfhl.com
   - DOMAIN,06works-plus.com
@@ -2282,7 +2281,6 @@ payload:
   - DOMAIN,adstream.cardboardfish.com
   - DOMAIN,adsupplyads.net
   - DOMAIN,adsvr.deviantart.com
-  - DOMAIN,adswakeup.com
   - DOMAIN,adsxgm.com
   - DOMAIN,adsynergy.com
   - DOMAIN,adsys.townnews.com
@@ -2607,7 +2605,6 @@ payload:
   - DOMAIN,ak1.imgaft.com
   - DOMAIN,aka-root.com
   - DOMAIN,akamedia.000webhostapp.com
-  - DOMAIN,akariyer.com
   - DOMAIN,akcdinzvcenhjh.com
   - DOMAIN,akeeperoftime.com
   - DOMAIN,akirkpatrick.com
@@ -4475,6 +4472,7 @@ payload:
   - DOMAIN,butegayrimenkul.com
   - DOMAIN,buttcandy.com
   - DOMAIN,button.clickability.com
+  - DOMAIN,buttons-for-website.com
   - DOMAIN,bux1le001.com
   - DOMAIN,buxomcosmetics.com
   - DOMAIN,buy-banner.com
@@ -5508,7 +5506,6 @@ payload:
   - DOMAIN,clashofclanshack.com
   - DOMAIN,clashofclanshack.leakbay.net
   - DOMAIN,clashofclanshackcheat.com
-  - DOMAIN,clashofclanshackonline.com
   - DOMAIN,clashofclanshackz.com
   - DOMAIN,clashofclanshelper.com
   - DOMAIN,clashofclanstool.com
@@ -5910,7 +5907,6 @@ payload:
   - DOMAIN,config.shazamid.com
   - DOMAIN,config.unityads.unitychina.cn
   - DOMAIN,config.youzu.com
-  - DOMAIN,conflibred.co
   - DOMAIN,confortrans.com
   - DOMAIN,congchuzs.com
   - DOMAIN,congnghevienthong.com
@@ -5940,6 +5936,7 @@ payload:
   - DOMAIN,contactreserve.com
   - DOMAIN,contactsin.com
   - DOMAIN,content.joinaxxess.com
+  - DOMAIN,content.liveuniverse.com
   - DOMAIN,content.mkt922.com
   - DOMAIN,content.mkt931.com
   - DOMAIN,content.mkt932.com
@@ -10041,6 +10038,7 @@ payload:
   - DOMAIN,hudetprosto.com
   - DOMAIN,hufimezaj.000webhostapp.com
   - DOMAIN,huge-gay-cock.com
+  - DOMAIN,hugebestbuy.cn
   - DOMAIN,hugefileshare.com
   - DOMAIN,hugersoft.com
   - DOMAIN,hugosconsultores.com
@@ -12289,7 +12287,6 @@ payload:
   - DOMAIN,mdnhinc.com
   - DOMAIN,mdownzone.com
   - DOMAIN,mdstrat.actonsoftware.com
-  - DOMAIN,mdt.grandtraversedesign.com
   - DOMAIN,measuread.com
   - DOMAIN,measurelyapp.com
   - DOMAIN,meatspin.com
@@ -13281,7 +13278,6 @@ payload:
   - DOMAIN,negarpartition.com
   - DOMAIN,negociandoinmuebles.com
   - DOMAIN,neobake.com
-  - DOMAIN,neosdreamliner.com
   - DOMAIN,neospes.com
   - DOMAIN,nepalalternativetreks.com
   - DOMAIN,nepalhimalayantrekking.com
@@ -14758,7 +14754,6 @@ payload:
   - DOMAIN,precheck-in.adsjudo.com
   - DOMAIN,preconhsa.com
   - DOMAIN,precrack.com
-  - DOMAIN,predatorhacks.com
   - DOMAIN,predictivesearch.com
   - DOMAIN,preditates.com
   - DOMAIN,preferences-mgr.truste.com
@@ -14804,6 +14799,7 @@ payload:
   - DOMAIN,pride-u-bike.com
   - DOMAIN,priiceline.com
   - DOMAIN,prima-re.com
+  - DOMAIN,primebc1.website
   - DOMAIN,primecheats.net
   - DOMAIN,primemarks.com
   - DOMAIN,primeonlinedeals.com
@@ -15260,6 +15256,7 @@ payload:
   - DOMAIN,ralanacional.com
   - DOMAIN,rally2go.com
   - DOMAIN,rallyeair.com
+  - DOMAIN,ralphbell4sc.com
   - DOMAIN,ralplauran.com
   - DOMAIN,ramakkos.com
   - DOMAIN,ramazanaydin.com
@@ -16412,6 +16409,7 @@ payload:
   - DOMAIN,shanafishbein.com
   - DOMAIN,shanagpur.com
   - DOMAIN,shanescomics.com
+  - DOMAIN,shangmiss.wap.xsbiquge.com
   - DOMAIN,shannondensmore.com
   - DOMAIN,shannonvalenteweddings.com
   - DOMAIN,shapado.com
@@ -16999,7 +16997,6 @@ payload:
   - DOMAIN,splash.appsgeyser.com
   - DOMAIN,splitter.ndsplitter.com
   - DOMAIN,spn-twr-14.com
-  - DOMAIN,spoki-noki.net
   - DOMAIN,sponsor1.com
   - DOMAIN,sponsorpalace.com
   - DOMAIN,sponsors.thoughtsmedia.com
@@ -17961,7 +17958,6 @@ payload:
   - DOMAIN,templatesbay.com
   - DOMAIN,templerun2.newzgames.com
   - DOMAIN,templerunforpc.com
-  - DOMAIN,templesophia.org
   - DOMAIN,tendersource.com
   - DOMAIN,tenerseguro.com
   - DOMAIN,tengofoxfiles.com
@@ -19256,7 +19252,6 @@ payload:
   - DOMAIN,utakatikmesin.com
   - DOMAIN,utasjsr.com
   - DOMAIN,utilbada.com
-  - DOMAIN,utiljoy.com
   - DOMAIN,utils.mediageneral.net
   - DOMAIN,utorrenthd.net
   - DOMAIN,utrfixbusce.com
@@ -19330,6 +19325,7 @@ payload:
   - DOMAIN,vayvonnhanh.org
   - DOMAIN,vc-business.com
   - DOMAIN,vcdn.liveclicker.net
+  - DOMAIN,vclicks.net
   - DOMAIN,vcontent.e-messenger.net
   - DOMAIN,vcslotoplay.com
   - DOMAIN,vcwrigdrnh.com
@@ -19347,6 +19343,7 @@ payload:
   - DOMAIN,vekaria.com
   - DOMAIN,veljipsons.com
   - DOMAIN,velobecane.com
+  - DOMAIN,vencedoronline.com
   - DOMAIN,venczer.com
   - DOMAIN,vendorweb.citibank.com
   - DOMAIN,vendosupport.com
@@ -19482,7 +19479,6 @@ payload:
   - DOMAIN,vinebunker.com
   - DOMAIN,vinfdv6b4j.com
   - DOMAIN,vinitasentence.pro
-  - DOMAIN,vinotecataste.com
   - DOMAIN,vintech-india.com
   - DOMAIN,vinyljazzrecords.com
   - DOMAIN,vip-traffic.com
@@ -20033,7 +20029,6 @@ payload:
   - DOMAIN,woojeoung.com
   - DOMAIN,wooplr.j8inn1zektoe.com
   - DOMAIN,wooptrk.com
-  - DOMAIN,woorionline.com
   - DOMAIN,woosungelec.com
   - DOMAIN,worchids.net
   - DOMAIN,wordbankads.com
@@ -20374,7 +20369,6 @@ payload:
   - DOMAIN,www4.clustrmaps.com
   - DOMAIN,www4.counter.bloke.com
   - DOMAIN,www4.glam.com
-  - DOMAIN,www4.gy7k.net
   - DOMAIN,www41.xzmnt.com
   - DOMAIN,www43.ggaibb.com
   - DOMAIN,www45.xi1111.com

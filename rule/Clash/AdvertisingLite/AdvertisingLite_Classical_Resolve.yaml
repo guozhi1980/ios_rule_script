@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-09-04 02:08:15
-# DOMAIN: 14502
+# UPDATED: 2021-09-05 02:06:42
+# DOMAIN: 14497
 # DOMAIN-KEYWORD: 28
 # DOMAIN-SUFFIX: 13223
 # IP-CIDR: 158
 # IP-CIDR6: 1
-# TOTAL: 27912
+# TOTAL: 27907
 payload:
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,00-gov.cn
@@ -1382,7 +1382,6 @@ payload:
   - DOMAIN,adspsp.com
   - DOMAIN,adspyglass.com
   - DOMAIN,adspynet.com
-  - DOMAIN,adsrevenue.net
   - DOMAIN,adsring.com
   - DOMAIN,adsrv.bangbros.com
   - DOMAIN,adsrv.us
@@ -1806,6 +1805,7 @@ payload:
   - DOMAIN,akirkpatrick.com
   - DOMAIN,aklamator.com
   - DOMAIN,aksb-a.akamaihd.net
+  - DOMAIN,akstat.com
   - DOMAIN,akstat.io
   - DOMAIN,aktion.esprit-club.com
   - DOMAIN,alahnavideos.pro
@@ -2835,6 +2835,7 @@ payload:
   - DOMAIN,bonzai.ad
   - DOMAIN,bonzuna.com
   - DOMAIN,boo-box.com
+  - DOMAIN,boodlewrite.com
   - DOMAIN,book9.net
   - DOMAIN,bookbudd.com
   - DOMAIN,bookingdragon.com
@@ -3639,7 +3640,6 @@ payload:
   - DOMAIN,config.unityads.unitychina.cn
   - DOMAIN,confirmational.com
   - DOMAIN,confirmit.com
-  - DOMAIN,conflibred.co
   - DOMAIN,conforama-push.com
   - DOMAIN,connatix.com
   - DOMAIN,connect.ekomi.de
@@ -3680,6 +3680,7 @@ payload:
   - DOMAIN,content-recommendation.net
   - DOMAIN,content-square.net
   - DOMAIN,content.ad
+  - DOMAIN,content.liveuniverse.com
   - DOMAIN,content.secondspace.com
   - DOMAIN,contentcache-a.akamaihd.net
   - DOMAIN,contentclick.co.uk
@@ -4764,7 +4765,6 @@ payload:
   - DOMAIN,dstillery.com
   - DOMAIN,dsultra.com
   - DOMAIN,dt1pxsve3tgas.cloudfront.net
-  - DOMAIN,dt2xr6g2i5.com
   - DOMAIN,dtakdb1z5gq7e.cloudfront.net
   - DOMAIN,dtc-v6t.com
   - DOMAIN,dtcpdvnojquf.com
@@ -6582,6 +6582,7 @@ payload:
   - DOMAIN,idtargeting.com
   - DOMAIN,ie.5500w.com
   - DOMAIN,iee5.com
+  - DOMAIN,ieju.zgtwpscw.cn
   - DOMAIN,iesnare.com
   - DOMAIN,ifactz.com
   - DOMAIN,ifeuddaywa.com
@@ -7036,6 +7037,7 @@ payload:
   - DOMAIN,jeisl.com
   - DOMAIN,jemmgroup.com
   - DOMAIN,jeqixokniyny.com
+  - DOMAIN,jerrcotch.com
   - DOMAIN,jerredsite.pro
   - DOMAIN,jewishcontentnetwork.com
   - DOMAIN,jf71qh5v14.com
@@ -7176,7 +7178,6 @@ payload:
   - DOMAIN,jx.cn
   - DOMAIN,jx.lyhanda.com
   - DOMAIN,jxdown.com
-  - DOMAIN,jxqfu.cn
   - DOMAIN,jy135.com
   - DOMAIN,jynp9m209p.com
   - DOMAIN,jyzmsy.com.cn
@@ -7779,7 +7780,6 @@ payload:
   - DOMAIN,luxupcdnc.com
   - DOMAIN,lv711.net
   - DOMAIN,lvecygampj.com
-  - DOMAIN,lvgvax82bp.com
   - DOMAIN,lvntekpejrmtb.com
   - DOMAIN,lvodomo.info
   - DOMAIN,lvxingxian.cn
@@ -7837,7 +7837,6 @@ payload:
   - DOMAIN,m.ehwhwz.cn
   - DOMAIN,m.epoch168.com
   - DOMAIN,m.f2z4d.cn
-  - DOMAIN,m.g1ao7q.cn
   - DOMAIN,m.gexings.com
   - DOMAIN,m.gomev.cn
   - DOMAIN,m.h0x.cn
@@ -9822,6 +9821,7 @@ payload:
   - DOMAIN,prfct.co
   - DOMAIN,prfdesk.pro
   - DOMAIN,pride-u-bike.com
+  - DOMAIN,primebc1.website
   - DOMAIN,primechoice.ru
   - DOMAIN,primetag.net
   - DOMAIN,printfriendly.com
@@ -10412,7 +10412,6 @@ payload:
   - DOMAIN,recoset.com
   - DOMAIN,recruitics.com
   - DOMAIN,recs.atgsvcs.com
-  - DOMAIN,recusticks.co
   - DOMAIN,redcounter.net
   - DOMAIN,redintelligence.net
   - DOMAIN,redirect18systemsg.com
@@ -10448,7 +10447,6 @@ payload:
   - DOMAIN,registered-spotters-build.com
   - DOMAIN,registration.presonus.com
   - DOMAIN,reichelcormier.bid
-  - DOMAIN,reimburs.co
   - DOMAIN,reinvigorate.net
   - DOMAIN,reiqwxxd.com
   - DOMAIN,reiseeget.com
@@ -10777,7 +10775,6 @@ payload:
   - DOMAIN,s1.dapenti.com
   - DOMAIN,s1.kuaibaopay.com
   - DOMAIN,s1.stat.lianmeng.360.cn
-  - DOMAIN,s1.szlu-an.com
   - DOMAIN,s1.wp.com
   - DOMAIN,s100.hostcontent.live
   - DOMAIN,s11.cn
@@ -10794,7 +10791,6 @@ payload:
   - DOMAIN,s3s-main.net
   - DOMAIN,s4.hit.stat.pl
   - DOMAIN,s4.hit.stat24.com
-  - DOMAIN,s4yxaqyq95.com
   - DOMAIN,s7target.ru
   - DOMAIN,s7ven.com
   - DOMAIN,s8dj.com
@@ -11182,6 +11178,7 @@ payload:
   - DOMAIN,sgqcvfjvr.onet.pl
   - DOMAIN,sgs.us.com
   - DOMAIN,sgvuexlhbgpylr.com
+  - DOMAIN,sh.hsfzexsg.com
   - DOMAIN,shaimsoo.net
   - DOMAIN,shakamech.com
   - DOMAIN,shake.360.cn
@@ -11189,6 +11186,7 @@ payload:
   - DOMAIN,shalleda.com
   - DOMAIN,shalseey.com
   - DOMAIN,shangjiabiao.com
+  - DOMAIN,shangmiss.wap.xsbiquge.com
   - DOMAIN,share-server.com
   - DOMAIN,share.gree.jp
   - DOMAIN,share.itraffic.su
@@ -11347,7 +11345,6 @@ payload:
   - DOMAIN,skryptcookies.pl
   - DOMAIN,skyactivate.com
   - DOMAIN,skyglue.com
-  - DOMAIN,skyligh.co
   - DOMAIN,skylog.kz
   - DOMAIN,skymedia.co.uk
   - DOMAIN,skyplayer.tiscali.it
@@ -11714,6 +11711,7 @@ payload:
   - DOMAIN,spuobvix.com
   - DOMAIN,spuriousbase.com
   - DOMAIN,spurioussteam.com
+  - DOMAIN,spycounter.net
   - DOMAIN,spylog.com
   - DOMAIN,spylog.ru
   - DOMAIN,spyoff.com
@@ -12057,7 +12055,6 @@ payload:
   - DOMAIN,swishu.com
   - DOMAIN,swiss-counter.com
   - DOMAIN,swoop.com
-  - DOMAIN,sworatio.co
   - DOMAIN,sxcdn02.now.sh
   - DOMAIN,sxcdn1.herokuapp.com
   - DOMAIN,sxcdn4.now.sh
@@ -13169,7 +13166,6 @@ payload:
   - DOMAIN,valueclickmedia.com
   - DOMAIN,valuecommerce.com
   - DOMAIN,valuedopinions.co.uk
-  - DOMAIN,vantage-media.net
   - DOMAIN,vapedia.com
   - DOMAIN,variablefitness.com
   - DOMAIN,variti.net
@@ -13453,6 +13449,7 @@ payload:
   - DOMAIN,walibao.com
   - DOMAIN,wallstrads.com
   - DOMAIN,walmeric.com
+  - DOMAIN,walprater.com
   - DOMAIN,wamcash.com
   - DOMAIN,wamnetwork.com
   - DOMAIN,wangfenxi.com
@@ -14161,7 +14158,6 @@ payload:
   - DOMAIN,xtremline.com
   - DOMAIN,xts7fgss.com
   - DOMAIN,xu5ctufltn.com
-  - DOMAIN,xuanlimin.top
   - DOMAIN,xuexingkeji.cn
   - DOMAIN,xunyibaike.com
   - DOMAIN,xvika.com
@@ -14209,7 +14205,6 @@ payload:
   - DOMAIN,yaudience.com
   - DOMAIN,yaxujiancai.cn
   - DOMAIN,yazcash.com
-  - DOMAIN,yb0t.com
   - DOMAIN,ybotvisit.com
   - DOMAIN,yceml.net
   - DOMAIN,ych168.cn

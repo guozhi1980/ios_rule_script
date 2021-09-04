@@ -1,15 +1,15 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-09-04 02:08:14
+# UPDATED: 2021-09-05 02:06:42
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN: 14502
+# DOMAIN: 14497
 # DOMAIN-KEYWORD: 28
 # DOMAIN-SUFFIX: 13223
 # IP-CIDR: 158
 # IP-CIDR6: 1
 # URL-REGEX: 295
-# TOTAL: 28207
+# TOTAL: 28202
 0.up.qingdaonews.com
 00-gov.cn
 0024aadd.com
@@ -1383,7 +1383,6 @@ adspruce.com
 adspsp.com
 adspyglass.com
 adspynet.com
-adsrevenue.net
 adsring.com
 adsrv.bangbros.com
 adsrv.us
@@ -1807,6 +1806,7 @@ akcdinzvcenhjh.com
 akirkpatrick.com
 aklamator.com
 aksb-a.akamaihd.net
+akstat.com
 akstat.io
 aktion.esprit-club.com
 alahnavideos.pro
@@ -2836,6 +2836,7 @@ bonuscounter.de
 bonzai.ad
 bonzuna.com
 boo-box.com
+boodlewrite.com
 book9.net
 bookbudd.com
 bookingdragon.com
@@ -3640,7 +3641,6 @@ conf.hpplay.cn
 config.unityads.unitychina.cn
 confirmational.com
 confirmit.com
-conflibred.co
 conforama-push.com
 connatix.com
 connect.ekomi.de
@@ -3681,6 +3681,7 @@ content-cooperation.com
 content-recommendation.net
 content-square.net
 content.ad
+content.liveuniverse.com
 content.secondspace.com
 contentcache-a.akamaihd.net
 contentclick.co.uk
@@ -4765,7 +4766,6 @@ dstik9906m659.cloudfront.net
 dstillery.com
 dsultra.com
 dt1pxsve3tgas.cloudfront.net
-dt2xr6g2i5.com
 dtakdb1z5gq7e.cloudfront.net
 dtc-v6t.com
 dtcpdvnojquf.com
@@ -6583,6 +6583,7 @@ idreammedia.com
 idtargeting.com
 ie.5500w.com
 iee5.com
+ieju.zgtwpscw.cn
 iesnare.com
 ifactz.com
 ifeuddaywa.com
@@ -7037,6 +7038,7 @@ jeinvegpool.com
 jeisl.com
 jemmgroup.com
 jeqixokniyny.com
+jerrcotch.com
 jerredsite.pro
 jewishcontentnetwork.com
 jf71qh5v14.com
@@ -7177,7 +7179,6 @@ jwvwak1a.com
 jx.cn
 jx.lyhanda.com
 jxdown.com
-jxqfu.cn
 jy135.com
 jynp9m209p.com
 jyzmsy.com.cn
@@ -7780,7 +7781,6 @@ luxupcdnb.com
 luxupcdnc.com
 lv711.net
 lvecygampj.com
-lvgvax82bp.com
 lvntekpejrmtb.com
 lvodomo.info
 lvxingxian.cn
@@ -7838,7 +7838,6 @@ m.efeir.com
 m.ehwhwz.cn
 m.epoch168.com
 m.f2z4d.cn
-m.g1ao7q.cn
 m.gexings.com
 m.gomev.cn
 m.h0x.cn
@@ -9823,6 +9822,7 @@ preview.sharethrough.com
 prfct.co
 prfdesk.pro
 pride-u-bike.com
+primebc1.website
 primechoice.ru
 primetag.net
 printfriendly.com
@@ -10413,7 +10413,6 @@ recosenselabs.com
 recoset.com
 recruitics.com
 recs.atgsvcs.com
-recusticks.co
 redcounter.net
 redintelligence.net
 redirect18systemsg.com
@@ -10449,7 +10448,6 @@ reftagger.com
 registered-spotters-build.com
 registration.presonus.com
 reichelcormier.bid
-reimburs.co
 reinvigorate.net
 reiqwxxd.com
 reiseeget.com
@@ -10778,7 +10776,6 @@ s07.hostcontent.live
 s1.dapenti.com
 s1.kuaibaopay.com
 s1.stat.lianmeng.360.cn
-s1.szlu-an.com
 s1.wp.com
 s100.hostcontent.live
 s11.cn
@@ -10795,7 +10792,6 @@ s3.phluant.com
 s3s-main.net
 s4.hit.stat.pl
 s4.hit.stat24.com
-s4yxaqyq95.com
 s7target.ru
 s7ven.com
 s8dj.com
@@ -11183,6 +11179,7 @@ sgphctileh-a.akamaihd.net
 sgqcvfjvr.onet.pl
 sgs.us.com
 sgvuexlhbgpylr.com
+sh.hsfzexsg.com
 shaimsoo.net
 shakamech.com
 shake.360.cn
@@ -11190,6 +11187,7 @@ shake.f.360.cn
 shalleda.com
 shalseey.com
 shangjiabiao.com
+shangmiss.wap.xsbiquge.com
 share-server.com
 share.gree.jp
 share.itraffic.su
@@ -11348,7 +11346,6 @@ skoovyads.com
 skryptcookies.pl
 skyactivate.com
 skyglue.com
-skyligh.co
 skylog.kz
 skymedia.co.uk
 skyplayer.tiscali.it
@@ -11715,6 +11712,7 @@ spunkycash.com
 spuobvix.com
 spuriousbase.com
 spurioussteam.com
+spycounter.net
 spylog.com
 spylog.ru
 spyoff.com
@@ -12058,7 +12056,6 @@ swiftypecdn.com
 swishu.com
 swiss-counter.com
 swoop.com
-sworatio.co
 sxcdn02.now.sh
 sxcdn1.herokuapp.com
 sxcdn4.now.sh
@@ -13170,7 +13167,6 @@ valueclick.net
 valueclickmedia.com
 valuecommerce.com
 valuedopinions.co.uk
-vantage-media.net
 vapedia.com
 variablefitness.com
 variti.net
@@ -13454,6 +13450,7 @@ wakamoment.tk
 walibao.com
 wallstrads.com
 walmeric.com
+walprater.com
 wamcash.com
 wamnetwork.com
 wangfenxi.com
@@ -14162,7 +14159,6 @@ xtremeserve.xyz
 xtremline.com
 xts7fgss.com
 xu5ctufltn.com
-xuanlimin.top
 xuexingkeji.cn
 xunyibaike.com
 xvika.com
@@ -14210,7 +14206,6 @@ yauatoyuhdb.com
 yaudience.com
 yaxujiancai.cn
 yazcash.com
-yb0t.com
 ybotvisit.com
 yceml.net
 ych168.cn

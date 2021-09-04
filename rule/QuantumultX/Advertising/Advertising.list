@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-09-04 02:08:14
-# HOST: 20991
+# UPDATED: 2021-09-05 02:06:41
+# HOST: 20985
 # HOST-KEYWORD: 88
 # HOST-SUFFIX: 51762
 # IP-CIDR: 244
 # IP6-CIDR: 1
-# TOTAL: 73086
+# TOTAL: 73080
 HOST,0.nextyourcontent.com,Advertising
 HOST,0.up.qingdaonews.com,Advertising
 HOST,0001.2waky.com,Advertising
@@ -42,7 +42,6 @@ HOST,02.lg.nym2.appnexus.com,Advertising
 HOST,024xuyisheng.com,Advertising
 HOST,03383bd.netsolhost.com,Advertising
 HOST,04.jh-api.nym2.appnexus.com,Advertising
-HOST,042707d90914.agrigid.com,Advertising
 HOST,0440082.wcomhost.com,Advertising
 HOST,0511zfhl.com,Advertising
 HOST,06works-plus.com,Advertising
@@ -2281,7 +2280,6 @@ HOST,adstest.weather.com,Advertising
 HOST,adstream.cardboardfish.com,Advertising
 HOST,adsupplyads.net,Advertising
 HOST,adsvr.deviantart.com,Advertising
-HOST,adswakeup.com,Advertising
 HOST,adsxgm.com,Advertising
 HOST,adsynergy.com,Advertising
 HOST,adsys.townnews.com,Advertising
@@ -2606,7 +2604,6 @@ HOST,ak0gsh40.com,Advertising
 HOST,ak1.imgaft.com,Advertising
 HOST,aka-root.com,Advertising
 HOST,akamedia.000webhostapp.com,Advertising
-HOST,akariyer.com,Advertising
 HOST,akcdinzvcenhjh.com,Advertising
 HOST,akeeperoftime.com,Advertising
 HOST,akirkpatrick.com,Advertising
@@ -4474,6 +4471,7 @@ HOST,bustlinganimal.com,Advertising
 HOST,butegayrimenkul.com,Advertising
 HOST,buttcandy.com,Advertising
 HOST,button.clickability.com,Advertising
+HOST,buttons-for-website.com,Advertising
 HOST,bux1le001.com,Advertising
 HOST,buxomcosmetics.com,Advertising
 HOST,buy-banner.com,Advertising
@@ -5507,7 +5505,6 @@ HOST,clashofclansgenerator.com,Advertising
 HOST,clashofclanshack.com,Advertising
 HOST,clashofclanshack.leakbay.net,Advertising
 HOST,clashofclanshackcheat.com,Advertising
-HOST,clashofclanshackonline.com,Advertising
 HOST,clashofclanshackz.com,Advertising
 HOST,clashofclanshelper.com,Advertising
 HOST,clashofclanstool.com,Advertising
@@ -5909,7 +5906,6 @@ HOST,config.samqaicongen.com,Advertising
 HOST,config.shazamid.com,Advertising
 HOST,config.unityads.unitychina.cn,Advertising
 HOST,config.youzu.com,Advertising
-HOST,conflibred.co,Advertising
 HOST,confortrans.com,Advertising
 HOST,congchuzs.com,Advertising
 HOST,congnghevienthong.com,Advertising
@@ -5939,6 +5935,7 @@ HOST,contactos-gay.com,Advertising
 HOST,contactreserve.com,Advertising
 HOST,contactsin.com,Advertising
 HOST,content.joinaxxess.com,Advertising
+HOST,content.liveuniverse.com,Advertising
 HOST,content.mkt922.com,Advertising
 HOST,content.mkt931.com,Advertising
 HOST,content.mkt932.com,Advertising
@@ -10040,6 +10037,7 @@ HOST,huaquillas.net,Advertising
 HOST,hudetprosto.com,Advertising
 HOST,hufimezaj.000webhostapp.com,Advertising
 HOST,huge-gay-cock.com,Advertising
+HOST,hugebestbuy.cn,Advertising
 HOST,hugefileshare.com,Advertising
 HOST,hugersoft.com,Advertising
 HOST,hugosconsultores.com,Advertising
@@ -12288,7 +12286,6 @@ HOST,mdn2015x3.com,Advertising
 HOST,mdnhinc.com,Advertising
 HOST,mdownzone.com,Advertising
 HOST,mdstrat.actonsoftware.com,Advertising
-HOST,mdt.grandtraversedesign.com,Advertising
 HOST,measuread.com,Advertising
 HOST,measurelyapp.com,Advertising
 HOST,meatspin.com,Advertising
@@ -13280,7 +13277,6 @@ HOST,neffswaterservice.com,Advertising
 HOST,negarpartition.com,Advertising
 HOST,negociandoinmuebles.com,Advertising
 HOST,neobake.com,Advertising
-HOST,neosdreamliner.com,Advertising
 HOST,neospes.com,Advertising
 HOST,nepalalternativetreks.com,Advertising
 HOST,nepalhimalayantrekking.com,Advertising
@@ -14757,7 +14753,6 @@ HOST,pre-hackedgames.net,Advertising
 HOST,precheck-in.adsjudo.com,Advertising
 HOST,preconhsa.com,Advertising
 HOST,precrack.com,Advertising
-HOST,predatorhacks.com,Advertising
 HOST,predictivesearch.com,Advertising
 HOST,preditates.com,Advertising
 HOST,preferences-mgr.truste.com,Advertising
@@ -14803,6 +14798,7 @@ HOST,pricheski-video.com,Advertising
 HOST,pride-u-bike.com,Advertising
 HOST,priiceline.com,Advertising
 HOST,prima-re.com,Advertising
+HOST,primebc1.website,Advertising
 HOST,primecheats.net,Advertising
 HOST,primemarks.com,Advertising
 HOST,primeonlinedeals.com,Advertising
@@ -15259,6 +15255,7 @@ HOST,rakhibandhan.com,Advertising
 HOST,ralanacional.com,Advertising
 HOST,rally2go.com,Advertising
 HOST,rallyeair.com,Advertising
+HOST,ralphbell4sc.com,Advertising
 HOST,ralplauran.com,Advertising
 HOST,ramakkos.com,Advertising
 HOST,ramazanaydin.com,Advertising
@@ -16411,6 +16408,7 @@ HOST,shalseey.com,Advertising
 HOST,shanafishbein.com,Advertising
 HOST,shanagpur.com,Advertising
 HOST,shanescomics.com,Advertising
+HOST,shangmiss.wap.xsbiquge.com,Advertising
 HOST,shannondensmore.com,Advertising
 HOST,shannonvalenteweddings.com,Advertising
 HOST,shapado.com,Advertising
@@ -16998,7 +16996,6 @@ HOST,spirittrucking.com,Advertising
 HOST,splash.appsgeyser.com,Advertising
 HOST,splitter.ndsplitter.com,Advertising
 HOST,spn-twr-14.com,Advertising
-HOST,spoki-noki.net,Advertising
 HOST,sponsor1.com,Advertising
 HOST,sponsorpalace.com,Advertising
 HOST,sponsors.thoughtsmedia.com,Advertising
@@ -17960,7 +17957,6 @@ HOST,templates.unbounce.com,Advertising
 HOST,templatesbay.com,Advertising
 HOST,templerun2.newzgames.com,Advertising
 HOST,templerunforpc.com,Advertising
-HOST,templesophia.org,Advertising
 HOST,tendersource.com,Advertising
 HOST,tenerseguro.com,Advertising
 HOST,tengofoxfiles.com,Advertising
@@ -19255,7 +19251,6 @@ HOST,utairway.com,Advertising
 HOST,utakatikmesin.com,Advertising
 HOST,utasjsr.com,Advertising
 HOST,utilbada.com,Advertising
-HOST,utiljoy.com,Advertising
 HOST,utils.mediageneral.net,Advertising
 HOST,utorrenthd.net,Advertising
 HOST,utrfixbusce.com,Advertising
@@ -19329,6 +19324,7 @@ HOST,vatizon.com,Advertising
 HOST,vayvonnhanh.org,Advertising
 HOST,vc-business.com,Advertising
 HOST,vcdn.liveclicker.net,Advertising
+HOST,vclicks.net,Advertising
 HOST,vcontent.e-messenger.net,Advertising
 HOST,vcslotoplay.com,Advertising
 HOST,vcwrigdrnh.com,Advertising
@@ -19346,6 +19342,7 @@ HOST,vegashairco.com,Advertising
 HOST,vekaria.com,Advertising
 HOST,veljipsons.com,Advertising
 HOST,velobecane.com,Advertising
+HOST,vencedoronline.com,Advertising
 HOST,venczer.com,Advertising
 HOST,vendorweb.citibank.com,Advertising
 HOST,vendosupport.com,Advertising
@@ -19481,7 +19478,6 @@ HOST,vindori.com,Advertising
 HOST,vinebunker.com,Advertising
 HOST,vinfdv6b4j.com,Advertising
 HOST,vinitasentence.pro,Advertising
-HOST,vinotecataste.com,Advertising
 HOST,vintech-india.com,Advertising
 HOST,vinyljazzrecords.com,Advertising
 HOST,vip-traffic.com,Advertising
@@ -20032,7 +20028,6 @@ HOST,woodwindowspittsburgh.com,Advertising
 HOST,woojeoung.com,Advertising
 HOST,wooplr.j8inn1zektoe.com,Advertising
 HOST,wooptrk.com,Advertising
-HOST,woorionline.com,Advertising
 HOST,woosungelec.com,Advertising
 HOST,worchids.net,Advertising
 HOST,wordbankads.com,Advertising
@@ -20373,7 +20368,6 @@ HOST,www4.bannerspace.com,Advertising
 HOST,www4.clustrmaps.com,Advertising
 HOST,www4.counter.bloke.com,Advertising
 HOST,www4.glam.com,Advertising
-HOST,www4.gy7k.net,Advertising
 HOST,www41.xzmnt.com,Advertising
 HOST,www43.ggaibb.com,Advertising
 HOST,www45.xi1111.com,Advertising
