@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-09-05 02:06:42
-# DOMAIN: 14497
+# UPDATED: 2021-09-06 02:07:26
+# DOMAIN: 14493
 # DOMAIN-KEYWORD: 28
 # DOMAIN-SUFFIX: 13223
 # IP-CIDR: 158
 # IP-CIDR6: 1
-# TOTAL: 27907
+# TOTAL: 27903
 payload:
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,00-gov.cn
@@ -2996,7 +2996,6 @@ payload:
   - DOMAIN,buyorselltnhomes.com
   - DOMAIN,buysellads.net
   - DOMAIN,buyt.in
-  - DOMAIN,buythis.ad
   - DOMAIN,buywing.com
   - DOMAIN,buzina.xyz
   - DOMAIN,buzz-stats.com
@@ -4280,6 +4279,7 @@ payload:
   - DOMAIN,daima.miercn.com
   - DOMAIN,daiporno.com
   - DOMAIN,dal9hkyfi0m0n.cloudfront.net
+  - DOMAIN,dallavel.com
   - DOMAIN,dam.zhqryw.cn
   - DOMAIN,damdoor.com
   - DOMAIN,dana123.com
@@ -6339,7 +6339,6 @@ payload:
   - DOMAIN,hlmiq.com
   - DOMAIN,hlpnowp-c.com
   - DOMAIN,hlserve.com
-  - DOMAIN,hm.baidu.com.jnsiematcnc.com
   - DOMAIN,hm.baidu.com.zzsdtzb.com
   - DOMAIN,hmbgumjgey.com
   - DOMAIN,hmongcash.com
@@ -7189,7 +7188,6 @@ payload:
   - DOMAIN,k5zoom.com
   - DOMAIN,k77hof1z7k.com
   - DOMAIN,k99.cc
-  - DOMAIN,k9x.net
   - DOMAIN,kadam.ru
   - DOMAIN,kadirzerey.com
   - DOMAIN,kadman.net
@@ -7378,6 +7376,7 @@ payload:
   - DOMAIN,ladbrokesaffiliates.com.au
   - DOMAIN,ladnova.info
   - DOMAIN,ladsimz.com
+  - DOMAIN,ladsinfo.com
   - DOMAIN,ladskis.com
   - DOMAIN,ladskiz.com
   - DOMAIN,ladsoks.com
@@ -7852,7 +7851,6 @@ payload:
   - DOMAIN,m.mtmfjdo.cn
   - DOMAIN,m.nkjfzq43034.cn
   - DOMAIN,m.openv.tv
-  - DOMAIN,m.pubgorg.xyz
   - DOMAIN,m.qhout.com
   - DOMAIN,m.sbief.com
   - DOMAIN,m.sdaih.com
@@ -13947,7 +13945,6 @@ payload:
   - DOMAIN,www.pgathailand.com
   - DOMAIN,www.pj39330.bet
   - DOMAIN,www.predictivadvertising.com
-  - DOMAIN,www.professionalblackbook.com
   - DOMAIN,www.profill-smd.com
   - DOMAIN,www.propan.ru
   - DOMAIN,www.purplehorses.net
@@ -14342,7 +14339,6 @@ payload:
   - DOMAIN,yvmads.com
   - DOMAIN,yvoria.com
   - DOMAIN,yvzgazds6d.com
-  - DOMAIN,yw78.cn
   - DOMAIN,ywywjrlbsuv.com
   - DOMAIN,yxhd.hori-gz.com
   - DOMAIN,yxyhtea.com

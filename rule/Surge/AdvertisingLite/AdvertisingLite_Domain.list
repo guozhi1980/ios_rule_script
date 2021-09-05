@@ -1,15 +1,15 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-09-05 02:06:41
+# UPDATED: 2021-09-06 02:07:25
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN: 14497
+# DOMAIN: 14493
 # DOMAIN-KEYWORD: 28
 # DOMAIN-SUFFIX: 13223
 # IP-CIDR: 158
 # IP-CIDR6: 1
 # URL-REGEX: 295
-# TOTAL: 28202
+# TOTAL: 28198
 0.up.qingdaonews.com
 00-gov.cn
 0024aadd.com
@@ -2997,7 +2997,6 @@ buyflood.com
 buyorselltnhomes.com
 buysellads.net
 buyt.in
-buythis.ad
 buywing.com
 buzina.xyz
 buzz-stats.com
@@ -4281,6 +4280,7 @@ daima.jiazhao.com
 daima.miercn.com
 daiporno.com
 dal9hkyfi0m0n.cloudfront.net
+dallavel.com
 dam.zhqryw.cn
 damdoor.com
 dana123.com
@@ -6340,7 +6340,6 @@ hlads.com
 hlmiq.com
 hlpnowp-c.com
 hlserve.com
-hm.baidu.com.jnsiematcnc.com
 hm.baidu.com.zzsdtzb.com
 hmbgumjgey.com
 hmongcash.com
@@ -7190,7 +7189,6 @@ k3851.com
 k5zoom.com
 k77hof1z7k.com
 k99.cc
-k9x.net
 kadam.ru
 kadirzerey.com
 kadman.net
@@ -7379,6 +7377,7 @@ lacerta.space
 ladbrokesaffiliates.com.au
 ladnova.info
 ladsimz.com
+ladsinfo.com
 ladskis.com
 ladskiz.com
 ladsoks.com
@@ -7853,7 +7852,6 @@ m.mfufanj.cn
 m.mtmfjdo.cn
 m.nkjfzq43034.cn
 m.openv.tv
-m.pubgorg.xyz
 m.qhout.com
 m.sbief.com
 m.sdaih.com
@@ -13948,7 +13946,6 @@ www.pflexads.com
 www.pgathailand.com
 www.pj39330.bet
 www.predictivadvertising.com
-www.professionalblackbook.com
 www.profill-smd.com
 www.propan.ru
 www.purplehorses.net
@@ -14343,7 +14340,6 @@ yuu360.com
 yvmads.com
 yvoria.com
 yvzgazds6d.com
-yw78.cn
 ywywjrlbsuv.com
 yxhd.hori-gz.com
 yxyhtea.com

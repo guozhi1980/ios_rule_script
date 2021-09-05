@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-09-05 02:06:41
-# HOST: 14497
+# UPDATED: 2021-09-06 02:07:26
+# HOST: 14493
 # HOST-KEYWORD: 28
 # HOST-SUFFIX: 13223
 # IP-CIDR: 158
 # IP6-CIDR: 1
-# TOTAL: 27907
+# TOTAL: 27903
 HOST,0.up.qingdaonews.com,AdvertisingLite
 HOST,00-gov.cn,AdvertisingLite
 HOST,0024aadd.com,AdvertisingLite
@@ -2995,7 +2995,6 @@ HOST,buyflood.com,AdvertisingLite
 HOST,buyorselltnhomes.com,AdvertisingLite
 HOST,buysellads.net,AdvertisingLite
 HOST,buyt.in,AdvertisingLite
-HOST,buythis.ad,AdvertisingLite
 HOST,buywing.com,AdvertisingLite
 HOST,buzina.xyz,AdvertisingLite
 HOST,buzz-stats.com,AdvertisingLite
@@ -4279,6 +4278,7 @@ HOST,daima.jiazhao.com,AdvertisingLite
 HOST,daima.miercn.com,AdvertisingLite
 HOST,daiporno.com,AdvertisingLite
 HOST,dal9hkyfi0m0n.cloudfront.net,AdvertisingLite
+HOST,dallavel.com,AdvertisingLite
 HOST,dam.zhqryw.cn,AdvertisingLite
 HOST,damdoor.com,AdvertisingLite
 HOST,dana123.com,AdvertisingLite
@@ -6338,7 +6338,6 @@ HOST,hlads.com,AdvertisingLite
 HOST,hlmiq.com,AdvertisingLite
 HOST,hlpnowp-c.com,AdvertisingLite
 HOST,hlserve.com,AdvertisingLite
-HOST,hm.baidu.com.jnsiematcnc.com,AdvertisingLite
 HOST,hm.baidu.com.zzsdtzb.com,AdvertisingLite
 HOST,hmbgumjgey.com,AdvertisingLite
 HOST,hmongcash.com,AdvertisingLite
@@ -7188,7 +7187,6 @@ HOST,k3851.com,AdvertisingLite
 HOST,k5zoom.com,AdvertisingLite
 HOST,k77hof1z7k.com,AdvertisingLite
 HOST,k99.cc,AdvertisingLite
-HOST,k9x.net,AdvertisingLite
 HOST,kadam.ru,AdvertisingLite
 HOST,kadirzerey.com,AdvertisingLite
 HOST,kadman.net,AdvertisingLite
@@ -7377,6 +7375,7 @@ HOST,lacerta.space,AdvertisingLite
 HOST,ladbrokesaffiliates.com.au,AdvertisingLite
 HOST,ladnova.info,AdvertisingLite
 HOST,ladsimz.com,AdvertisingLite
+HOST,ladsinfo.com,AdvertisingLite
 HOST,ladskis.com,AdvertisingLite
 HOST,ladskiz.com,AdvertisingLite
 HOST,ladsoks.com,AdvertisingLite
@@ -7851,7 +7850,6 @@ HOST,m.mfufanj.cn,AdvertisingLite
 HOST,m.mtmfjdo.cn,AdvertisingLite
 HOST,m.nkjfzq43034.cn,AdvertisingLite
 HOST,m.openv.tv,AdvertisingLite
-HOST,m.pubgorg.xyz,AdvertisingLite
 HOST,m.qhout.com,AdvertisingLite
 HOST,m.sbief.com,AdvertisingLite
 HOST,m.sdaih.com,AdvertisingLite
@@ -13946,7 +13944,6 @@ HOST,www.pflexads.com,AdvertisingLite
 HOST,www.pgathailand.com,AdvertisingLite
 HOST,www.pj39330.bet,AdvertisingLite
 HOST,www.predictivadvertising.com,AdvertisingLite
-HOST,www.professionalblackbook.com,AdvertisingLite
 HOST,www.profill-smd.com,AdvertisingLite
 HOST,www.propan.ru,AdvertisingLite
 HOST,www.purplehorses.net,AdvertisingLite
@@ -14341,7 +14338,6 @@ HOST,yuu360.com,AdvertisingLite
 HOST,yvmads.com,AdvertisingLite
 HOST,yvoria.com,AdvertisingLite
 HOST,yvzgazds6d.com,AdvertisingLite
-HOST,yw78.cn,AdvertisingLite
 HOST,ywywjrlbsuv.com,AdvertisingLite
 HOST,yxhd.hori-gz.com,AdvertisingLite
 HOST,yxyhtea.com,AdvertisingLite
