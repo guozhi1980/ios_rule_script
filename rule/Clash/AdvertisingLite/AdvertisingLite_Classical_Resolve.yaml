@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-09-06 02:07:26
-# DOMAIN: 14493
+# UPDATED: 2021-09-07 02:07:50
+# DOMAIN: 14488
 # DOMAIN-KEYWORD: 28
 # DOMAIN-SUFFIX: 13223
 # IP-CIDR: 158
 # IP-CIDR6: 1
-# TOTAL: 27903
+# TOTAL: 27898
 payload:
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,00-gov.cn
@@ -458,7 +458,6 @@ payload:
   - DOMAIN,746fyw2v.com
   - DOMAIN,758c824671f4fc0.com
   - DOMAIN,7676.com
-  - DOMAIN,76bae64469159dfa58.com
   - DOMAIN,77437ee0a17f19c6085.com
   - DOMAIN,777-partner.com
   - DOMAIN,777-partner.net
@@ -6089,7 +6088,6 @@ payload:
   - DOMAIN,gsspat.jp
   - DOMAIN,gsspcln.jp
   - DOMAIN,gssprt.jp
-  - DOMAIN,gstats.cn
   - DOMAIN,gsvyjunccsw.com
   - DOMAIN,gtcslt-di2.com
   - DOMAIN,gtlp.net.cn
@@ -8308,7 +8306,6 @@ payload:
   - DOMAIN,mo.baidu.com
   - DOMAIN,mo.bsxr.com.cn
   - DOMAIN,mo.grqf.com.cn
-  - DOMAIN,mo.oneshouyou.cn
   - DOMAIN,mo.qitouch.cn
   - DOMAIN,mo.wajsa.com
   - DOMAIN,mo.zdceaa.cn
@@ -12019,7 +12016,6 @@ payload:
   - DOMAIN,surveygizmo.com
   - DOMAIN,surveyscout.com
   - DOMAIN,surveyspaid.com
-  - DOMAIN,surveyvalue.mobi
   - DOMAIN,surveywall-api.survata.com
   - DOMAIN,surveywriter.com
   - DOMAIN,surveywriter.net
@@ -12507,7 +12503,6 @@ payload:
   - DOMAIN,touchclarity.com
   - DOMAIN,touchrom.com
   - DOMAIN,touchxd.com
-  - DOMAIN,toufangke.com
   - DOMAIN,touglesy.net
   - DOMAIN,tour.mrskin.com
   - DOMAIN,tours.imlive.com

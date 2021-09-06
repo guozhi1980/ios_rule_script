@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-09-06 02:07:26
-# HOST: 20959
+# UPDATED: 2021-09-07 02:07:48
+# HOST: 20950
 # HOST-KEYWORD: 88
 # HOST-SUFFIX: 51810
 # IP-CIDR: 244
 # IP6-CIDR: 1
-# TOTAL: 73102
+# TOTAL: 73093
 HOST,0.nextyourcontent.com,Advertising
 HOST,0.up.qingdaonews.com,Advertising
 HOST,0001.2waky.com,Advertising
@@ -434,7 +434,6 @@ HOST,7457.pownit.blueseek.com,Advertising
 HOST,75.news-subscribe.com,Advertising
 HOST,750.stats.misstrends.com,Advertising
 HOST,76.news-subscribe.com,Advertising
-HOST,76bae64469159dfa58.com,Advertising
 HOST,777foryou.com,Advertising
 HOST,778802.r.bat.bing.com,Advertising
 HOST,77search.com,Advertising
@@ -3654,7 +3653,6 @@ HOST,balzac308.com,Advertising
 HOST,ban.xpays.com,Advertising
 HOST,banamertur.com,Advertising
 HOST,bananarepubic.com,Advertising
-HOST,bancodobrasilsa.com,Advertising
 HOST,bancorpsouth.inq.com,Advertising
 HOST,bandbuzzer.com,Advertising
 HOST,bandicapital.com,Advertising
@@ -4087,7 +4085,6 @@ HOST,bill.wiedemann.com,Advertising
 HOST,billing.act-on.com,Advertising
 HOST,billing.speedboink.com,Advertising
 HOST,billioncall-cdn.batmobi.net,Advertising
-HOST,bills-doors.com,Advertising
 HOST,billyflamberti.com,Advertising
 HOST,bin-brokers.com,Advertising
 HOST,binadroid.com,Advertising
@@ -6349,7 +6346,6 @@ HOST,cyberzine.com,Advertising
 HOST,cybilling.com,Advertising
 HOST,cycling.unbounce.com,Advertising
 HOST,cyclonedieselpower.com,Advertising
-HOST,cyclops.prod.untd.com,Advertising
 HOST,cye-fscp.com,Advertising
 HOST,cylm.jh56.cn,Advertising
 HOST,cypgroup.com,Advertising
@@ -8052,7 +8048,6 @@ HOST,fhserve.com,Advertising
 HOST,fiancevisacover.com,Advertising
 HOST,fiberastat.com,Advertising
 HOST,ficeconsultores.com,Advertising
-HOST,fieldfocusgo.com,Advertising
 HOST,fiestasguadalajara.com,Advertising
 HOST,fifa14.epickeys.com,Advertising
 HOST,fifa14.get4games.com,Advertising
@@ -9408,7 +9403,6 @@ HOST,gsloluvpro.com,Advertising
 HOST,gsniper2.com,Advertising
 HOST,gspfinance-bd.com,Advertising
 HOST,gstaticadssl.l.google.com,Advertising
-HOST,gstats.cn,Advertising
 HOST,gt-office.com,Advertising
 HOST,gt.lazyengines.com,Advertising
 HOST,gt6download.goblogz.net,Advertising
@@ -9957,7 +9951,6 @@ HOST,hotchatdirect.com,Advertising
 HOST,hotchix.servepics.com,Advertising
 HOST,hotdbase.com,Advertising
 HOST,hotdeals360.com,Advertising
-HOST,hotel-web.cn,Advertising
 HOST,hotelcenterlake.com,Advertising
 HOST,hotelesestelar.com,Advertising
 HOST,hotelmahalindia.com,Advertising
@@ -10690,6 +10683,7 @@ HOST,iswwwup.com,Advertising
 HOST,it-pearl.com,Advertising
 HOST,it.bannerout.com,Advertising
 HOST,italiappalti.com,Advertising
+HOST,itaucliente.com,Advertising
 HOST,itc.2081.blueseek.com,Advertising
 HOST,itcg3.c5369.blueseek.com,Advertising
 HOST,itcompany.com,Advertising
@@ -11003,7 +10997,6 @@ HOST,jtoutfitters.com,Advertising
 HOST,jttecnologiaaplicada.com,Advertising
 HOST,jualparfumgrosir.com,Advertising
 HOST,jualterpal.com,Advertising
-HOST,jualumni-bd.org,Advertising
 HOST,judgeclaims.com,Advertising
 HOST,judgemckoy-mitchell.com,Advertising
 HOST,judithgatti.com,Advertising
@@ -12211,6 +12204,7 @@ HOST,maviapartments.com,Advertising
 HOST,max.ad.xiaomi.com,Advertising
 HOST,maxads.ruralpress.com,Advertising
 HOST,maxcrack.com,Advertising
+HOST,maxdezignz.com,Advertising
 HOST,maxdome.inq.com,Advertising
 HOST,maxdome.touchcommerce.com,Advertising
 HOST,maxforta.com,Advertising
@@ -13358,7 +13352,6 @@ HOST,news-report24.com,Advertising
 HOST,news-speaker.com,Advertising
 HOST,news-whistleout.s3.amazonaws.com,Advertising
 HOST,news.blis.com,Advertising
-HOST,news.nero-emea.com,Advertising
 HOST,news.sla.org,Advertising
 HOST,news.smi2.net,Advertising
 HOST,news.vuukle.com,Advertising
@@ -13819,7 +13812,6 @@ HOST,onlinerekruter.com,Advertising
 HOST,onlinerewardcenter.com,Advertising
 HOST,onlineshopping.website,Advertising
 HOST,onlineslotmaschine.com,Advertising
-HOST,onlinesupaads.com,Advertising
 HOST,onlinetribun.com,Advertising
 HOST,onlinewebfind.com,Advertising
 HOST,onlinewebstats.com,Advertising
@@ -14492,7 +14484,6 @@ HOST,pl2.slimg0ji-berry.com,Advertising
 HOST,placeofentertainment.org,Advertising
 HOST,placeplay.com,Advertising
 HOST,plaimedia.com,Advertising
-HOST,plalifestyle.com,Advertising
 HOST,planet-tachyon.com,Advertising
 HOST,planetactive.com,Advertising
 HOST,planetazdrowia.com,Advertising
@@ -16576,7 +16567,6 @@ HOST,simplifylifetime.com,Advertising
 HOST,simplycast.com,Advertising
 HOST,simplycommoncents.com,Advertising
 HOST,simplycrack.com,Advertising
-HOST,simplyfwd.com,Advertising
 HOST,simprove.com,Advertising
 HOST,simpsons.filesforgames.com,Advertising
 HOST,simpsons.newzgames.com,Advertising
@@ -17359,6 +17349,7 @@ HOST,steam.legratuits.com,Advertising
 HOST,steam.zombieden.cn,Advertising
 HOST,steamac.com,Advertising
 HOST,steamcammunitu.com,Advertising
+HOST,steamcommnnity.com,Advertising
 HOST,steamcommunita.com,Advertising
 HOST,steamcommunitly.site88.net,Advertising
 HOST,steamcommunituy.com,Advertising
@@ -18171,6 +18162,7 @@ HOST,ticker.conduit.com,Advertising
 HOST,tickers.playtech.com,Advertising
 HOST,ticket20.tripod.com,Advertising
 HOST,ticketdoctor.net,Advertising
+HOST,tickettocruise.com,Advertising
 HOST,ticklemyivories.com,Advertising
 HOST,tickles.co.uk,Advertising
 HOST,tickles.ie,Advertising
@@ -18767,7 +18759,6 @@ HOST,tribblenews.com,Advertising
 HOST,triche-et-pirater.net,Advertising
 HOST,trichecode.com,Advertising
 HOST,tricheurhq.com,Advertising
-HOST,tricikli.com,Advertising
 HOST,trickshacks.com,Advertising
 HOST,trickycelery.com,Advertising
 HOST,trido.club,Advertising
@@ -19856,7 +19847,6 @@ HOST,wellhealthmens.com,Advertising
 HOST,wellmadefrog.com,Advertising
 HOST,wellmediaonline.com,Advertising
 HOST,wells1.000webhostapp.com,Advertising
-HOST,wellsfairgo.com,Advertising
 HOST,wellsfargonline.rumahweb.org,Advertising
 HOST,wellsigns.com,Advertising
 HOST,wellstar-company.com,Advertising
@@ -20578,6 +20568,7 @@ HOST,xslt.alexa.com,Advertising
 HOST,xsso.anbtr.com,Advertising
 HOST,xswbmktpgcwcud.com,Advertising
 HOST,xtainment.net,Advertising
+HOST,xtjkieqcwn.com,Advertising
 HOST,xtrafficplus.com,Advertising
 HOST,xtremetop100.com,Advertising
 HOST,xuejieku.com,Advertising

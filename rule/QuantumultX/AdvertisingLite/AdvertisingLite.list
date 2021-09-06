@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-09-06 02:07:26
-# HOST: 14493
+# UPDATED: 2021-09-07 02:07:48
+# HOST: 14488
 # HOST-KEYWORD: 28
 # HOST-SUFFIX: 13223
 # IP-CIDR: 158
 # IP6-CIDR: 1
-# TOTAL: 27903
+# TOTAL: 27898
 HOST,0.up.qingdaonews.com,AdvertisingLite
 HOST,00-gov.cn,AdvertisingLite
 HOST,0024aadd.com,AdvertisingLite
@@ -457,7 +457,6 @@ HOST,743e6b34be13fb105e0.com,AdvertisingLite
 HOST,746fyw2v.com,AdvertisingLite
 HOST,758c824671f4fc0.com,AdvertisingLite
 HOST,7676.com,AdvertisingLite
-HOST,76bae64469159dfa58.com,AdvertisingLite
 HOST,77437ee0a17f19c6085.com,AdvertisingLite
 HOST,777-partner.com,AdvertisingLite
 HOST,777-partner.net,AdvertisingLite
@@ -6088,7 +6087,6 @@ HOST,gsniper2.com,AdvertisingLite
 HOST,gsspat.jp,AdvertisingLite
 HOST,gsspcln.jp,AdvertisingLite
 HOST,gssprt.jp,AdvertisingLite
-HOST,gstats.cn,AdvertisingLite
 HOST,gsvyjunccsw.com,AdvertisingLite
 HOST,gtcslt-di2.com,AdvertisingLite
 HOST,gtlp.net.cn,AdvertisingLite
@@ -8307,7 +8305,6 @@ HOST,mntzrlt.net,AdvertisingLite
 HOST,mo.baidu.com,AdvertisingLite
 HOST,mo.bsxr.com.cn,AdvertisingLite
 HOST,mo.grqf.com.cn,AdvertisingLite
-HOST,mo.oneshouyou.cn,AdvertisingLite
 HOST,mo.qitouch.cn,AdvertisingLite
 HOST,mo.wajsa.com,AdvertisingLite
 HOST,mo.zdceaa.cn,AdvertisingLite
@@ -12018,7 +12015,6 @@ HOST,surveyend.com,AdvertisingLite
 HOST,surveygizmo.com,AdvertisingLite
 HOST,surveyscout.com,AdvertisingLite
 HOST,surveyspaid.com,AdvertisingLite
-HOST,surveyvalue.mobi,AdvertisingLite
 HOST,surveywall-api.survata.com,AdvertisingLite
 HOST,surveywriter.com,AdvertisingLite
 HOST,surveywriter.net,AdvertisingLite
@@ -12506,7 +12502,6 @@ HOST,totemcash.com,AdvertisingLite
 HOST,touchclarity.com,AdvertisingLite
 HOST,touchrom.com,AdvertisingLite
 HOST,touchxd.com,AdvertisingLite
-HOST,toufangke.com,AdvertisingLite
 HOST,touglesy.net,AdvertisingLite
 HOST,tour.mrskin.com,AdvertisingLite
 HOST,tours.imlive.com,AdvertisingLite

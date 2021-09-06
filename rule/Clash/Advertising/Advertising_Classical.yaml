@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-09-06 02:07:27
-# DOMAIN: 20959
+# UPDATED: 2021-09-07 02:07:50
+# DOMAIN: 20950
 # DOMAIN-KEYWORD: 88
 # DOMAIN-SUFFIX: 51810
 # IP-CIDR: 244
 # IP-CIDR6: 1
-# TOTAL: 73102
+# TOTAL: 73093
 payload:
   - DOMAIN,0.nextyourcontent.com
   - DOMAIN,0.up.qingdaonews.com
@@ -435,7 +435,6 @@ payload:
   - DOMAIN,75.news-subscribe.com
   - DOMAIN,750.stats.misstrends.com
   - DOMAIN,76.news-subscribe.com
-  - DOMAIN,76bae64469159dfa58.com
   - DOMAIN,777foryou.com
   - DOMAIN,778802.r.bat.bing.com
   - DOMAIN,77search.com
@@ -3655,7 +3654,6 @@ payload:
   - DOMAIN,ban.xpays.com
   - DOMAIN,banamertur.com
   - DOMAIN,bananarepubic.com
-  - DOMAIN,bancodobrasilsa.com
   - DOMAIN,bancorpsouth.inq.com
   - DOMAIN,bandbuzzer.com
   - DOMAIN,bandicapital.com
@@ -4088,7 +4086,6 @@ payload:
   - DOMAIN,billing.act-on.com
   - DOMAIN,billing.speedboink.com
   - DOMAIN,billioncall-cdn.batmobi.net
-  - DOMAIN,bills-doors.com
   - DOMAIN,billyflamberti.com
   - DOMAIN,bin-brokers.com
   - DOMAIN,binadroid.com
@@ -6350,7 +6347,6 @@ payload:
   - DOMAIN,cybilling.com
   - DOMAIN,cycling.unbounce.com
   - DOMAIN,cyclonedieselpower.com
-  - DOMAIN,cyclops.prod.untd.com
   - DOMAIN,cye-fscp.com
   - DOMAIN,cylm.jh56.cn
   - DOMAIN,cypgroup.com
@@ -8053,7 +8049,6 @@ payload:
   - DOMAIN,fiancevisacover.com
   - DOMAIN,fiberastat.com
   - DOMAIN,ficeconsultores.com
-  - DOMAIN,fieldfocusgo.com
   - DOMAIN,fiestasguadalajara.com
   - DOMAIN,fifa14.epickeys.com
   - DOMAIN,fifa14.get4games.com
@@ -9409,7 +9404,6 @@ payload:
   - DOMAIN,gsniper2.com
   - DOMAIN,gspfinance-bd.com
   - DOMAIN,gstaticadssl.l.google.com
-  - DOMAIN,gstats.cn
   - DOMAIN,gt-office.com
   - DOMAIN,gt.lazyengines.com
   - DOMAIN,gt6download.goblogz.net
@@ -9958,7 +9952,6 @@ payload:
   - DOMAIN,hotchix.servepics.com
   - DOMAIN,hotdbase.com
   - DOMAIN,hotdeals360.com
-  - DOMAIN,hotel-web.cn
   - DOMAIN,hotelcenterlake.com
   - DOMAIN,hotelesestelar.com
   - DOMAIN,hotelmahalindia.com
@@ -10691,6 +10684,7 @@ payload:
   - DOMAIN,it-pearl.com
   - DOMAIN,it.bannerout.com
   - DOMAIN,italiappalti.com
+  - DOMAIN,itaucliente.com
   - DOMAIN,itc.2081.blueseek.com
   - DOMAIN,itcg3.c5369.blueseek.com
   - DOMAIN,itcompany.com
@@ -11004,7 +10998,6 @@ payload:
   - DOMAIN,jttecnologiaaplicada.com
   - DOMAIN,jualparfumgrosir.com
   - DOMAIN,jualterpal.com
-  - DOMAIN,jualumni-bd.org
   - DOMAIN,judgeclaims.com
   - DOMAIN,judgemckoy-mitchell.com
   - DOMAIN,judithgatti.com
@@ -12212,6 +12205,7 @@ payload:
   - DOMAIN,max.ad.xiaomi.com
   - DOMAIN,maxads.ruralpress.com
   - DOMAIN,maxcrack.com
+  - DOMAIN,maxdezignz.com
   - DOMAIN,maxdome.inq.com
   - DOMAIN,maxdome.touchcommerce.com
   - DOMAIN,maxforta.com
@@ -13359,7 +13353,6 @@ payload:
   - DOMAIN,news-speaker.com
   - DOMAIN,news-whistleout.s3.amazonaws.com
   - DOMAIN,news.blis.com
-  - DOMAIN,news.nero-emea.com
   - DOMAIN,news.sla.org
   - DOMAIN,news.smi2.net
   - DOMAIN,news.vuukle.com
@@ -13820,7 +13813,6 @@ payload:
   - DOMAIN,onlinerewardcenter.com
   - DOMAIN,onlineshopping.website
   - DOMAIN,onlineslotmaschine.com
-  - DOMAIN,onlinesupaads.com
   - DOMAIN,onlinetribun.com
   - DOMAIN,onlinewebfind.com
   - DOMAIN,onlinewebstats.com
@@ -14493,7 +14485,6 @@ payload:
   - DOMAIN,placeofentertainment.org
   - DOMAIN,placeplay.com
   - DOMAIN,plaimedia.com
-  - DOMAIN,plalifestyle.com
   - DOMAIN,planet-tachyon.com
   - DOMAIN,planetactive.com
   - DOMAIN,planetazdrowia.com
@@ -16577,7 +16568,6 @@ payload:
   - DOMAIN,simplycast.com
   - DOMAIN,simplycommoncents.com
   - DOMAIN,simplycrack.com
-  - DOMAIN,simplyfwd.com
   - DOMAIN,simprove.com
   - DOMAIN,simpsons.filesforgames.com
   - DOMAIN,simpsons.newzgames.com
@@ -17360,6 +17350,7 @@ payload:
   - DOMAIN,steam.zombieden.cn
   - DOMAIN,steamac.com
   - DOMAIN,steamcammunitu.com
+  - DOMAIN,steamcommnnity.com
   - DOMAIN,steamcommunita.com
   - DOMAIN,steamcommunitly.site88.net
   - DOMAIN,steamcommunituy.com
@@ -18172,6 +18163,7 @@ payload:
   - DOMAIN,tickers.playtech.com
   - DOMAIN,ticket20.tripod.com
   - DOMAIN,ticketdoctor.net
+  - DOMAIN,tickettocruise.com
   - DOMAIN,ticklemyivories.com
   - DOMAIN,tickles.co.uk
   - DOMAIN,tickles.ie
@@ -18768,7 +18760,6 @@ payload:
   - DOMAIN,triche-et-pirater.net
   - DOMAIN,trichecode.com
   - DOMAIN,tricheurhq.com
-  - DOMAIN,tricikli.com
   - DOMAIN,trickshacks.com
   - DOMAIN,trickycelery.com
   - DOMAIN,trido.club
@@ -19857,7 +19848,6 @@ payload:
   - DOMAIN,wellmadefrog.com
   - DOMAIN,wellmediaonline.com
   - DOMAIN,wells1.000webhostapp.com
-  - DOMAIN,wellsfairgo.com
   - DOMAIN,wellsfargonline.rumahweb.org
   - DOMAIN,wellsigns.com
   - DOMAIN,wellstar-company.com
@@ -20579,6 +20569,7 @@ payload:
   - DOMAIN,xsso.anbtr.com
   - DOMAIN,xswbmktpgcwcud.com
   - DOMAIN,xtainment.net
+  - DOMAIN,xtjkieqcwn.com
   - DOMAIN,xtrafficplus.com
   - DOMAIN,xtremetop100.com
   - DOMAIN,xuejieku.com

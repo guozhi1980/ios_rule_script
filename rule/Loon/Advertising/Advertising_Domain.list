@@ -1,15 +1,15 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-09-06 02:07:26
+# UPDATED: 2021-09-07 02:07:49
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN: 20959
+# DOMAIN: 20950
 # DOMAIN-KEYWORD: 88
 # DOMAIN-SUFFIX: 51810
 # IP-CIDR: 244
 # IP-CIDR6: 1
 # URL-REGEX: 301
-# TOTAL: 73403
+# TOTAL: 73394
 0.nextyourcontent.com
 0.up.qingdaonews.com
 0001.2waky.com
@@ -436,7 +436,6 @@
 75.news-subscribe.com
 750.stats.misstrends.com
 76.news-subscribe.com
-76bae64469159dfa58.com
 777foryou.com
 778802.r.bat.bing.com
 77search.com
@@ -3656,7 +3655,6 @@ balzac308.com
 ban.xpays.com
 banamertur.com
 bananarepubic.com
-bancodobrasilsa.com
 bancorpsouth.inq.com
 bandbuzzer.com
 bandicapital.com
@@ -4089,7 +4087,6 @@ bill.wiedemann.com
 billing.act-on.com
 billing.speedboink.com
 billioncall-cdn.batmobi.net
-bills-doors.com
 billyflamberti.com
 bin-brokers.com
 binadroid.com
@@ -6351,7 +6348,6 @@ cyberzine.com
 cybilling.com
 cycling.unbounce.com
 cyclonedieselpower.com
-cyclops.prod.untd.com
 cye-fscp.com
 cylm.jh56.cn
 cypgroup.com
@@ -8054,7 +8050,6 @@ fhserve.com
 fiancevisacover.com
 fiberastat.com
 ficeconsultores.com
-fieldfocusgo.com
 fiestasguadalajara.com
 fifa14.epickeys.com
 fifa14.get4games.com
@@ -9410,7 +9405,6 @@ gsloluvpro.com
 gsniper2.com
 gspfinance-bd.com
 gstaticadssl.l.google.com
-gstats.cn
 gt-office.com
 gt.lazyengines.com
 gt6download.goblogz.net
@@ -9959,7 +9953,6 @@ hotchatdirect.com
 hotchix.servepics.com
 hotdbase.com
 hotdeals360.com
-hotel-web.cn
 hotelcenterlake.com
 hotelesestelar.com
 hotelmahalindia.com
@@ -10692,6 +10685,7 @@ iswwwup.com
 it-pearl.com
 it.bannerout.com
 italiappalti.com
+itaucliente.com
 itc.2081.blueseek.com
 itcg3.c5369.blueseek.com
 itcompany.com
@@ -11005,7 +10999,6 @@ jtoutfitters.com
 jttecnologiaaplicada.com
 jualparfumgrosir.com
 jualterpal.com
-jualumni-bd.org
 judgeclaims.com
 judgemckoy-mitchell.com
 judithgatti.com
@@ -12213,6 +12206,7 @@ maviapartments.com
 max.ad.xiaomi.com
 maxads.ruralpress.com
 maxcrack.com
+maxdezignz.com
 maxdome.inq.com
 maxdome.touchcommerce.com
 maxforta.com
@@ -13360,7 +13354,6 @@ news-report24.com
 news-speaker.com
 news-whistleout.s3.amazonaws.com
 news.blis.com
-news.nero-emea.com
 news.sla.org
 news.smi2.net
 news.vuukle.com
@@ -13821,7 +13814,6 @@ onlinerekruter.com
 onlinerewardcenter.com
 onlineshopping.website
 onlineslotmaschine.com
-onlinesupaads.com
 onlinetribun.com
 onlinewebfind.com
 onlinewebstats.com
@@ -14494,7 +14486,6 @@ pl2.slimg0ji-berry.com
 placeofentertainment.org
 placeplay.com
 plaimedia.com
-plalifestyle.com
 planet-tachyon.com
 planetactive.com
 planetazdrowia.com
@@ -16578,7 +16569,6 @@ simplifylifetime.com
 simplycast.com
 simplycommoncents.com
 simplycrack.com
-simplyfwd.com
 simprove.com
 simpsons.filesforgames.com
 simpsons.newzgames.com
@@ -17361,6 +17351,7 @@ steam.legratuits.com
 steam.zombieden.cn
 steamac.com
 steamcammunitu.com
+steamcommnnity.com
 steamcommunita.com
 steamcommunitly.site88.net
 steamcommunituy.com
@@ -18173,6 +18164,7 @@ ticker.conduit.com
 tickers.playtech.com
 ticket20.tripod.com
 ticketdoctor.net
+tickettocruise.com
 ticklemyivories.com
 tickles.co.uk
 tickles.ie
@@ -18769,7 +18761,6 @@ tribblenews.com
 triche-et-pirater.net
 trichecode.com
 tricheurhq.com
-tricikli.com
 trickshacks.com
 trickycelery.com
 trido.club
@@ -19858,7 +19849,6 @@ wellhealthmens.com
 wellmadefrog.com
 wellmediaonline.com
 wells1.000webhostapp.com
-wellsfairgo.com
 wellsfargonline.rumahweb.org
 wellsigns.com
 wellstar-company.com
@@ -20580,6 +20570,7 @@ xslt.alexa.com
 xsso.anbtr.com
 xswbmktpgcwcud.com
 xtainment.net
+xtjkieqcwn.com
 xtrafficplus.com
 xtremetop100.com
 xuejieku.com
