@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-09-07 02:07:50
-# DOMAIN: 14488
+# UPDATED: 2021-09-08 02:06:59
+# DOMAIN: 14487
 # DOMAIN-KEYWORD: 28
 # DOMAIN-SUFFIX: 13223
 # IP-CIDR: 158
 # IP-CIDR6: 1
-# TOTAL: 27898
+# TOTAL: 27897
 payload:
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,00-gov.cn
@@ -7452,6 +7452,7 @@ payload:
   - DOMAIN,leadsrx.com
   - DOMAIN,leadvision.dotmailer.co.uk
   - DOMAIN,leaplunchroom.com
+  - DOMAIN,leaptrade.com
   - DOMAIN,leastersmiled.pro
   - DOMAIN,leche69.com
   - DOMAIN,ledhenone.com
@@ -7853,8 +7854,6 @@ payload:
   - DOMAIN,m.sbief.com
   - DOMAIN,m.sdaih.com
   - DOMAIN,m.sfscooter.cn
-  - DOMAIN,m.szmt02.cn
-  - DOMAIN,m.szmt18.cn
   - DOMAIN,m.tcenn.com
   - DOMAIN,m.track.ad.xiaomi.com
   - DOMAIN,m.u4q2.cn
@@ -9022,7 +9021,6 @@ payload:
   - DOMAIN,okwfx.cn
   - DOMAIN,oldership.com
   - DOMAIN,olgtex.com
-  - DOMAIN,olil.peopleselect.cn
   - DOMAIN,ologyarriedpr.info
   - DOMAIN,omappapi.com
   - DOMAIN,omareeper.com
@@ -9600,6 +9598,7 @@ payload:
   - DOMAIN,play.estream.xyz
   - DOMAIN,play.play.estream.to
   - DOMAIN,play.play.estream.xyz
+  - DOMAIN,play.play1.videos.vidto.me
   - DOMAIN,play.tercabilis.info
   - DOMAIN,play.video2.stream.vidzi.tv
   - DOMAIN,play4k.co
@@ -9690,7 +9689,6 @@ payload:
   - DOMAIN,popclck.net
   - DOMAIN,popcornvod.com
   - DOMAIN,popcpm.com
-  - DOMAIN,popearn.com
   - DOMAIN,popmajor.com
   - DOMAIN,popmarker.com
   - DOMAIN,popmog.com
@@ -13248,6 +13246,7 @@ payload:
   - DOMAIN,video.market.xiaomi.com
   - DOMAIN,video.oms.eu
   - DOMAIN,video.streaming.estream.to
+  - DOMAIN,video.videos.vidto.me
   - DOMAIN,videoadex.com
   - DOMAIN,videoclick.ru
   - DOMAIN,videodeals.com
@@ -13263,6 +13262,7 @@ payload:
   - DOMAIN,videosynd.kataweb.it
   - DOMAIN,vidigital.ru
   - DOMAIN,vidtech.cbsinteractive.com
+  - DOMAIN,vidto.me
   - DOMAIN,vidto.se
   - DOMAIN,vidzi.tv
   - DOMAIN,view-ads.de
@@ -14407,7 +14407,6 @@ payload:
   - DOMAIN,zhantai.com
   - DOMAIN,zhgg.dre8.com
   - DOMAIN,zhggw.dre8.com
-  - DOMAIN,zhizi.qq.com
   - DOMAIN,zhongkaowu.com
   - DOMAIN,zhuanshenghuo1.kuaizhan.com
   - DOMAIN,zhululm.com

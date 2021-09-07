@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-09-07 02:07:48
-# HOST: 14488
+# UPDATED: 2021-09-08 02:06:58
+# HOST: 14487
 # HOST-KEYWORD: 28
 # HOST-SUFFIX: 13223
 # IP-CIDR: 158
 # IP6-CIDR: 1
-# TOTAL: 27898
+# TOTAL: 27897
 HOST,0.up.qingdaonews.com,AdvertisingLite
 HOST,00-gov.cn,AdvertisingLite
 HOST,0024aadd.com,AdvertisingLite
@@ -7451,6 +7451,7 @@ HOST,leadsmonitor.io,AdvertisingLite
 HOST,leadsrx.com,AdvertisingLite
 HOST,leadvision.dotmailer.co.uk,AdvertisingLite
 HOST,leaplunchroom.com,AdvertisingLite
+HOST,leaptrade.com,AdvertisingLite
 HOST,leastersmiled.pro,AdvertisingLite
 HOST,leche69.com,AdvertisingLite
 HOST,ledhenone.com,AdvertisingLite
@@ -7852,8 +7853,6 @@ HOST,m.qhout.com,AdvertisingLite
 HOST,m.sbief.com,AdvertisingLite
 HOST,m.sdaih.com,AdvertisingLite
 HOST,m.sfscooter.cn,AdvertisingLite
-HOST,m.szmt02.cn,AdvertisingLite
-HOST,m.szmt18.cn,AdvertisingLite
 HOST,m.tcenn.com,AdvertisingLite
 HOST,m.track.ad.xiaomi.com,AdvertisingLite
 HOST,m.u4q2.cn,AdvertisingLite
@@ -9021,7 +9020,6 @@ HOST,oktopost.com,AdvertisingLite
 HOST,okwfx.cn,AdvertisingLite
 HOST,oldership.com,AdvertisingLite
 HOST,olgtex.com,AdvertisingLite
-HOST,olil.peopleselect.cn,AdvertisingLite
 HOST,ologyarriedpr.info,AdvertisingLite
 HOST,omappapi.com,AdvertisingLite
 HOST,omareeper.com,AdvertisingLite
@@ -9599,6 +9597,7 @@ HOST,play.estream.to,AdvertisingLite
 HOST,play.estream.xyz,AdvertisingLite
 HOST,play.play.estream.to,AdvertisingLite
 HOST,play.play.estream.xyz,AdvertisingLite
+HOST,play.play1.videos.vidto.me,AdvertisingLite
 HOST,play.tercabilis.info,AdvertisingLite
 HOST,play.video2.stream.vidzi.tv,AdvertisingLite
 HOST,play4k.co,AdvertisingLite
@@ -9689,7 +9688,6 @@ HOST,popander.com,AdvertisingLite
 HOST,popclck.net,AdvertisingLite
 HOST,popcornvod.com,AdvertisingLite
 HOST,popcpm.com,AdvertisingLite
-HOST,popearn.com,AdvertisingLite
 HOST,popmajor.com,AdvertisingLite
 HOST,popmarker.com,AdvertisingLite
 HOST,popmog.com,AdvertisingLite
@@ -13247,6 +13245,7 @@ HOST,video.dispatch.tc.qq.com,AdvertisingLite
 HOST,video.market.xiaomi.com,AdvertisingLite
 HOST,video.oms.eu,AdvertisingLite
 HOST,video.streaming.estream.to,AdvertisingLite
+HOST,video.videos.vidto.me,AdvertisingLite
 HOST,videoadex.com,AdvertisingLite
 HOST,videoclick.ru,AdvertisingLite
 HOST,videodeals.com,AdvertisingLite
@@ -13262,6 +13261,7 @@ HOST,videostat.com,AdvertisingLite
 HOST,videosynd.kataweb.it,AdvertisingLite
 HOST,vidigital.ru,AdvertisingLite
 HOST,vidtech.cbsinteractive.com,AdvertisingLite
+HOST,vidto.me,AdvertisingLite
 HOST,vidto.se,AdvertisingLite
 HOST,vidzi.tv,AdvertisingLite
 HOST,view-ads.de,AdvertisingLite
@@ -14406,7 +14406,6 @@ HOST,zhannei-dm.csdn.net,AdvertisingLite
 HOST,zhantai.com,AdvertisingLite
 HOST,zhgg.dre8.com,AdvertisingLite
 HOST,zhggw.dre8.com,AdvertisingLite
-HOST,zhizi.qq.com,AdvertisingLite
 HOST,zhongkaowu.com,AdvertisingLite
 HOST,zhuanshenghuo1.kuaizhan.com,AdvertisingLite
 HOST,zhululm.com,AdvertisingLite

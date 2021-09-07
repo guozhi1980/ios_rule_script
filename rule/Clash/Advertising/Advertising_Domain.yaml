@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-09-07 02:07:50
-# DOMAIN: 20950
+# UPDATED: 2021-09-08 02:06:59
+# DOMAIN: 20939
 # DOMAIN-KEYWORD: 88
 # DOMAIN-SUFFIX: 51810
 # IP-CIDR: 244
 # IP-CIDR6: 1
-# TOTAL: 73093
+# TOTAL: 73082
 payload:
   - '0.nextyourcontent.com'
   - '0.up.qingdaonews.com'
@@ -474,7 +474,6 @@ payload:
   - '8streams.com'
   - '8wgh.notifychheck.com'
   - '90905.000webhostapp.com'
-  - '911.x24hr.com'
   - '91mobiles.com'
   - '91puma.x.yupoo.com'
   - '941adu.com'
@@ -2405,7 +2404,6 @@ payload:
   - 'advmaker.net'
   - 'advmania.com'
   - 'advmusic.net'
-  - 'advocatechauhanbs.com'
   - 'advplace.com'
   - 'advserver.xyz'
   - 'advt.webindia123.com'
@@ -4179,7 +4177,6 @@ payload:
   - 'blocknux.com'
   - 'blocks.ginotrack.com'
   - 'blog-hack.com'
-  - 'blog-hits.com'
   - 'blog-pirater.com'
   - 'blog.3kingsclothing.com'
   - 'blog.byethost.com'
@@ -4859,7 +4856,6 @@ payload:
   - 'cb.ksmobile.com'
   - 'cb.mdnhinc.com'
   - 'cbacpartnership.org'
-  - 'cbsintervention.com'
   - 'cbtopsites.com'
   - 'cbuzoo.comlu.com'
   - 'cc.ad.intl.xiaomi.com'
@@ -5331,6 +5327,7 @@ payload:
   - 'chufengep.com'
   - 'chungcheng.net'
   - 'chunxiady.com'
+  - 'chupiao365.com'
   - 'ci100.actonsoftware.com'
   - 'ci200.actonsoftware.com'
   - 'ci201.actonsoftware.com'
@@ -7387,7 +7384,6 @@ payload:
   - 'eeps.me'
   - 'eetsooso.net'
   - 'efdilokulu.com'
-  - 'efecebeci.com'
   - 'effectfree.net'
   - 'effective-ads.com'
   - 'effectivebrand.com'
@@ -8495,7 +8491,6 @@ payload:
   - 'freemaddencoins.com'
   - 'freemasstraffic.com'
   - 'freemeez.com'
-  - 'freemicrosoftpointsgen.com'
   - 'freeminecraftaccountsz.com'
   - 'freeminecraftcodes.org'
   - 'freeminecraftcodesgen.com'
@@ -9769,7 +9764,6 @@ payload:
   - 'helpint.mywebsearch.com'
   - 'helpkaden.org'
   - 'helplimits.com'
-  - 'helpmedb.com'
   - 'helpmedownload.com'
   - 'henasentence.pro'
   - 'hengyongonline.com'
@@ -11320,7 +11314,6 @@ payload:
   - 'kungfuwealth.com'
   - 'kunisama.com'
   - 'kursusestetika.net'
-  - 'kursuspemrogramman.com'
   - 'kurumsalcicekcisitesi.com'
   - 'kutlvuitevgw.com'
   - 'kvksangrur.com'
@@ -11366,7 +11359,6 @@ payload:
   - 'landground.com'
   - 'landing.meendo.com'
   - 'landingpage.novaonx.com'
-  - 'landingpages.sunnytoolz.com'
   - 'landisbaptist.com'
   - 'landlcarpetcleaning.com'
   - 'landoftracking.com'
@@ -11437,7 +11429,6 @@ payload:
   - 'lavylites.com'
   - 'law-enforcement-bot-ff.xyz'
   - 'lawfirm.chungcheng.net'
-  - 'laxdrills.com'
   - 'laydata.com'
   - 'layerpark.com'
   - 'laytonhubble.com'
@@ -13311,7 +13302,6 @@ payload:
   - 'new.chokertraffic.com'
   - 'new.cityads.com'
   - 'new.clickability.com'
-  - 'new.macartu.cn'
   - 'new.unbounce.com'
   - 'new44chempics.890m.com'
   - 'newads.cmpnet.com'
@@ -13814,6 +13804,7 @@ payload:
   - 'onlineshopping.website'
   - 'onlineslotmaschine.com'
   - 'onlinetribun.com'
+  - 'onlinewatchmoviez.com'
   - 'onlinewebfind.com'
   - 'onlinewebstats.com'
   - 'onlinexploits.com'
@@ -16426,7 +16417,6 @@ payload:
   - 'shenke.com.cn'
   - 'shenyangxg.com'
   - 'shenzhengarden.com'
-  - 'shepherdhousedppc.com'
   - 'sherlyscasagrande.com'
   - 'shetalkstoanimals.com'
   - 'shicaifanxin.cn'
@@ -19040,7 +19030,6 @@ payload:
   - 'unit8.test2.itembridge.com'
   - 'unitechmetalindoperkasa.com'
   - 'unitedagricare.com'
-  - 'unitedkingdomamerica.com'
   - 'unitedsol.net'
   - 'unitedtraders.com'
   - 'unitex.home.pl'

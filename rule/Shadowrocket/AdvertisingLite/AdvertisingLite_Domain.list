@@ -1,14 +1,14 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-09-07 02:07:51
+# UPDATED: 2021-09-08 02:07:01
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN: 14488
+# DOMAIN: 14487
 # DOMAIN-KEYWORD: 28
 # DOMAIN-SUFFIX: 13223
 # IP-CIDR: 1
 # URL-REGEX: 295
-# TOTAL: 28035
+# TOTAL: 28034
 0.up.qingdaonews.com
 00-gov.cn
 0024aadd.com
@@ -7452,6 +7452,7 @@ leadsmonitor.io
 leadsrx.com
 leadvision.dotmailer.co.uk
 leaplunchroom.com
+leaptrade.com
 leastersmiled.pro
 leche69.com
 ledhenone.com
@@ -7853,8 +7854,6 @@ m.qhout.com
 m.sbief.com
 m.sdaih.com
 m.sfscooter.cn
-m.szmt02.cn
-m.szmt18.cn
 m.tcenn.com
 m.track.ad.xiaomi.com
 m.u4q2.cn
@@ -9022,7 +9021,6 @@ oktopost.com
 okwfx.cn
 oldership.com
 olgtex.com
-olil.peopleselect.cn
 ologyarriedpr.info
 omappapi.com
 omareeper.com
@@ -9600,6 +9598,7 @@ play.estream.to
 play.estream.xyz
 play.play.estream.to
 play.play.estream.xyz
+play.play1.videos.vidto.me
 play.tercabilis.info
 play.video2.stream.vidzi.tv
 play4k.co
@@ -9690,7 +9689,6 @@ popander.com
 popclck.net
 popcornvod.com
 popcpm.com
-popearn.com
 popmajor.com
 popmarker.com
 popmog.com
@@ -13248,6 +13246,7 @@ video.dispatch.tc.qq.com
 video.market.xiaomi.com
 video.oms.eu
 video.streaming.estream.to
+video.videos.vidto.me
 videoadex.com
 videoclick.ru
 videodeals.com
@@ -13263,6 +13262,7 @@ videostat.com
 videosynd.kataweb.it
 vidigital.ru
 vidtech.cbsinteractive.com
+vidto.me
 vidto.se
 vidzi.tv
 view-ads.de
@@ -14407,7 +14407,6 @@ zhannei-dm.csdn.net
 zhantai.com
 zhgg.dre8.com
 zhggw.dre8.com
-zhizi.qq.com
 zhongkaowu.com
 zhuanshenghuo1.kuaizhan.com
 zhululm.com
