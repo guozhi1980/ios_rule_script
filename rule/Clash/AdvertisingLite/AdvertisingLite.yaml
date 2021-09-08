@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-09-08 02:06:59
-# DOMAIN: 14487
+# UPDATED: 2021-09-09 02:09:38
+# DOMAIN: 14485
 # DOMAIN-KEYWORD: 28
 # DOMAIN-SUFFIX: 13223
 # IP-CIDR: 158
 # IP-CIDR6: 1
-# TOTAL: 27897
+# TOTAL: 27895
 payload:
   - DOMAIN-KEYWORD,admarvel
   - DOMAIN-KEYWORD,admaster

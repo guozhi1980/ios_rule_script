@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-09-08 02:06:58
-# HOST: 14487
+# UPDATED: 2021-09-09 02:09:37
+# HOST: 14485
 # HOST-KEYWORD: 28
 # HOST-SUFFIX: 13223
 # IP-CIDR: 158
 # IP6-CIDR: 1
-# TOTAL: 27897
+# TOTAL: 27895
 HOST,0.up.qingdaonews.com,AdvertisingLite
 HOST,00-gov.cn,AdvertisingLite
 HOST,0024aadd.com,AdvertisingLite
@@ -1607,7 +1607,6 @@ HOST,adyapper.com,AdvertisingLite
 HOST,adyoulike.com,AdvertisingLite
 HOST,adz.co.zw,AdvertisingLite
 HOST,adzbazar.com,AdvertisingLite
-HOST,adzhits.com,AdvertisingLite
 HOST,adzhub.com,AdvertisingLite
 HOST,adziff.com,AdvertisingLite
 HOST,adzincome.in,AdvertisingLite
@@ -2799,6 +2798,7 @@ HOST,bluecore.com,AdvertisingLite
 HOST,bluecounter.de,AdvertisingLite
 HOST,bluedawning.com,AdvertisingLite
 HOST,bluetoad.com,AdvertisingLite
+HOST,blvdstatus.com,AdvertisingLite
 HOST,bm23.com,AdvertisingLite
 HOST,bm324.com,AdvertisingLite
 HOST,bmlmedia.com,AdvertisingLite
@@ -4351,7 +4351,6 @@ HOST,db8a41d81b8dfe41de2.com,AdvertisingLite
 HOST,dbbsrv.com,AdvertisingLite
 HOST,dbcdqp72lzmvj.cloudfront.net,AdvertisingLite
 HOST,dbclix.com,AdvertisingLite
-HOST,dblpmp.com,AdvertisingLite
 HOST,dbnw.jyzmsy.com.cn,AdvertisingLite
 HOST,dc-storm.com,AdvertisingLite
 HOST,dc08i221b0n8a.cloudfront.net,AdvertisingLite
@@ -5278,7 +5277,6 @@ HOST,f.aty.sohu.com,AdvertisingLite
 HOST,f.gj555.net,AdvertisingLite
 HOST,f.mzw000.com,AdvertisingLite
 HOST,f01ed651eca.com,AdvertisingLite
-HOST,f1.lutouwang.net,AdvertisingLite
 HOST,f11w.com,AdvertisingLite
 HOST,f18a35cc33ee29a.com,AdvertisingLite
 HOST,f1zd.com,AdvertisingLite
@@ -6919,7 +6917,6 @@ HOST,iptvdeals.com,AdvertisingLite
 HOST,ipv6monitoring.eu,AdvertisingLite
 HOST,iqdata.ai,AdvertisingLite
 HOST,iqfp1.com,AdvertisingLite
-HOST,iqyewu.cn,AdvertisingLite
 HOST,iridiumsergeiprogenitor.info,AdvertisingLite
 HOST,ironbeast.io,AdvertisingLite
 HOST,irpush.com,AdvertisingLite
@@ -7856,6 +7853,7 @@ HOST,m.sfscooter.cn,AdvertisingLite
 HOST,m.tcenn.com,AdvertisingLite
 HOST,m.track.ad.xiaomi.com,AdvertisingLite
 HOST,m.u4q2.cn,AdvertisingLite
+HOST,m.vbinr.com,AdvertisingLite
 HOST,m.vjuei.com,AdvertisingLite
 HOST,m.w82ph.cn,AdvertisingLite
 HOST,m.wbaie.com,AdvertisingLite
@@ -7868,7 +7866,6 @@ HOST,m.xr883.cn,AdvertisingLite
 HOST,m.xsk5j.cn,AdvertisingLite
 HOST,m.xuwm6.cn,AdvertisingLite
 HOST,m.yanyankj.com,AdvertisingLite
-HOST,m.yitime.top,AdvertisingLite
 HOST,m.z83rj.cn,AdvertisingLite
 HOST,m.zbhbs.cn,AdvertisingLite
 HOST,m.zdjgj.cn,AdvertisingLite
@@ -14210,6 +14207,7 @@ HOST,yektanet.com,AdvertisingLite
 HOST,yellads.com,AdvertisingLite
 HOST,yellowacorn.net,AdvertisingLite
 HOST,yellowbrix.com,AdvertisingLite
+HOST,yemnn.cn,AdvertisingLite
 HOST,yes-messenger.com,AdvertisingLite
 HOST,yesadsrv.com,AdvertisingLite
 HOST,yesmessenger.com,AdvertisingLite

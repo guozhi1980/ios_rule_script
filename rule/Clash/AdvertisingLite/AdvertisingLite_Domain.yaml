@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-09-08 02:06:59
-# DOMAIN: 14487
+# UPDATED: 2021-09-09 02:09:38
+# DOMAIN: 14485
 # DOMAIN-KEYWORD: 28
 # DOMAIN-SUFFIX: 13223
 # IP-CIDR: 158
 # IP-CIDR6: 1
-# TOTAL: 27897
+# TOTAL: 27895
 payload:
   - '0.up.qingdaonews.com'
   - '00-gov.cn'
@@ -1608,7 +1608,6 @@ payload:
   - 'adyoulike.com'
   - 'adz.co.zw'
   - 'adzbazar.com'
-  - 'adzhits.com'
   - 'adzhub.com'
   - 'adziff.com'
   - 'adzincome.in'
@@ -2800,6 +2799,7 @@ payload:
   - 'bluecounter.de'
   - 'bluedawning.com'
   - 'bluetoad.com'
+  - 'blvdstatus.com'
   - 'bm23.com'
   - 'bm324.com'
   - 'bmlmedia.com'
@@ -4352,7 +4352,6 @@ payload:
   - 'dbbsrv.com'
   - 'dbcdqp72lzmvj.cloudfront.net'
   - 'dbclix.com'
-  - 'dblpmp.com'
   - 'dbnw.jyzmsy.com.cn'
   - 'dc-storm.com'
   - 'dc08i221b0n8a.cloudfront.net'
@@ -5279,7 +5278,6 @@ payload:
   - 'f.gj555.net'
   - 'f.mzw000.com'
   - 'f01ed651eca.com'
-  - 'f1.lutouwang.net'
   - 'f11w.com'
   - 'f18a35cc33ee29a.com'
   - 'f1zd.com'
@@ -6920,7 +6918,6 @@ payload:
   - 'ipv6monitoring.eu'
   - 'iqdata.ai'
   - 'iqfp1.com'
-  - 'iqyewu.cn'
   - 'iridiumsergeiprogenitor.info'
   - 'ironbeast.io'
   - 'irpush.com'
@@ -7857,6 +7854,7 @@ payload:
   - 'm.tcenn.com'
   - 'm.track.ad.xiaomi.com'
   - 'm.u4q2.cn'
+  - 'm.vbinr.com'
   - 'm.vjuei.com'
   - 'm.w82ph.cn'
   - 'm.wbaie.com'
@@ -7869,7 +7867,6 @@ payload:
   - 'm.xsk5j.cn'
   - 'm.xuwm6.cn'
   - 'm.yanyankj.com'
-  - 'm.yitime.top'
   - 'm.z83rj.cn'
   - 'm.zbhbs.cn'
   - 'm.zdjgj.cn'
@@ -14211,6 +14208,7 @@ payload:
   - 'yellads.com'
   - 'yellowacorn.net'
   - 'yellowbrix.com'
+  - 'yemnn.cn'
   - 'yes-messenger.com'
   - 'yesadsrv.com'
   - 'yesmessenger.com'

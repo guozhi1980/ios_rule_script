@@ -1,13 +1,13 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-08-29 02:06:56
+# UPDATED: 2021-09-09 02:09:40
 # DOMAIN: 46
-# DOMAIN-SUFFIX: 33474
+# DOMAIN-SUFFIX: 33475
 # USER-AGENT: 11
 # DOMAIN-KEYWORD: 29
 # IP-CIDR: 3
-# TOTAL: 33563
+# TOTAL: 33564
 amp.akamaized.net
 apple.com.akadns.net
 assets-priconne-redive-us.akamaized.net
@@ -13440,6 +13440,7 @@ www-cdn.icloud.com.akadns.net
 .heyav.tv
 .heydoga.com
 .heymiles.com
+.heyuedi.com
 .heywire.com
 .heyzo.com
 .hf-iphone.com
