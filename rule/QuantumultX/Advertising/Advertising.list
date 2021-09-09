@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-09-09 02:09:37
-# HOST: 20934
+# UPDATED: 2021-09-10 02:08:04
+# HOST: 20928
 # HOST-KEYWORD: 88
 # HOST-SUFFIX: 51939
 # IP-CIDR: 244
 # IP6-CIDR: 1
-# TOTAL: 73206
+# TOTAL: 73200
 HOST,0.nextyourcontent.com,Advertising
 HOST,0.up.qingdaonews.com,Advertising
 HOST,0001.2waky.com,Advertising
@@ -182,7 +182,6 @@ HOST,21find.com,Advertising
 HOST,21jewelry.com,Advertising
 HOST,22.news-subscribe.com,Advertising
 HOST,2278.stats.misstrends.com,Advertising
-HOST,22a12efe35e3c2f.com,Advertising
 HOST,22pixx.xyz,Advertising
 HOST,234.adru.net,Advertising
 HOST,247gamerz.com,Advertising
@@ -4428,6 +4427,7 @@ HOST,bulgariabg.com,Advertising
 HOST,bulguide.com,Advertising
 HOST,buliugno.pxzmz.top,Advertising
 HOST,bulkhentai.com,Advertising
+HOST,bulkyfeeds.com,Advertising
 HOST,bulleprivee.com,Advertising
 HOST,bulletflix.com,Advertising
 HOST,bulletprofit.com,Advertising
@@ -6210,7 +6210,6 @@ HOST,crm.pandoravietnam.com,Advertising
 HOST,croissanttree.com,Advertising
 HOST,crosenbloom.com,Advertising
 HOST,crossboardmobile.com,Advertising
-HOST,crosscountry-movers.com,Advertising
 HOST,crossfittyphoon.com,Advertising
 HOST,crossleather.com,Advertising
 HOST,crossmetrix.com,Advertising
@@ -7105,7 +7104,6 @@ HOST,dradvice.in,Advertising
 HOST,dragon-city-hack.com,Advertising
 HOST,dragon-cityhack.com,Advertising
 HOST,dragonborn.dlcodes.com,Advertising
-HOST,dragoncity.gaminghazard.com,Advertising
 HOST,dragoncity.newzgames.com,Advertising
 HOST,dragoncitycheatengine.com,Advertising
 HOST,dragoncitygems.com,Advertising
@@ -7472,7 +7470,6 @@ HOST,em.liveclicker.net,Advertising
 HOST,em.news-subscribe.com,Advertising
 HOST,em.subiz.com,Advertising
 HOST,emadzakaria.com,Advertising
-HOST,email-google.com,Advertising
 HOST,email-hack.com,Advertising
 HOST,email.positionly.com,Advertising
 HOST,emaildatabasepro.com,Advertising
@@ -7944,6 +7941,7 @@ HOST,fawebooh.000webhostapp.com,Advertising
 HOST,faztplay.com,Advertising
 HOST,fb-autoliker.com,Advertising
 HOST,fb-hacker.net,Advertising
+HOST,fb-hackers.com,Advertising
 HOST,fb-kolor.blogspot.com,Advertising
 HOST,fb-podglad.blogspot.com,Advertising
 HOST,fb-szpieguj.likesyou.org,Advertising
@@ -8821,7 +8819,6 @@ HOST,gamigoads.com,Advertising
 HOST,gamingcitadel.com,Advertising
 HOST,gamingcounter.com,Advertising
 HOST,gaminghacks24.com,Advertising
-HOST,gaminghazard.com,Advertising
 HOST,gaminglocation.com,Advertising
 HOST,gamingpartners.org,Advertising
 HOST,gamingstreet.org,Advertising
@@ -10293,6 +10290,7 @@ HOST,images.topguncustomz.com,Advertising
 HOST,images.v3.com,Advertising
 HOST,images1.cliqueclack.com,Advertising
 HOST,images1.paycounter.com,Advertising
+HOST,imagescroll.detik.com,Advertising
 HOST,imageshimage.com,Advertising
 HOST,imagesmovies.com,Advertising
 HOST,imagesofandalucia.com,Advertising
@@ -10735,7 +10733,6 @@ HOST,jafiles.net,Advertising
 HOST,jafloorsatlanta.com,Advertising
 HOST,jagcontractor.com,Advertising
 HOST,jaghomeimprovement.com,Advertising
-HOST,jagoiklan.com,Advertising
 HOST,jagopromo.com,Advertising
 HOST,jahnscpa.com,Advertising
 HOST,jailbreak7.newbetakey.com,Advertising
@@ -10802,7 +10799,6 @@ HOST,jcwhiney.com,Advertising
 HOST,jcwhintey.com,Advertising
 HOST,jcwhitey.com,Advertising
 HOST,jd.news-subscribe.com,Advertising
-HOST,jd66688.com,Advertising
 HOST,jdanielcook.net,Advertising
 HOST,jdbd100.com,Advertising
 HOST,jdcartoon.com,Advertising
@@ -15850,6 +15846,7 @@ HOST,sadv.dadapro.com,Advertising
 HOST,saemark.is,Advertising
 HOST,saequity.com,Advertising
 HOST,safe-files.com,Advertising
+HOST,safe.earnethnow.com,Advertising
 HOST,safe.hyperpaysys.com,Advertising
 HOST,safebrowse.com,Advertising
 HOST,safehackz.com,Advertising
@@ -15939,7 +15936,6 @@ HOST,savelinked.com,Advertising
 HOST,savemyfile.net,Advertising
 HOST,savethis.clickability.com,Advertising
 HOST,saveupto20.com,Advertising
-HOST,savingforshelter.com,Advertising
 HOST,savings-time.com,Advertising
 HOST,savoy.cubecdn.net,Advertising
 HOST,savoy.storage.cubecdn.net,Advertising
@@ -16597,7 +16593,6 @@ HOST,sitesumo.com,Advertising
 HOST,sitkainvestigations.com,Advertising
 HOST,sitorew.com,Advertising
 HOST,sittiad.com,Advertising
-HOST,situsiklanbaris.com,Advertising
 HOST,sixscissors.com,Advertising
 HOST,sizesidewalk.com,Advertising
 HOST,sjsmartcontent.org,Advertising
@@ -17645,7 +17640,6 @@ HOST,syndapop.com,Advertising
 HOST,syndication.site.yahoo.net,Advertising
 HOST,syndication.trafficreps.com,Advertising
 HOST,synergyworldwide.com,Advertising
-HOST,syngrestic.com,Advertising
 HOST,syntechsys.com,Advertising
 HOST,synthes.vo.llnwd.net,Advertising
 HOST,sysadmin.map24.com,Advertising

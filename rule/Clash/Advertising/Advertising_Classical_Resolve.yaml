@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-09-09 02:09:38
-# DOMAIN: 20934
+# UPDATED: 2021-09-10 02:08:05
+# DOMAIN: 20928
 # DOMAIN-KEYWORD: 88
 # DOMAIN-SUFFIX: 51939
 # IP-CIDR: 244
 # IP-CIDR6: 1
-# TOTAL: 73206
+# TOTAL: 73200
 payload:
   - DOMAIN,0.nextyourcontent.com
   - DOMAIN,0.up.qingdaonews.com
@@ -183,7 +183,6 @@ payload:
   - DOMAIN,21jewelry.com
   - DOMAIN,22.news-subscribe.com
   - DOMAIN,2278.stats.misstrends.com
-  - DOMAIN,22a12efe35e3c2f.com
   - DOMAIN,22pixx.xyz
   - DOMAIN,234.adru.net
   - DOMAIN,247gamerz.com
@@ -4429,6 +4428,7 @@ payload:
   - DOMAIN,bulguide.com
   - DOMAIN,buliugno.pxzmz.top
   - DOMAIN,bulkhentai.com
+  - DOMAIN,bulkyfeeds.com
   - DOMAIN,bulleprivee.com
   - DOMAIN,bulletflix.com
   - DOMAIN,bulletprofit.com
@@ -6211,7 +6211,6 @@ payload:
   - DOMAIN,croissanttree.com
   - DOMAIN,crosenbloom.com
   - DOMAIN,crossboardmobile.com
-  - DOMAIN,crosscountry-movers.com
   - DOMAIN,crossfittyphoon.com
   - DOMAIN,crossleather.com
   - DOMAIN,crossmetrix.com
@@ -7106,7 +7105,6 @@ payload:
   - DOMAIN,dragon-city-hack.com
   - DOMAIN,dragon-cityhack.com
   - DOMAIN,dragonborn.dlcodes.com
-  - DOMAIN,dragoncity.gaminghazard.com
   - DOMAIN,dragoncity.newzgames.com
   - DOMAIN,dragoncitycheatengine.com
   - DOMAIN,dragoncitygems.com
@@ -7473,7 +7471,6 @@ payload:
   - DOMAIN,em.news-subscribe.com
   - DOMAIN,em.subiz.com
   - DOMAIN,emadzakaria.com
-  - DOMAIN,email-google.com
   - DOMAIN,email-hack.com
   - DOMAIN,email.positionly.com
   - DOMAIN,emaildatabasepro.com
@@ -7945,6 +7942,7 @@ payload:
   - DOMAIN,faztplay.com
   - DOMAIN,fb-autoliker.com
   - DOMAIN,fb-hacker.net
+  - DOMAIN,fb-hackers.com
   - DOMAIN,fb-kolor.blogspot.com
   - DOMAIN,fb-podglad.blogspot.com
   - DOMAIN,fb-szpieguj.likesyou.org
@@ -8822,7 +8820,6 @@ payload:
   - DOMAIN,gamingcitadel.com
   - DOMAIN,gamingcounter.com
   - DOMAIN,gaminghacks24.com
-  - DOMAIN,gaminghazard.com
   - DOMAIN,gaminglocation.com
   - DOMAIN,gamingpartners.org
   - DOMAIN,gamingstreet.org
@@ -10294,6 +10291,7 @@ payload:
   - DOMAIN,images.v3.com
   - DOMAIN,images1.cliqueclack.com
   - DOMAIN,images1.paycounter.com
+  - DOMAIN,imagescroll.detik.com
   - DOMAIN,imageshimage.com
   - DOMAIN,imagesmovies.com
   - DOMAIN,imagesofandalucia.com
@@ -10736,7 +10734,6 @@ payload:
   - DOMAIN,jafloorsatlanta.com
   - DOMAIN,jagcontractor.com
   - DOMAIN,jaghomeimprovement.com
-  - DOMAIN,jagoiklan.com
   - DOMAIN,jagopromo.com
   - DOMAIN,jahnscpa.com
   - DOMAIN,jailbreak7.newbetakey.com
@@ -10803,7 +10800,6 @@ payload:
   - DOMAIN,jcwhintey.com
   - DOMAIN,jcwhitey.com
   - DOMAIN,jd.news-subscribe.com
-  - DOMAIN,jd66688.com
   - DOMAIN,jdanielcook.net
   - DOMAIN,jdbd100.com
   - DOMAIN,jdcartoon.com
@@ -15851,6 +15847,7 @@ payload:
   - DOMAIN,saemark.is
   - DOMAIN,saequity.com
   - DOMAIN,safe-files.com
+  - DOMAIN,safe.earnethnow.com
   - DOMAIN,safe.hyperpaysys.com
   - DOMAIN,safebrowse.com
   - DOMAIN,safehackz.com
@@ -15940,7 +15937,6 @@ payload:
   - DOMAIN,savemyfile.net
   - DOMAIN,savethis.clickability.com
   - DOMAIN,saveupto20.com
-  - DOMAIN,savingforshelter.com
   - DOMAIN,savings-time.com
   - DOMAIN,savoy.cubecdn.net
   - DOMAIN,savoy.storage.cubecdn.net
@@ -16598,7 +16594,6 @@ payload:
   - DOMAIN,sitkainvestigations.com
   - DOMAIN,sitorew.com
   - DOMAIN,sittiad.com
-  - DOMAIN,situsiklanbaris.com
   - DOMAIN,sixscissors.com
   - DOMAIN,sizesidewalk.com
   - DOMAIN,sjsmartcontent.org
@@ -17646,7 +17641,6 @@ payload:
   - DOMAIN,syndication.site.yahoo.net
   - DOMAIN,syndication.trafficreps.com
   - DOMAIN,synergyworldwide.com
-  - DOMAIN,syngrestic.com
   - DOMAIN,syntechsys.com
   - DOMAIN,synthes.vo.llnwd.net
   - DOMAIN,sysadmin.map24.com

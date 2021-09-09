@@ -1,15 +1,15 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-09-09 02:09:38
+# UPDATED: 2021-09-10 02:08:04
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN: 14485
+# DOMAIN: 14480
 # DOMAIN-KEYWORD: 28
 # DOMAIN-SUFFIX: 13223
 # IP-CIDR: 158
 # IP-CIDR6: 1
 # URL-REGEX: 295
-# TOTAL: 28190
+# TOTAL: 28185
 0.up.qingdaonews.com
 00-gov.cn
 0024aadd.com
@@ -29,6 +29,7 @@
 0591101.com
 059e025e7484.com
 05ee3a24ed11df058c8.com
+06f09b1008ae993a5a.com
 0756j.com
 0885.net
 0926a687679d337e9d.com
@@ -173,7 +174,6 @@
 21c9a53484951.com
 21find.com
 21sexturycash.com
-22a12efe35e3c2f.com
 22pixx.xyz
 23205523023daea6.com
 2334ea708ab6d79.com
@@ -188,6 +188,7 @@
 247realmedia.com
 247teencash.net
 247view.net
+24ad89fc2690ed9369.com
 24businessnews.com
 24counter.com
 24log.com
@@ -205,7 +206,6 @@
 25ku.com
 2778255fe56.com
 2898.com
-29ae58661b9c7178.com
 29d65cebb82ef9f.com
 2a12be6140880286.com
 2amsports.com
@@ -412,6 +412,7 @@
 641198810fae7.com
 64aa81cd247ea32d.com
 6548579f50dc08be9.com
+65a29ceed813bbca61.com
 65e750617ae8f0421.com
 65mjvw6i1z.com
 65vk1fba34.com
@@ -479,7 +480,6 @@
 78tdd75.com
 799f3607457e.com
 79zgycmr.com
-7a6421ee67fdb0f660.com
 7bpeople.com
 7bwan.com
 7cjsh.cn
@@ -507,10 +507,8 @@
 8020solutions.net
 80579.net
 8080i.com
-8092686a39ac5.com
 80vn.cn
 810236.com
-810f3f9dde63ae3.com
 8132.qizhihaotian.cn
 815ss.cn
 822.dlads.cn
@@ -532,7 +530,6 @@
 888media.net
 888poker.com
 888promos.com
-889fb4992d4e8.com
 88cpc.com
 88d7b6aa44fb8eb.com
 88hb7evabd.com
@@ -628,7 +625,6 @@ a.vserv.mobi
 a.yiyuancq.com
 a013.com
 a0675c1160de6c6.com
-a06bbd98194c252.com
 a0c00.com
 a0food.top
 a1.firstgw.com
@@ -915,7 +911,6 @@ adclick.pk
 adclickafrica.com
 adclickmedia.com
 adclicks.io
-adclickstats.net
 adcloud.net
 adcmps.com
 adcoin.click
@@ -1113,6 +1108,7 @@ admiral.mgr.consensu.org
 admission.net
 admitad.com
 admixer.net
+admngronline.com
 admo.tv
 admtpmp127.com
 admulti.com
@@ -2226,7 +2222,6 @@ auctionnudge.com
 audience.systems
 audience.visiblemeasures.com
 audience2media.com
-audienceamplify.com
 audienceapi.newsdiscover.com.au
 audiencefuel.com
 audienceinsights.net
@@ -2398,7 +2393,6 @@ badgirlz.org
 badjocks.com
 badjs.weixinbridge.com
 badsabs.com
-badsamps.com
 badshades.com
 badtopwitch.work
 bagbeam.com
@@ -6389,6 +6383,7 @@ hostingcloud.racing
 hostingcloud.science
 hostip.info
 hot-3d-girls.com
+hot-count.com
 hot-hits.us
 hot.browser.intl.miui.com
 hotchatdate.com
@@ -8781,6 +8776,7 @@ ngbn.net
 ngecity.com
 nglmedia.com
 ngmco.net
+ngtraveler.com.cn
 nhpfvdlbjg.com
 nhqxzqvkj.com
 ni22.com
@@ -9192,6 +9188,7 @@ orts.wixawin.com
 os-data.com
 os.tc
 osdata.solutions
+oset-api.open-adx.com
 oshoa.iptvdeals.com
 oshoo.iptvdeals.com
 osiaffiliate.com
@@ -9499,7 +9496,6 @@ phone-analytics.com
 phonespybubble.com
 phonograph2.voxmedia.com
 phoodsom.net
-photo.188kc.cn
 photo.domainrank.cn
 photo.epowuxiao.cn
 photo.hhmyi.cn
@@ -12188,7 +12184,6 @@ tdc.qq.com
 tddjcdzra.com
 tdmd.us
 tds.io
-tdsjsext.com
 tdsjsext1.com
 tdstats.com
 te37w.cn

@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-09-09 02:09:38
-# DOMAIN: 14485
+# UPDATED: 2021-09-10 02:08:05
+# DOMAIN: 14480
 # DOMAIN-KEYWORD: 28
 # DOMAIN-SUFFIX: 13223
 # IP-CIDR: 158
 # IP-CIDR6: 1
-# TOTAL: 27895
+# TOTAL: 27890
 payload:
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,00-gov.cn
@@ -28,6 +28,7 @@ payload:
   - DOMAIN,0591101.com
   - DOMAIN,059e025e7484.com
   - DOMAIN,05ee3a24ed11df058c8.com
+  - DOMAIN,06f09b1008ae993a5a.com
   - DOMAIN,0756j.com
   - DOMAIN,0885.net
   - DOMAIN,0926a687679d337e9d.com
@@ -172,7 +173,6 @@ payload:
   - DOMAIN,21c9a53484951.com
   - DOMAIN,21find.com
   - DOMAIN,21sexturycash.com
-  - DOMAIN,22a12efe35e3c2f.com
   - DOMAIN,22pixx.xyz
   - DOMAIN,23205523023daea6.com
   - DOMAIN,2334ea708ab6d79.com
@@ -187,6 +187,7 @@ payload:
   - DOMAIN,247realmedia.com
   - DOMAIN,247teencash.net
   - DOMAIN,247view.net
+  - DOMAIN,24ad89fc2690ed9369.com
   - DOMAIN,24businessnews.com
   - DOMAIN,24counter.com
   - DOMAIN,24log.com
@@ -204,7 +205,6 @@ payload:
   - DOMAIN,25ku.com
   - DOMAIN,2778255fe56.com
   - DOMAIN,2898.com
-  - DOMAIN,29ae58661b9c7178.com
   - DOMAIN,29d65cebb82ef9f.com
   - DOMAIN,2a12be6140880286.com
   - DOMAIN,2amsports.com
@@ -411,6 +411,7 @@ payload:
   - DOMAIN,641198810fae7.com
   - DOMAIN,64aa81cd247ea32d.com
   - DOMAIN,6548579f50dc08be9.com
+  - DOMAIN,65a29ceed813bbca61.com
   - DOMAIN,65e750617ae8f0421.com
   - DOMAIN,65mjvw6i1z.com
   - DOMAIN,65vk1fba34.com
@@ -478,7 +479,6 @@ payload:
   - DOMAIN,78tdd75.com
   - DOMAIN,799f3607457e.com
   - DOMAIN,79zgycmr.com
-  - DOMAIN,7a6421ee67fdb0f660.com
   - DOMAIN,7bpeople.com
   - DOMAIN,7bwan.com
   - DOMAIN,7cjsh.cn
@@ -506,10 +506,8 @@ payload:
   - DOMAIN,8020solutions.net
   - DOMAIN,80579.net
   - DOMAIN,8080i.com
-  - DOMAIN,8092686a39ac5.com
   - DOMAIN,80vn.cn
   - DOMAIN,810236.com
-  - DOMAIN,810f3f9dde63ae3.com
   - DOMAIN,8132.qizhihaotian.cn
   - DOMAIN,815ss.cn
   - DOMAIN,822.dlads.cn
@@ -531,7 +529,6 @@ payload:
   - DOMAIN,888media.net
   - DOMAIN,888poker.com
   - DOMAIN,888promos.com
-  - DOMAIN,889fb4992d4e8.com
   - DOMAIN,88cpc.com
   - DOMAIN,88d7b6aa44fb8eb.com
   - DOMAIN,88hb7evabd.com
@@ -627,7 +624,6 @@ payload:
   - DOMAIN,a.yiyuancq.com
   - DOMAIN,a013.com
   - DOMAIN,a0675c1160de6c6.com
-  - DOMAIN,a06bbd98194c252.com
   - DOMAIN,a0c00.com
   - DOMAIN,a0food.top
   - DOMAIN,a1.firstgw.com
@@ -914,7 +910,6 @@ payload:
   - DOMAIN,adclickafrica.com
   - DOMAIN,adclickmedia.com
   - DOMAIN,adclicks.io
-  - DOMAIN,adclickstats.net
   - DOMAIN,adcloud.net
   - DOMAIN,adcmps.com
   - DOMAIN,adcoin.click
@@ -1112,6 +1107,7 @@ payload:
   - DOMAIN,admission.net
   - DOMAIN,admitad.com
   - DOMAIN,admixer.net
+  - DOMAIN,admngronline.com
   - DOMAIN,admo.tv
   - DOMAIN,admtpmp127.com
   - DOMAIN,admulti.com
@@ -2225,7 +2221,6 @@ payload:
   - DOMAIN,audience.systems
   - DOMAIN,audience.visiblemeasures.com
   - DOMAIN,audience2media.com
-  - DOMAIN,audienceamplify.com
   - DOMAIN,audienceapi.newsdiscover.com.au
   - DOMAIN,audiencefuel.com
   - DOMAIN,audienceinsights.net
@@ -2397,7 +2392,6 @@ payload:
   - DOMAIN,badjocks.com
   - DOMAIN,badjs.weixinbridge.com
   - DOMAIN,badsabs.com
-  - DOMAIN,badsamps.com
   - DOMAIN,badshades.com
   - DOMAIN,badtopwitch.work
   - DOMAIN,bagbeam.com
@@ -6388,6 +6382,7 @@ payload:
   - DOMAIN,hostingcloud.science
   - DOMAIN,hostip.info
   - DOMAIN,hot-3d-girls.com
+  - DOMAIN,hot-count.com
   - DOMAIN,hot-hits.us
   - DOMAIN,hot.browser.intl.miui.com
   - DOMAIN,hotchatdate.com
@@ -8780,6 +8775,7 @@ payload:
   - DOMAIN,ngecity.com
   - DOMAIN,nglmedia.com
   - DOMAIN,ngmco.net
+  - DOMAIN,ngtraveler.com.cn
   - DOMAIN,nhpfvdlbjg.com
   - DOMAIN,nhqxzqvkj.com
   - DOMAIN,ni22.com
@@ -9191,6 +9187,7 @@ payload:
   - DOMAIN,os-data.com
   - DOMAIN,os.tc
   - DOMAIN,osdata.solutions
+  - DOMAIN,oset-api.open-adx.com
   - DOMAIN,oshoa.iptvdeals.com
   - DOMAIN,oshoo.iptvdeals.com
   - DOMAIN,osiaffiliate.com
@@ -9498,7 +9495,6 @@ payload:
   - DOMAIN,phonespybubble.com
   - DOMAIN,phonograph2.voxmedia.com
   - DOMAIN,phoodsom.net
-  - DOMAIN,photo.188kc.cn
   - DOMAIN,photo.domainrank.cn
   - DOMAIN,photo.epowuxiao.cn
   - DOMAIN,photo.hhmyi.cn
@@ -12187,7 +12183,6 @@ payload:
   - DOMAIN,tddjcdzra.com
   - DOMAIN,tdmd.us
   - DOMAIN,tds.io
-  - DOMAIN,tdsjsext.com
   - DOMAIN,tdsjsext1.com
   - DOMAIN,tdstats.com
   - DOMAIN,te37w.cn
