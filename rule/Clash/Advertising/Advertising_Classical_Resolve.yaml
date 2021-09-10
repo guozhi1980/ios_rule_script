@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-09-10 02:08:05
-# DOMAIN: 20928
+# UPDATED: 2021-09-11 02:08:01
+# DOMAIN: 20915
 # DOMAIN-KEYWORD: 88
 # DOMAIN-SUFFIX: 51939
 # IP-CIDR: 244
 # IP-CIDR6: 1
-# TOTAL: 73200
+# TOTAL: 73187
 payload:
   - DOMAIN,0.nextyourcontent.com
   - DOMAIN,0.up.qingdaonews.com
@@ -263,7 +263,6 @@ payload:
   - DOMAIN,360elite4free.com
   - DOMAIN,360kan.com.cn
   - DOMAIN,360popunder.com
-  - DOMAIN,36512300.com
   - DOMAIN,365giveaways.com
   - DOMAIN,3679.bifa2003.com
   - DOMAIN,384756783900.cn
@@ -2394,7 +2393,6 @@ payload:
   - DOMAIN,advertpro.ya.com
   - DOMAIN,adverts.freeloader.com
   - DOMAIN,advertte.com
-  - DOMAIN,adverttraf.com
   - DOMAIN,advertwizard.com
   - DOMAIN,adviap.goforandroid.com
   - DOMAIN,adviator.com
@@ -3549,7 +3547,6 @@ payload:
   - DOMAIN,ayada.zapto.org
   - DOMAIN,ayboll.sgsrv.com
   - DOMAIN,ayidaye.m.zwdu.com
-  - DOMAIN,aysnmnzu4u.com
   - DOMAIN,ayudastecnicas.com
   - DOMAIN,ayurvedabeyond.com
   - DOMAIN,az361816.vo.msecnd.net
@@ -4580,7 +4577,6 @@ payload:
   - DOMAIN,bytedance.com
   - DOMAIN,byvue.com
   - DOMAIN,byxlivaqzo.com
-  - DOMAIN,bzhualin.com
   - DOMAIN,bzvimexwdle.com
   - DOMAIN,c-4fambt.com
   - DOMAIN,c-motors.com
@@ -6317,7 +6313,6 @@ payload:
   - DOMAIN,customer-center-pp.net
   - DOMAIN,customerbuilders.com
   - DOMAIN,customeriomail.codecademy.com
-  - DOMAIN,customersupporthelp.com
   - DOMAIN,customsboysint.com
   - DOMAIN,customvideosolution.com
   - DOMAIN,cutaiamortgagegroup.cn
@@ -10080,7 +10075,6 @@ payload:
   - DOMAIN,i.cdnpark.com
   - DOMAIN,i.clickagy.com
   - DOMAIN,i.mxplayer.j2inter.com
-  - DOMAIN,i.radzolo.com
   - DOMAIN,i.rdldtrk.com
   - DOMAIN,i.snssdk.com
   - DOMAIN,i.tianqi.com
@@ -10507,6 +10501,7 @@ payload:
   - DOMAIN,instagfollows.com
   - DOMAIN,instagramhack.com
   - DOMAIN,install.365-stream.com
+  - DOMAIN,install.myvideotab.com
   - DOMAIN,install.speedomizer.com
   - DOMAIN,install.streamit-online.com
   - DOMAIN,installads.net
@@ -11513,6 +11508,7 @@ payload:
   - DOMAIN,lesview.com
   - DOMAIN,letaikay.net
   - DOMAIN,letitsoft.com
+  - DOMAIN,letmelook.net
   - DOMAIN,letoilerestaurant.com
   - DOMAIN,letsfinder.com
   - DOMAIN,letsgopub.000webhostapp.com
@@ -13327,7 +13323,6 @@ payload:
   - DOMAIN,newpctv4u.com
   - DOMAIN,news-finances.com
   - DOMAIN,news-paperz.com
-  - DOMAIN,news-report24.com
   - DOMAIN,news-speaker.com
   - DOMAIN,news-whistleout.s3.amazonaws.com
   - DOMAIN,news.blis.com
@@ -13439,7 +13434,6 @@ payload:
   - DOMAIN,nobodyspeakstruth.narod.ru
   - DOMAIN,noeldansleparc.com
   - DOMAIN,noiselessplough.com
-  - DOMAIN,noithatadong.net
   - DOMAIN,nojsstats.appspot.com
   - DOMAIN,nomalleadzuaff.com
   - DOMAIN,nonamjin.com
@@ -14158,7 +14152,6 @@ payload:
   - DOMAIN,pbx-lax1.corp.appnexus.com
   - DOMAIN,pbx.corp.appnexus.com
   - DOMAIN,pc-pointers.com
-  - DOMAIN,pc.sborscweuu.cn
   - DOMAIN,pc1restore.com
   - DOMAIN,pcbutts1.ourtoolbar.com
   - DOMAIN,pcc.pkcdns2.com
@@ -15559,7 +15552,6 @@ payload:
   - DOMAIN,richmanmain.jxedt.com
   - DOMAIN,richmanrules.jxedt.com
   - DOMAIN,richmediaads.com
-  - DOMAIN,richpays.com
   - DOMAIN,richthof.com
   - DOMAIN,rick.unbounce.com
   - DOMAIN,rickfernandezblog.com
@@ -16384,6 +16376,7 @@ payload:
   - DOMAIN,sharehare.com
   - DOMAIN,shareonlinefile.com
   - DOMAIN,sharepointads.com
+  - DOMAIN,sharestudio.net
   - DOMAIN,shareuptodate.com
   - DOMAIN,sharezips.net
   - DOMAIN,sharfiles.com
@@ -16629,7 +16622,6 @@ payload:
   - DOMAIN,skinshub.net
   - DOMAIN,skinsmagic.com
   - DOMAIN,skinsrate.com
-  - DOMAIN,skinsregal.com
   - DOMAIN,skinsrise.com
   - DOMAIN,skinswhite.com
   - DOMAIN,skintrade24.com
@@ -16997,7 +16989,6 @@ payload:
   - DOMAIN,srigarima.com
   - DOMAIN,srisaimahilatrust.org
   - DOMAIN,srv-ad.com
-  - DOMAIN,srv.gotagy.com
   - DOMAIN,srv.offers-tracking.com
   - DOMAIN,srv2trking.com
   - DOMAIN,srvmath.com
@@ -17049,7 +17040,6 @@ payload:
   - DOMAIN,staging.actonsoftware.com
   - DOMAIN,staging.elemental-id.com
   - DOMAIN,staging.novaonx.com
-  - DOMAIN,staging.stats.miui.com
   - DOMAIN,stairgames.com
   - DOMAIN,stakingscrew.com
   - DOMAIN,stakingslope.com
@@ -17775,8 +17765,6 @@ payload:
   - DOMAIN,tapsense.com
   - DOMAIN,tapxchange.com
   - DOMAIN,target2-1.sfa27.smi2.net
-  - DOMAIN,target2-1.sfa33.smi2.net
-  - DOMAIN,target2-1.sfa34.smi2.net
   - DOMAIN,targetan.com
   - DOMAIN,tarteaucitron.ml
   - DOMAIN,taruhanolahraga.com
@@ -18904,7 +18892,6 @@ payload:
   - DOMAIN,tycotool.com
   - DOMAIN,tygrove.com
   - DOMAIN,tyler.logs.roku.com
-  - DOMAIN,tylerscottarndt.com
   - DOMAIN,tylko-dla-ciebie.com
   - DOMAIN,tymetravelnow.com
   - DOMAIN,typeofmarijuana.com
@@ -19392,6 +19379,7 @@ payload:
   - DOMAIN,videosmor.com
   - DOMAIN,videosongplayer.com
   - DOMAIN,videostrip.com
+  - DOMAIN,videotrailer.top
   - DOMAIN,videoustu.com
   - DOMAIN,vidgyor.com
   - DOMAIN,vidhaze.com
@@ -20667,7 +20655,6 @@ payload:
   - DOMAIN,your-free-hack.com
   - DOMAIN,your-gift-zone.com
   - DOMAIN,your.dailytopdealz.com
-  - DOMAIN,yourbestway.cn
   - DOMAIN,yourblocksite.com
   - DOMAIN,yourcamera4free.com
   - DOMAIN,yourflowergirlflorist.com

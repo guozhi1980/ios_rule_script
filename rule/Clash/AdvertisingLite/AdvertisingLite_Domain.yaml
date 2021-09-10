@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-09-10 02:08:05
-# DOMAIN: 14480
+# UPDATED: 2021-09-11 02:08:01
+# DOMAIN: 14482
 # DOMAIN-KEYWORD: 28
 # DOMAIN-SUFFIX: 13223
 # IP-CIDR: 158
 # IP-CIDR6: 1
-# TOTAL: 27890
+# TOTAL: 27892
 payload:
   - '0.up.qingdaonews.com'
   - '00-gov.cn'
@@ -639,7 +639,6 @@ payload:
   - 'a337b163a0bc.com'
   - 'a353364ec1bd19a.com'
   - 'a35c92d96766745.com'
-  - 'a3761801a40c59b48.com'
   - 'a3m.io'
   - 'a3p4.com'
   - 'a433.com'
@@ -1578,7 +1577,6 @@ payload:
   - 'adx1.com'
   - 'adxadtracker.com'
   - 'adxapi.jumei.com'
-  - 'adxat.com'
   - 'adxbid.me'
   - 'adxcel-ec2.com'
   - 'adxchg.com'
@@ -2588,6 +2586,7 @@ payload:
   - 'belwrite.com'
   - 'benchit.com'
   - 'benchtag2.co'
+  - 'benniuluntai.cn'
   - 'bentonow.com'
   - 'beopinion.com'
   - 'berg-6-82.com'
@@ -3866,6 +3865,7 @@ payload:
   - 'cq9119.com'
   - 'cqcounter.com'
   - 'cqlupb.com'
+  - 'cqmjjx.cn'
   - 'cquotient.com'
   - 'cr.youhuiguan.com'
   - 'crab.baidu.com'
@@ -4254,6 +4254,7 @@ payload:
   - 'da-ads.com'
   - 'da303.com'
   - 'da3uf5ucdz00u.cloudfront.net'
+  - 'da60995df247712.com'
   - 'da6fda11b2b0ba.com'
   - 'dabaoku.com'
   - 'dable.io'
@@ -7178,6 +7179,7 @@ payload:
   - 'k5zoom.com'
   - 'k77hof1z7k.com'
   - 'k99.cc'
+  - 'k9x.net'
   - 'kadam.ru'
   - 'kadirzerey.com'
   - 'kadman.net'
@@ -7928,7 +7930,6 @@ payload:
   - 'malest.com'
   - 'mall0.qiyipic.com'
   - 'mallcom.com'
-  - 'mallcss.com'
   - 'mam.netease.com'
   - 'mamamiyu.com'
   - 'mamphxagal.com'
@@ -14137,6 +14138,7 @@ payload:
   - 'xtendmedia.com'
   - 'xtmuasvldoiz.com'
   - 'xtractor.no'
+  - 'xtraffstat.com'
   - 'xtremepush.com'
   - 'xtremeserve.xyz'
   - 'xtremline.com'

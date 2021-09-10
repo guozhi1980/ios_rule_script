@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-09-10 02:08:05
-# DOMAIN: 20928
+# UPDATED: 2021-09-11 02:08:01
+# DOMAIN: 20915
 # DOMAIN-KEYWORD: 88
 # DOMAIN-SUFFIX: 51939
 # IP-CIDR: 244
 # IP-CIDR6: 1
-# TOTAL: 73200
+# TOTAL: 73187
 payload:
   - '0.nextyourcontent.com'
   - '0.up.qingdaonews.com'
@@ -263,7 +263,6 @@ payload:
   - '360elite4free.com'
   - '360kan.com.cn'
   - '360popunder.com'
-  - '36512300.com'
   - '365giveaways.com'
   - '3679.bifa2003.com'
   - '384756783900.cn'
@@ -2394,7 +2393,6 @@ payload:
   - 'advertpro.ya.com'
   - 'adverts.freeloader.com'
   - 'advertte.com'
-  - 'adverttraf.com'
   - 'advertwizard.com'
   - 'adviap.goforandroid.com'
   - 'adviator.com'
@@ -3549,7 +3547,6 @@ payload:
   - 'ayada.zapto.org'
   - 'ayboll.sgsrv.com'
   - 'ayidaye.m.zwdu.com'
-  - 'aysnmnzu4u.com'
   - 'ayudastecnicas.com'
   - 'ayurvedabeyond.com'
   - 'az361816.vo.msecnd.net'
@@ -4580,7 +4577,6 @@ payload:
   - 'bytedance.com'
   - 'byvue.com'
   - 'byxlivaqzo.com'
-  - 'bzhualin.com'
   - 'bzvimexwdle.com'
   - 'c-4fambt.com'
   - 'c-motors.com'
@@ -6317,7 +6313,6 @@ payload:
   - 'customer-center-pp.net'
   - 'customerbuilders.com'
   - 'customeriomail.codecademy.com'
-  - 'customersupporthelp.com'
   - 'customsboysint.com'
   - 'customvideosolution.com'
   - 'cutaiamortgagegroup.cn'
@@ -10080,7 +10075,6 @@ payload:
   - 'i.cdnpark.com'
   - 'i.clickagy.com'
   - 'i.mxplayer.j2inter.com'
-  - 'i.radzolo.com'
   - 'i.rdldtrk.com'
   - 'i.snssdk.com'
   - 'i.tianqi.com'
@@ -10507,6 +10501,7 @@ payload:
   - 'instagfollows.com'
   - 'instagramhack.com'
   - 'install.365-stream.com'
+  - 'install.myvideotab.com'
   - 'install.speedomizer.com'
   - 'install.streamit-online.com'
   - 'installads.net'
@@ -11513,6 +11508,7 @@ payload:
   - 'lesview.com'
   - 'letaikay.net'
   - 'letitsoft.com'
+  - 'letmelook.net'
   - 'letoilerestaurant.com'
   - 'letsfinder.com'
   - 'letsgopub.000webhostapp.com'
@@ -13327,7 +13323,6 @@ payload:
   - 'newpctv4u.com'
   - 'news-finances.com'
   - 'news-paperz.com'
-  - 'news-report24.com'
   - 'news-speaker.com'
   - 'news-whistleout.s3.amazonaws.com'
   - 'news.blis.com'
@@ -13439,7 +13434,6 @@ payload:
   - 'nobodyspeakstruth.narod.ru'
   - 'noeldansleparc.com'
   - 'noiselessplough.com'
-  - 'noithatadong.net'
   - 'nojsstats.appspot.com'
   - 'nomalleadzuaff.com'
   - 'nonamjin.com'
@@ -14158,7 +14152,6 @@ payload:
   - 'pbx-lax1.corp.appnexus.com'
   - 'pbx.corp.appnexus.com'
   - 'pc-pointers.com'
-  - 'pc.sborscweuu.cn'
   - 'pc1restore.com'
   - 'pcbutts1.ourtoolbar.com'
   - 'pcc.pkcdns2.com'
@@ -15559,7 +15552,6 @@ payload:
   - 'richmanmain.jxedt.com'
   - 'richmanrules.jxedt.com'
   - 'richmediaads.com'
-  - 'richpays.com'
   - 'richthof.com'
   - 'rick.unbounce.com'
   - 'rickfernandezblog.com'
@@ -16384,6 +16376,7 @@ payload:
   - 'sharehare.com'
   - 'shareonlinefile.com'
   - 'sharepointads.com'
+  - 'sharestudio.net'
   - 'shareuptodate.com'
   - 'sharezips.net'
   - 'sharfiles.com'
@@ -16629,7 +16622,6 @@ payload:
   - 'skinshub.net'
   - 'skinsmagic.com'
   - 'skinsrate.com'
-  - 'skinsregal.com'
   - 'skinsrise.com'
   - 'skinswhite.com'
   - 'skintrade24.com'
@@ -16997,7 +16989,6 @@ payload:
   - 'srigarima.com'
   - 'srisaimahilatrust.org'
   - 'srv-ad.com'
-  - 'srv.gotagy.com'
   - 'srv.offers-tracking.com'
   - 'srv2trking.com'
   - 'srvmath.com'
@@ -17049,7 +17040,6 @@ payload:
   - 'staging.actonsoftware.com'
   - 'staging.elemental-id.com'
   - 'staging.novaonx.com'
-  - 'staging.stats.miui.com'
   - 'stairgames.com'
   - 'stakingscrew.com'
   - 'stakingslope.com'
@@ -17775,8 +17765,6 @@ payload:
   - 'tapsense.com'
   - 'tapxchange.com'
   - 'target2-1.sfa27.smi2.net'
-  - 'target2-1.sfa33.smi2.net'
-  - 'target2-1.sfa34.smi2.net'
   - 'targetan.com'
   - 'tarteaucitron.ml'
   - 'taruhanolahraga.com'
@@ -18904,7 +18892,6 @@ payload:
   - 'tycotool.com'
   - 'tygrove.com'
   - 'tyler.logs.roku.com'
-  - 'tylerscottarndt.com'
   - 'tylko-dla-ciebie.com'
   - 'tymetravelnow.com'
   - 'typeofmarijuana.com'
@@ -19392,6 +19379,7 @@ payload:
   - 'videosmor.com'
   - 'videosongplayer.com'
   - 'videostrip.com'
+  - 'videotrailer.top'
   - 'videoustu.com'
   - 'vidgyor.com'
   - 'vidhaze.com'
@@ -20667,7 +20655,6 @@ payload:
   - 'your-free-hack.com'
   - 'your-gift-zone.com'
   - 'your.dailytopdealz.com'
-  - 'yourbestway.cn'
   - 'yourblocksite.com'
   - 'yourcamera4free.com'
   - 'yourflowergirlflorist.com'

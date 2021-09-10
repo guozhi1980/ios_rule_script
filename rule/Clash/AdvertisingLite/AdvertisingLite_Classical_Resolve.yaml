@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-09-10 02:08:05
-# DOMAIN: 14480
+# UPDATED: 2021-09-11 02:08:01
+# DOMAIN: 14482
 # DOMAIN-KEYWORD: 28
 # DOMAIN-SUFFIX: 13223
 # IP-CIDR: 158
 # IP-CIDR6: 1
-# TOTAL: 27890
+# TOTAL: 27892
 payload:
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,00-gov.cn
@@ -639,7 +639,6 @@ payload:
   - DOMAIN,a337b163a0bc.com
   - DOMAIN,a353364ec1bd19a.com
   - DOMAIN,a35c92d96766745.com
-  - DOMAIN,a3761801a40c59b48.com
   - DOMAIN,a3m.io
   - DOMAIN,a3p4.com
   - DOMAIN,a433.com
@@ -1578,7 +1577,6 @@ payload:
   - DOMAIN,adx1.com
   - DOMAIN,adxadtracker.com
   - DOMAIN,adxapi.jumei.com
-  - DOMAIN,adxat.com
   - DOMAIN,adxbid.me
   - DOMAIN,adxcel-ec2.com
   - DOMAIN,adxchg.com
@@ -2588,6 +2586,7 @@ payload:
   - DOMAIN,belwrite.com
   - DOMAIN,benchit.com
   - DOMAIN,benchtag2.co
+  - DOMAIN,benniuluntai.cn
   - DOMAIN,bentonow.com
   - DOMAIN,beopinion.com
   - DOMAIN,berg-6-82.com
@@ -3866,6 +3865,7 @@ payload:
   - DOMAIN,cq9119.com
   - DOMAIN,cqcounter.com
   - DOMAIN,cqlupb.com
+  - DOMAIN,cqmjjx.cn
   - DOMAIN,cquotient.com
   - DOMAIN,cr.youhuiguan.com
   - DOMAIN,crab.baidu.com
@@ -4254,6 +4254,7 @@ payload:
   - DOMAIN,da-ads.com
   - DOMAIN,da303.com
   - DOMAIN,da3uf5ucdz00u.cloudfront.net
+  - DOMAIN,da60995df247712.com
   - DOMAIN,da6fda11b2b0ba.com
   - DOMAIN,dabaoku.com
   - DOMAIN,dable.io
@@ -7178,6 +7179,7 @@ payload:
   - DOMAIN,k5zoom.com
   - DOMAIN,k77hof1z7k.com
   - DOMAIN,k99.cc
+  - DOMAIN,k9x.net
   - DOMAIN,kadam.ru
   - DOMAIN,kadirzerey.com
   - DOMAIN,kadman.net
@@ -7928,7 +7930,6 @@ payload:
   - DOMAIN,malest.com
   - DOMAIN,mall0.qiyipic.com
   - DOMAIN,mallcom.com
-  - DOMAIN,mallcss.com
   - DOMAIN,mam.netease.com
   - DOMAIN,mamamiyu.com
   - DOMAIN,mamphxagal.com
@@ -14137,6 +14138,7 @@ payload:
   - DOMAIN,xtendmedia.com
   - DOMAIN,xtmuasvldoiz.com
   - DOMAIN,xtractor.no
+  - DOMAIN,xtraffstat.com
   - DOMAIN,xtremepush.com
   - DOMAIN,xtremeserve.xyz
   - DOMAIN,xtremline.com
