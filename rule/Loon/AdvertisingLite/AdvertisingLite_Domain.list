@@ -1,15 +1,15 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-09-11 02:08:00
+# UPDATED: 2021-09-12 02:06:46
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN: 14482
+# DOMAIN: 14473
 # DOMAIN-KEYWORD: 28
 # DOMAIN-SUFFIX: 13223
 # IP-CIDR: 158
 # IP-CIDR6: 1
 # URL-REGEX: 295
-# TOTAL: 28187
+# TOTAL: 28178
 0.up.qingdaonews.com
 00-gov.cn
 0024aadd.com
@@ -105,7 +105,6 @@
 12l22.net
 12mnkys.com
 12place.com
-13190546cd1dec9bbdc.com
 1357902.cn
 139site.com
 13vm73vbmp.com
@@ -160,7 +159,6 @@
 200218.com
 2005net.net
 200summit.com
-204st.us
 206ads.com
 206solutions.com
 20a840a14a0ef7d6.com
@@ -181,7 +179,6 @@
 23kmm.com
 23txt.com
 24200.h5ixp.com
-2444efc8cd8e.com
 247-inc.com
 247-inc.net
 247ilabs.com
@@ -324,13 +321,11 @@
 4affiliate.net
 4b6994dfa47cee4.com
 4bb6jls06l.com
-4c935d6a244f.com
 4dex.io
 4dsbanner.net
 4dsply.com
 4dtrk.com
 4exlkjnngs.com
-4f2sm1y1ss.com
 4f6b2af479d337cf.com
 4fb0a3bf4a3d38.com
 4jpf0karrejn6yla.pro
@@ -1342,7 +1337,6 @@ adshot.de
 adshuffle.com
 adsiduous.com
 adsignals.com
-adsimilis.com
 adsinimages.com
 adsixmedia.fr
 adskape.ru
@@ -2489,7 +2483,6 @@ baypops.com
 baztrack.com
 bb1acb0ea5ddb1fed8.com
 bb2.ifeng.com
-bb475d71fa0b1b2.com
 bbelements.com
 bbhyqp.com
 bbn.gzblogger.cn
@@ -2723,7 +2716,6 @@ bitterstrawberry.org
 bittraffic.io
 bitx.tv
 biz5.sandai.net
-bizfo.co.uk
 bizible.com
 bizo.com
 bizographics.com
@@ -3019,6 +3011,7 @@ bzcjy.cn
 bzvimexwdle.com
 c-o-u-n-t.com
 c-on-text.com
+c-planet.net
 c-rings.net
 c-sta-cn.upltv.com
 c.51xmgys.com
@@ -3057,7 +3050,6 @@ c8.net.ua
 ca4ec6874a33a13.com
 ca72472d7aee.com
 caanalytics.com
-cacfbf85ad2005e4c31.com
 cache.api-zdj.com
 cache.fm
 cache.sellwild.com
@@ -3401,6 +3393,7 @@ clickagy.com
 clickaider.com
 clickaine.com
 clickalyzer.com
+clickansave.net
 clickbet88.com
 clickbooth.com
 clickboothlnk.com
@@ -3760,6 +3753,7 @@ core-queerclick.netdna-ssl.com
 core.queerclick.com
 coremotives.com
 corp.youdao.com
+corwrite.com
 cosmi.io
 cosmjs.com
 cosmosjackson.com
@@ -4197,7 +4191,6 @@ d3b75cfc88a9.com
 d3c3uihon9kmp.cloudfront.net
 d3cxv97fi8q177.cloudfront.net
 d3dytsf4vrjn5x.cloudfront.net
-d3e44a82c2df88.com
 d3em0905j9y6sm.cloudfront.net
 d3hitamb7drqut.cloudfront.net
 d3hj4iyx6t1waz.cloudfront.net
@@ -4620,6 +4613,7 @@ dmxleo.com
 dn34cbtcv9mef.cloudfront.net
 dn3uy6cx65ujf.cloudfront.net
 dnab.info
+dnbizcdn.com
 dnn506yrbagrg.cloudfront.net
 dns.jd.com
 dns.m.sm.cn
@@ -5887,6 +5881,7 @@ glailols.com
 glaimtug.com
 glargoun.uk
 glauptan.net
+glawheejoushpush.com
 glbtracker.com
 glbtrk.com
 gld35wndkn.com
@@ -7286,7 +7281,6 @@ klarnaservices.com
 klaviyo.com
 klert.com
 klikadvertising.com
-kliklink.ru
 kliksaya.com
 kliktrkr.com
 klikvip.com
@@ -7466,6 +7460,7 @@ lentainform.com
 leohd59.ru
 leokross.com
 leoneaningtoldre.pro
+lepinsar.com
 les-experts.com
 leserservice-tracking.de
 lessbuttons.com
@@ -8144,6 +8139,7 @@ mercury.jd.com
 mercy.ga
 meried.co
 merlin.abc.go.com
+meryjane.pro
 messengerpeople.com
 meta4-group.com
 metalyzer.com
@@ -9236,7 +9232,6 @@ overhaps.com
 overreare.co
 overstat.com
 overturs.com
-ovtopli.ru
 owlanalytics.io
 owldata.com
 owndata.network
@@ -12958,7 +12953,6 @@ ukugl.tourstogo.us
 ukw.jp
 ularunicalrep.info
 ulmdb.cn
-ulnawoyyzbljc.ru
 ulngtppm.com
 umapi.cn
 umbel.com
@@ -13407,7 +13401,6 @@ vtracy.de
 vukhhjzd.com
 vupulse.com
 vural-electronic.com
-vuryua.ru
 vuuwd.com
 vvps.ws
 vvw.wxbgf.top
@@ -13629,7 +13622,6 @@ wheshaud.net
 whiceega.com
 whitepixel.com
 whitepush.biz
-whizstats.com
 whizzco.com
 whoami.akamai.net
 whoaremyfriends.com
@@ -14144,7 +14136,6 @@ xtremepush.com
 xtremeserve.xyz
 xtremline.com
 xts7fgss.com
-xu5ctufltn.com
 xuexingkeji.cn
 xunyibaike.com
 xvika.com
