@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-09-12 02:06:46
-# DOMAIN: 20905
+# UPDATED: 2021-09-13 02:07:08
+# DOMAIN: 20901
 # DOMAIN-KEYWORD: 88
 # DOMAIN-SUFFIX: 52022
 # IP-CIDR: 244
 # IP-CIDR6: 1
-# TOTAL: 73260
+# TOTAL: 73256
 payload:
   - '0.nextyourcontent.com'
   - '0.up.qingdaonews.com'
@@ -192,6 +192,7 @@ payload:
   - '247view.net'
   - '24hf.inq.com'
   - '24hf.touchcommerce.com'
+  - '24hkgame.com'
   - '24holdem.com'
   - '24hourdrugsource.com'
   - '24pm-affiliation.com'
@@ -3274,7 +3275,6 @@ payload:
   - 'aprelite.com'
   - 'aprilbrinson.com'
   - 'aprotes.000webhostapp.com'
-  - 'aproveiteja.com'
   - 'aproxtrack2.com'
   - 'aps.hearstnp.com'
   - 'apserver.net'
@@ -4126,6 +4126,7 @@ payload:
   - 'bittrex.comze.com'
   - 'biz-offer.com'
   - 'bizalmas.com'
+  - 'biznettvigator.com'
   - 'bizzibeans.net'
   - 'bj-fengshi.com'
   - 'bjano.owncube.com'
@@ -6704,7 +6705,6 @@ payload:
   - 'detailedglue.com'
   - 'detailedgovernment.com'
   - 'detallesexpressgye.com'
-  - 'detectnewfavorite.com'
   - 'dethao.com'
   - 'detox-kit.com'
   - 'detroithardcore.com'
@@ -8240,7 +8240,6 @@ payload:
   - 'flavonmax.com'
   - 'fleamarketfragrances.com'
   - 'fleshlightcash.com'
-  - 'fleshyourlight.com'
   - 'flexbanner.com'
   - 'flexterkita.com'
   - 'flexytalk.net'
@@ -11301,6 +11300,7 @@ payload:
   - 'kungfuwealth.com'
   - 'kunisama.com'
   - 'kursusestetika.net'
+  - 'kursuspemrogramman.com'
   - 'kurumsalcicekcisitesi.com'
   - 'kutlvuitevgw.com'
   - 'kvksangrur.com'
@@ -14035,7 +14035,6 @@ payload:
   - 'pambosnaparocks.com'
   - 'pan.bjzm365.com'
   - 'panafcon.net'
-  - 'panamastories.com'
   - 'panasonic.inq.com'
   - 'pandawamovie.com'
   - 'pandendz.com'
@@ -14723,7 +14722,6 @@ payload:
   - 'premiumfiles.org'
   - 'premiumfreestuff.com'
   - 'premiumhackgames.com'
-  - 'premiumpedia.com'
   - 'premiumproductsonline.com'
   - 'premiumprovide.com'
   - 'premiumtool.net'
@@ -14762,7 +14760,6 @@ payload:
   - 'printthis.clickability.com'
   - 'printwellservices.com'
   - 'pritambhattacharjee.com'
-  - 'privacy4browsers.com'
   - 'privatamateure.com'
   - 'private3.zapto.org'
   - 'privatecash.com'
@@ -15528,6 +15525,7 @@ payload:
   - 'rewdinghes.com'
   - 'rexportintl.com'
   - 'reycross.cn'
+  - 'rfgsi.com'
   - 'rforreview.com'
   - 'rg.appserver-ap.com'
   - 'rg.appserver-cp.com'
@@ -15804,7 +15802,6 @@ payload:
   - 's1.yzdh44.com'
   - 's1vesta.com'
   - 's2.hnhbyxdq.com'
-  - 's2.ykgqs.com'
   - 's212.ucoz.net'
   - 's24-analytics.com'
   - 's2normal.com'
@@ -16871,6 +16868,7 @@ payload:
   - 'southernchampion.com'
   - 'southsidedeals.com'
   - 'souvenirua.com'
+  - 'sovietit.com'
   - 'sovrn-cm.p.veruta.com'
   - 'sp-prod.net'
   - 'sp-res.kosungames.com'
@@ -17204,7 +17202,6 @@ payload:
   - 'stats.coronalabs.com'
   - 'stats.defense.gov'
   - 'stats.directexpose.com'
-  - 'stats.dominoplaza.com'
   - 'stats.drugstore.com'
   - 'stats.ebay.com'
   - 'stats.economist.com'
@@ -18007,7 +18004,6 @@ payload:
   - 'thegratitudeguru.com'
   - 'thegreenshoppingchannel.com'
   - 'theguardlan.com'
-  - 'thehackonline.com'
   - 'thehackspot.com'
   - 'thehishers.com'
   - 'thehomo.org'
@@ -18332,6 +18328,7 @@ payload:
   - 'tourisme-coteaux-jura.com'
   - 'tournaments-csgo.com'
   - 'tourskorea.com'
+  - 'tourups.com'
   - 'toutiles.com'
   - 'toutlesgenerateurs.com'
   - 'toutoucao1.com'
@@ -18858,7 +18855,6 @@ payload:
   - 'twbers4hmi6dc65f.tor2web.org'
   - 'tweakingtricks.com'
   - 'tweowhvrim.review'
-  - 'twilightdata.com'
   - 'twilightfalling.com'
   - 'twinsmacau.com'
   - 'twinspack.com'
@@ -19853,6 +19849,7 @@ payload:
   - 'whoami.akamai.net'
   - 'why-outsource.net'
   - 'why.unbounce.com'
+  - 'wicklighting.com'
   - 'widestep.com'
   - 'widget-4.subiz.com'
   - 'widget-api.subiz.com'
@@ -19927,7 +19924,6 @@ payload:
   - 'withlovestudio.net'
   - 'withrows.com'
   - 'wittyvideos.com'
-  - 'wizard-teasers.com'
   - 'wizard-traffic.com'
   - 'wizard101codes.org'
   - 'wkmg.co.kr'

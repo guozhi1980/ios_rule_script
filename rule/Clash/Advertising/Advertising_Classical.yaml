@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-09-12 02:06:47
-# DOMAIN: 20905
+# UPDATED: 2021-09-13 02:07:09
+# DOMAIN: 20901
 # DOMAIN-KEYWORD: 88
 # DOMAIN-SUFFIX: 52022
 # IP-CIDR: 244
 # IP-CIDR6: 1
-# TOTAL: 73260
+# TOTAL: 73256
 payload:
   - DOMAIN,0.nextyourcontent.com
   - DOMAIN,0.up.qingdaonews.com
@@ -192,6 +192,7 @@ payload:
   - DOMAIN,247view.net
   - DOMAIN,24hf.inq.com
   - DOMAIN,24hf.touchcommerce.com
+  - DOMAIN,24hkgame.com
   - DOMAIN,24holdem.com
   - DOMAIN,24hourdrugsource.com
   - DOMAIN,24pm-affiliation.com
@@ -3274,7 +3275,6 @@ payload:
   - DOMAIN,aprelite.com
   - DOMAIN,aprilbrinson.com
   - DOMAIN,aprotes.000webhostapp.com
-  - DOMAIN,aproveiteja.com
   - DOMAIN,aproxtrack2.com
   - DOMAIN,aps.hearstnp.com
   - DOMAIN,apserver.net
@@ -4126,6 +4126,7 @@ payload:
   - DOMAIN,bittrex.comze.com
   - DOMAIN,biz-offer.com
   - DOMAIN,bizalmas.com
+  - DOMAIN,biznettvigator.com
   - DOMAIN,bizzibeans.net
   - DOMAIN,bj-fengshi.com
   - DOMAIN,bjano.owncube.com
@@ -6704,7 +6705,6 @@ payload:
   - DOMAIN,detailedglue.com
   - DOMAIN,detailedgovernment.com
   - DOMAIN,detallesexpressgye.com
-  - DOMAIN,detectnewfavorite.com
   - DOMAIN,dethao.com
   - DOMAIN,detox-kit.com
   - DOMAIN,detroithardcore.com
@@ -8240,7 +8240,6 @@ payload:
   - DOMAIN,flavonmax.com
   - DOMAIN,fleamarketfragrances.com
   - DOMAIN,fleshlightcash.com
-  - DOMAIN,fleshyourlight.com
   - DOMAIN,flexbanner.com
   - DOMAIN,flexterkita.com
   - DOMAIN,flexytalk.net
@@ -11301,6 +11300,7 @@ payload:
   - DOMAIN,kungfuwealth.com
   - DOMAIN,kunisama.com
   - DOMAIN,kursusestetika.net
+  - DOMAIN,kursuspemrogramman.com
   - DOMAIN,kurumsalcicekcisitesi.com
   - DOMAIN,kutlvuitevgw.com
   - DOMAIN,kvksangrur.com
@@ -14035,7 +14035,6 @@ payload:
   - DOMAIN,pambosnaparocks.com
   - DOMAIN,pan.bjzm365.com
   - DOMAIN,panafcon.net
-  - DOMAIN,panamastories.com
   - DOMAIN,panasonic.inq.com
   - DOMAIN,pandawamovie.com
   - DOMAIN,pandendz.com
@@ -14723,7 +14722,6 @@ payload:
   - DOMAIN,premiumfiles.org
   - DOMAIN,premiumfreestuff.com
   - DOMAIN,premiumhackgames.com
-  - DOMAIN,premiumpedia.com
   - DOMAIN,premiumproductsonline.com
   - DOMAIN,premiumprovide.com
   - DOMAIN,premiumtool.net
@@ -14762,7 +14760,6 @@ payload:
   - DOMAIN,printthis.clickability.com
   - DOMAIN,printwellservices.com
   - DOMAIN,pritambhattacharjee.com
-  - DOMAIN,privacy4browsers.com
   - DOMAIN,privatamateure.com
   - DOMAIN,private3.zapto.org
   - DOMAIN,privatecash.com
@@ -15528,6 +15525,7 @@ payload:
   - DOMAIN,rewdinghes.com
   - DOMAIN,rexportintl.com
   - DOMAIN,reycross.cn
+  - DOMAIN,rfgsi.com
   - DOMAIN,rforreview.com
   - DOMAIN,rg.appserver-ap.com
   - DOMAIN,rg.appserver-cp.com
@@ -15804,7 +15802,6 @@ payload:
   - DOMAIN,s1.yzdh44.com
   - DOMAIN,s1vesta.com
   - DOMAIN,s2.hnhbyxdq.com
-  - DOMAIN,s2.ykgqs.com
   - DOMAIN,s212.ucoz.net
   - DOMAIN,s24-analytics.com
   - DOMAIN,s2normal.com
@@ -16871,6 +16868,7 @@ payload:
   - DOMAIN,southernchampion.com
   - DOMAIN,southsidedeals.com
   - DOMAIN,souvenirua.com
+  - DOMAIN,sovietit.com
   - DOMAIN,sovrn-cm.p.veruta.com
   - DOMAIN,sp-prod.net
   - DOMAIN,sp-res.kosungames.com
@@ -17204,7 +17202,6 @@ payload:
   - DOMAIN,stats.coronalabs.com
   - DOMAIN,stats.defense.gov
   - DOMAIN,stats.directexpose.com
-  - DOMAIN,stats.dominoplaza.com
   - DOMAIN,stats.drugstore.com
   - DOMAIN,stats.ebay.com
   - DOMAIN,stats.economist.com
@@ -18007,7 +18004,6 @@ payload:
   - DOMAIN,thegratitudeguru.com
   - DOMAIN,thegreenshoppingchannel.com
   - DOMAIN,theguardlan.com
-  - DOMAIN,thehackonline.com
   - DOMAIN,thehackspot.com
   - DOMAIN,thehishers.com
   - DOMAIN,thehomo.org
@@ -18332,6 +18328,7 @@ payload:
   - DOMAIN,tourisme-coteaux-jura.com
   - DOMAIN,tournaments-csgo.com
   - DOMAIN,tourskorea.com
+  - DOMAIN,tourups.com
   - DOMAIN,toutiles.com
   - DOMAIN,toutlesgenerateurs.com
   - DOMAIN,toutoucao1.com
@@ -18858,7 +18855,6 @@ payload:
   - DOMAIN,twbers4hmi6dc65f.tor2web.org
   - DOMAIN,tweakingtricks.com
   - DOMAIN,tweowhvrim.review
-  - DOMAIN,twilightdata.com
   - DOMAIN,twilightfalling.com
   - DOMAIN,twinsmacau.com
   - DOMAIN,twinspack.com
@@ -19853,6 +19849,7 @@ payload:
   - DOMAIN,whoami.akamai.net
   - DOMAIN,why-outsource.net
   - DOMAIN,why.unbounce.com
+  - DOMAIN,wicklighting.com
   - DOMAIN,widestep.com
   - DOMAIN,widget-4.subiz.com
   - DOMAIN,widget-api.subiz.com
@@ -19927,7 +19924,6 @@ payload:
   - DOMAIN,withlovestudio.net
   - DOMAIN,withrows.com
   - DOMAIN,wittyvideos.com
-  - DOMAIN,wizard-teasers.com
   - DOMAIN,wizard-traffic.com
   - DOMAIN,wizard101codes.org
   - DOMAIN,wkmg.co.kr

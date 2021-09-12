@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-09-12 02:06:45
-# HOST: 20905
+# UPDATED: 2021-09-13 02:07:07
+# HOST: 20901
 # HOST-KEYWORD: 88
 # HOST-SUFFIX: 52022
 # IP-CIDR: 244
 # IP6-CIDR: 1
-# TOTAL: 73260
+# TOTAL: 73256
 HOST,0.nextyourcontent.com,Advertising
 HOST,0.up.qingdaonews.com,Advertising
 HOST,0001.2waky.com,Advertising
@@ -191,6 +191,7 @@ HOST,247teencash.net,Advertising
 HOST,247view.net,Advertising
 HOST,24hf.inq.com,Advertising
 HOST,24hf.touchcommerce.com,Advertising
+HOST,24hkgame.com,Advertising
 HOST,24holdem.com,Advertising
 HOST,24hourdrugsource.com,Advertising
 HOST,24pm-affiliation.com,Advertising
@@ -3273,7 +3274,6 @@ HOST,aprana.000webhostapp.com,Advertising
 HOST,aprelite.com,Advertising
 HOST,aprilbrinson.com,Advertising
 HOST,aprotes.000webhostapp.com,Advertising
-HOST,aproveiteja.com,Advertising
 HOST,aproxtrack2.com,Advertising
 HOST,aps.hearstnp.com,Advertising
 HOST,apserver.net,Advertising
@@ -4125,6 +4125,7 @@ HOST,bitterstrawberry.org,Advertising
 HOST,bittrex.comze.com,Advertising
 HOST,biz-offer.com,Advertising
 HOST,bizalmas.com,Advertising
+HOST,biznettvigator.com,Advertising
 HOST,bizzibeans.net,Advertising
 HOST,bj-fengshi.com,Advertising
 HOST,bjano.owncube.com,Advertising
@@ -6703,7 +6704,6 @@ HOST,det.hasmobi.net,Advertising
 HOST,detailedglue.com,Advertising
 HOST,detailedgovernment.com,Advertising
 HOST,detallesexpressgye.com,Advertising
-HOST,detectnewfavorite.com,Advertising
 HOST,dethao.com,Advertising
 HOST,detox-kit.com,Advertising
 HOST,detroithardcore.com,Advertising
@@ -8239,7 +8239,6 @@ HOST,flaviamorlachetti.com,Advertising
 HOST,flavonmax.com,Advertising
 HOST,fleamarketfragrances.com,Advertising
 HOST,fleshlightcash.com,Advertising
-HOST,fleshyourlight.com,Advertising
 HOST,flexbanner.com,Advertising
 HOST,flexterkita.com,Advertising
 HOST,flexytalk.net,Advertising
@@ -11300,6 +11299,7 @@ HOST,kundendienst.de.com,Advertising
 HOST,kungfuwealth.com,Advertising
 HOST,kunisama.com,Advertising
 HOST,kursusestetika.net,Advertising
+HOST,kursuspemrogramman.com,Advertising
 HOST,kurumsalcicekcisitesi.com,Advertising
 HOST,kutlvuitevgw.com,Advertising
 HOST,kvksangrur.com,Advertising
@@ -14034,7 +14034,6 @@ HOST,pambosdrivingschool.com,Advertising
 HOST,pambosnaparocks.com,Advertising
 HOST,pan.bjzm365.com,Advertising
 HOST,panafcon.net,Advertising
-HOST,panamastories.com,Advertising
 HOST,panasonic.inq.com,Advertising
 HOST,pandawamovie.com,Advertising
 HOST,pandendz.com,Advertising
@@ -14722,7 +14721,6 @@ HOST,premiumcracks.com,Advertising
 HOST,premiumfiles.org,Advertising
 HOST,premiumfreestuff.com,Advertising
 HOST,premiumhackgames.com,Advertising
-HOST,premiumpedia.com,Advertising
 HOST,premiumproductsonline.com,Advertising
 HOST,premiumprovide.com,Advertising
 HOST,premiumtool.net,Advertising
@@ -14761,7 +14759,6 @@ HOST,printfriendly.com,Advertising
 HOST,printthis.clickability.com,Advertising
 HOST,printwellservices.com,Advertising
 HOST,pritambhattacharjee.com,Advertising
-HOST,privacy4browsers.com,Advertising
 HOST,privatamateure.com,Advertising
 HOST,private3.zapto.org,Advertising
 HOST,privatecash.com,Advertising
@@ -15527,6 +15524,7 @@ HOST,rewardszoneusa.com,Advertising
 HOST,rewdinghes.com,Advertising
 HOST,rexportintl.com,Advertising
 HOST,reycross.cn,Advertising
+HOST,rfgsi.com,Advertising
 HOST,rforreview.com,Advertising
 HOST,rg.appserver-ap.com,Advertising
 HOST,rg.appserver-cp.com,Advertising
@@ -15803,7 +15801,6 @@ HOST,s1.stat.lianmeng.360.cn,Advertising
 HOST,s1.yzdh44.com,Advertising
 HOST,s1vesta.com,Advertising
 HOST,s2.hnhbyxdq.com,Advertising
-HOST,s2.ykgqs.com,Advertising
 HOST,s212.ucoz.net,Advertising
 HOST,s24-analytics.com,Advertising
 HOST,s2normal.com,Advertising
@@ -16870,6 +16867,7 @@ HOST,soushop.net,Advertising
 HOST,southernchampion.com,Advertising
 HOST,southsidedeals.com,Advertising
 HOST,souvenirua.com,Advertising
+HOST,sovietit.com,Advertising
 HOST,sovrn-cm.p.veruta.com,Advertising
 HOST,sp-prod.net,Advertising
 HOST,sp-res.kosungames.com,Advertising
@@ -17203,7 +17201,6 @@ HOST,stats.concierge.com,Advertising
 HOST,stats.coronalabs.com,Advertising
 HOST,stats.defense.gov,Advertising
 HOST,stats.directexpose.com,Advertising
-HOST,stats.dominoplaza.com,Advertising
 HOST,stats.drugstore.com,Advertising
 HOST,stats.ebay.com,Advertising
 HOST,stats.economist.com,Advertising
@@ -18006,7 +18003,6 @@ HOST,thegira.net,Advertising
 HOST,thegratitudeguru.com,Advertising
 HOST,thegreenshoppingchannel.com,Advertising
 HOST,theguardlan.com,Advertising
-HOST,thehackonline.com,Advertising
 HOST,thehackspot.com,Advertising
 HOST,thehishers.com,Advertising
 HOST,thehomo.org,Advertising
@@ -18331,6 +18327,7 @@ HOST,tourbihar.com,Advertising
 HOST,tourisme-coteaux-jura.com,Advertising
 HOST,tournaments-csgo.com,Advertising
 HOST,tourskorea.com,Advertising
+HOST,tourups.com,Advertising
 HOST,toutiles.com,Advertising
 HOST,toutlesgenerateurs.com,Advertising
 HOST,toutoucao1.com,Advertising
@@ -18857,7 +18854,6 @@ HOST,tvzhe.com,Advertising
 HOST,twbers4hmi6dc65f.tor2web.org,Advertising
 HOST,tweakingtricks.com,Advertising
 HOST,tweowhvrim.review,Advertising
-HOST,twilightdata.com,Advertising
 HOST,twilightfalling.com,Advertising
 HOST,twinsmacau.com,Advertising
 HOST,twinspack.com,Advertising
@@ -19852,6 +19848,7 @@ HOST,whitwise.com,Advertising
 HOST,whoami.akamai.net,Advertising
 HOST,why-outsource.net,Advertising
 HOST,why.unbounce.com,Advertising
+HOST,wicklighting.com,Advertising
 HOST,widestep.com,Advertising
 HOST,widget-4.subiz.com,Advertising
 HOST,widget-api.subiz.com,Advertising
@@ -19926,7 +19923,6 @@ HOST,withersby.com,Advertising
 HOST,withlovestudio.net,Advertising
 HOST,withrows.com,Advertising
 HOST,wittyvideos.com,Advertising
-HOST,wizard-teasers.com,Advertising
 HOST,wizard-traffic.com,Advertising
 HOST,wizard101codes.org,Advertising
 HOST,wkmg.co.kr,Advertising

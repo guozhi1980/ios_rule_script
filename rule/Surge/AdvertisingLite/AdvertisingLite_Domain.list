@@ -1,15 +1,15 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-09-12 02:06:45
+# UPDATED: 2021-09-13 02:07:07
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN: 14473
+# DOMAIN: 14470
 # DOMAIN-KEYWORD: 28
 # DOMAIN-SUFFIX: 13223
 # IP-CIDR: 158
 # IP-CIDR6: 1
 # URL-REGEX: 295
-# TOTAL: 28178
+# TOTAL: 28175
 0.up.qingdaonews.com
 00-gov.cn
 0024aadd.com
@@ -110,6 +110,7 @@
 13vm73vbmp.com
 14119276be0852.com
 152media.com
+153105c2f9564.com
 1543b1db8a0825760.com
 157ita684j.com
 158aq.com
@@ -391,6 +392,7 @@
 600z.com
 600zi.com
 602d76e204c032.com
+6068a17eed25.com
 6071.com
 612.com
 615b68cc9c8528e.com
@@ -415,7 +417,6 @@
 66.zx1234.com
 6604.org
 668559.com
-66ce98158e4f402.com
 67126e4413a.com
 67785az.com
 6789.net
@@ -567,6 +568,7 @@
 97b1c56132dfcdd90f93-0c5c8388c0a5897e648f883e2c86dc72.r54.cf5.rackcdn.com
 97d73lsi.com
 97ff623306ff4c26996.com
+980th.com
 98bf9h8jbg.com
 98hx.cn
 999d.com
@@ -2643,7 +2645,6 @@ bf-ad.net
 bf-tools.net
 bfast.com
 bfb487de1f2da5c.com
-bfc70a51929fff2d7fe.com
 bfe4e6d364be199.com
 bfmio.com
 bfoleyinteractive.com
@@ -3578,6 +3579,7 @@ collect.tealiumiq.com
 collecting.click
 collection-day.com
 collector.contentexchange.me
+colliersads.com
 collserve.com
 colmwynne.com
 colorfulafterthought.com
@@ -4858,6 +4860,7 @@ e7e776c1a8bf677.com
 e85440ec98f04725.com
 e8dcdcd1ddcb352b.com
 e9mlrvy1.com
+eac0823ca94e3c07.com
 eacla.com
 eads.to
 eadulttraffic.com
@@ -5273,6 +5276,7 @@ f18a35cc33ee29a.com
 f1zd.com
 f35c5dba3b0b5b017.com
 f4906b7c15ba.com
+f5080f5cee5a00.com
 f5v1x3kgv5.com
 f8260adbf8558d6.com
 f92j5.com
@@ -6564,6 +6568,7 @@ idgdmgroup.com.cn
 idio.co
 idntfy.ru
 idolbucks.com
+idot.cz
 idownloadgalore.com
 idreammedia.com
 idtargeting.com
@@ -7363,7 +7368,6 @@ lacerta.space
 ladbrokesaffiliates.com.au
 ladnova.info
 ladsimz.com
-ladsinfo.com
 ladskis.com
 ladskiz.com
 ladsoks.com
@@ -7926,6 +7930,7 @@ makemyvids.com
 malest.com
 mall0.qiyipic.com
 mallcom.com
+mallcss.com
 mam.netease.com
 mamamiyu.com
 mamphxagal.com
@@ -8296,7 +8301,6 @@ mo.baidu.com
 mo.bsxr.com.cn
 mo.grqf.com.cn
 mo.qitouch.cn
-mo.wajsa.com
 mo.zdceaa.cn
 mo8mwxi1.com
 moafoche.com
@@ -9228,7 +9232,6 @@ outporn.com
 outseeltor.com
 outster.com
 oveld.com
-overhaps.com
 overreare.co
 overstat.com
 overturs.com
@@ -9725,6 +9728,7 @@ porngray.com
 pornkings.com
 pornleep.com
 pornnperfect.com
+porno-file.ru
 pornoh.info
 pornomovies.com
 pornoow.com
@@ -9814,7 +9818,6 @@ privacy-center.org
 privacy.claytonhomes.com
 privacy.clion.agency
 privacy.schibsted.com
-privacy4browsers.com
 privacypolicy.trgr.be
 privacyportal.fatergroup.com
 privacyprotector.com
@@ -10183,7 +10186,6 @@ qel-qel-fie.com
 qelllwrite.com
 qertewrt.com
 qeryz.com
-qfdn3gyfbs.com
 qfwjclpckrdehi.com
 qfy.innotechx.com
 qgevavwyafjf.com
@@ -10551,6 +10553,7 @@ rexbucks.com
 reyden-x.com
 reztrack.com
 rezync.com
+rfgsi.com
 rfihub.com
 rfihub.net
 rfity.com
@@ -11200,7 +11203,6 @@ shinystat.com
 shinystat.it
 shippinginsights.com
 shitiphu.com
-shkunjia.com.cn
 sho9wbox.com
 shockinggrass.com
 shockingship.com
@@ -13755,7 +13757,6 @@ wpnjs.com
 wpu.sh
 wpush.biz
 wpush.org
-wqgdajjozr.com
 wqlkp.com
 wqzyt.net
 wrapper.ign.com
@@ -14029,7 +14030,6 @@ x.niuliyan.cn
 x0r.urlgalleries.net
 x1ka.cn
 x4300tiz.com
-x7xirtzmot.com
 x8ad.com
 xacersconceptin.info
 xad.com
@@ -14181,7 +14181,6 @@ yashi.com
 yatab.net
 yauatoyuhdb.com
 yaudience.com
-yaxujiancai.cn
 yazcash.com
 ybotvisit.com
 yceml.net
@@ -14230,7 +14229,6 @@ yieldtraffic.com
 yieldx.com
 yifuls.com
 yihubaiying.com
-yimingxiang.com.cn
 yingshidaquan.cc
 yinoo.cn
 yiqiv.com
@@ -14479,7 +14477,6 @@ zyxmnqkt.com
 zzad.com
 zzb6.cn
 zzbb1.top
-zzhssy.cn
 zzoacwqfw.com
 zzomiuob.com
 zzsdtzb.com
