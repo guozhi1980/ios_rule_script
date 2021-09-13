@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-09-13 02:07:08
-# DOMAIN: 14470
+# UPDATED: 2021-09-13 17:00:50
+# DOMAIN: 14471
 # DOMAIN-KEYWORD: 28
 # DOMAIN-SUFFIX: 13223
 # IP-CIDR: 158
 # IP-CIDR6: 1
-# TOTAL: 27880
+# TOTAL: 27881
 payload:
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,00-gov.cn
@@ -13344,6 +13344,7 @@ payload:
   - DOMAIN,vmhzvqzx.com
   - DOMAIN,vmindhls.tc.qq.com
   - DOMAIN,vmm-satellite1.com
+  - DOMAIN,vmmpxl.com
   - DOMAIN,vmraahnmspzy.com
   - DOMAIN,vnet.cn
   - DOMAIN,vnrherdsxr.com

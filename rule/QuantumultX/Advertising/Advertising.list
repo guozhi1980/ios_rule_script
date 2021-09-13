@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-09-13 02:07:07
-# HOST: 20901
+# UPDATED: 2021-09-13 17:00:49
+# HOST: 20905
 # HOST-KEYWORD: 88
 # HOST-SUFFIX: 52022
 # IP-CIDR: 244
 # IP6-CIDR: 1
-# TOTAL: 73256
+# TOTAL: 73260
 HOST,0.nextyourcontent.com,Advertising
 HOST,0.up.qingdaonews.com,Advertising
 HOST,0001.2waky.com,Advertising
@@ -8794,6 +8794,7 @@ HOST,gamesites100.net,Advertising
 HOST,gamesites200.com,Advertising
 HOST,gamesitestop100.com,Advertising
 HOST,gameslegion.com,Advertising
+HOST,gamesoftempire.com,Advertising
 HOST,gamespeak.net,Advertising
 HOST,gamesplaces.com,Advertising
 HOST,gamespothacks.com,Advertising
@@ -11820,6 +11821,7 @@ HOST,loomarnia.com,Advertising
 HOST,loomplay.com,Advertising
 HOST,loopfiles.com,Advertising
 HOST,lootloo.net23.net,Advertising
+HOST,lordhacks.com,Advertising
 HOST,lordofads.com,Advertising
 HOST,losmercantes.com,Advertising
 HOST,losnahuales.com,Advertising
@@ -14162,6 +14164,7 @@ HOST,pcfullgamesfree.com,Advertising
 HOST,pcgamescracks.com,Advertising
 HOST,pcgamesdownloader.com,Advertising
 HOST,pcgameshackcenter.com,Advertising
+HOST,pchomegeek.com,Advertising
 HOST,pcil.blufysh.com,Advertising
 HOST,pcmaxsoftware.com,Advertising
 HOST,pcmightymax.net,Advertising
@@ -19469,6 +19472,7 @@ HOST,vm.aty.sohu.com,Advertising
 HOST,vmay.com,Advertising
 HOST,vmcsatellite.com,Advertising
 HOST,vml1.s3.amazonaws.com,Advertising
+HOST,vmmpxl.com,Advertising
 HOST,vmpp.comule.com,Advertising
 HOST,vmrinternational.com,Advertising
 HOST,vmtvoting.com,Advertising

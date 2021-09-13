@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-09-13 02:07:09
-# DOMAIN: 20901
+# UPDATED: 2021-09-13 17:00:50
+# DOMAIN: 20905
 # DOMAIN-KEYWORD: 88
 # DOMAIN-SUFFIX: 52022
 # IP-CIDR: 244
 # IP-CIDR6: 1
-# TOTAL: 73256
+# TOTAL: 73260
 payload:
   - DOMAIN,0.nextyourcontent.com
   - DOMAIN,0.up.qingdaonews.com
@@ -8795,6 +8795,7 @@ payload:
   - DOMAIN,gamesites200.com
   - DOMAIN,gamesitestop100.com
   - DOMAIN,gameslegion.com
+  - DOMAIN,gamesoftempire.com
   - DOMAIN,gamespeak.net
   - DOMAIN,gamesplaces.com
   - DOMAIN,gamespothacks.com
@@ -11821,6 +11822,7 @@ payload:
   - DOMAIN,loomplay.com
   - DOMAIN,loopfiles.com
   - DOMAIN,lootloo.net23.net
+  - DOMAIN,lordhacks.com
   - DOMAIN,lordofads.com
   - DOMAIN,losmercantes.com
   - DOMAIN,losnahuales.com
@@ -14163,6 +14165,7 @@ payload:
   - DOMAIN,pcgamescracks.com
   - DOMAIN,pcgamesdownloader.com
   - DOMAIN,pcgameshackcenter.com
+  - DOMAIN,pchomegeek.com
   - DOMAIN,pcil.blufysh.com
   - DOMAIN,pcmaxsoftware.com
   - DOMAIN,pcmightymax.net
@@ -19470,6 +19473,7 @@ payload:
   - DOMAIN,vmay.com
   - DOMAIN,vmcsatellite.com
   - DOMAIN,vml1.s3.amazonaws.com
+  - DOMAIN,vmmpxl.com
   - DOMAIN,vmpp.comule.com
   - DOMAIN,vmrinternational.com
   - DOMAIN,vmtvoting.com
