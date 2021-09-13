@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-09-13 17:00:49
+# UPDATED: 2021-09-13 20:19:03
 # HOST: 14471
 # HOST-KEYWORD: 28
-# HOST-SUFFIX: 13223
+# HOST-SUFFIX: 13222
 # IP-CIDR: 158
 # IP6-CIDR: 1
-# TOTAL: 27881
+# TOTAL: 27880
 HOST,0.up.qingdaonews.com,AdvertisingLite
 HOST,00-gov.cn,AdvertisingLite
 HOST,0024aadd.com,AdvertisingLite
@@ -19611,7 +19611,6 @@ HOST-SUFFIX,fun.content.ninjakiwi.com,AdvertisingLite
 HOST-SUFFIX,fun.wormania.io,AdvertisingLite
 HOST-SUFFIX,fun.ynet.com,AdvertisingLite
 HOST-SUFFIX,fun1.arcadeprehacks.com,AdvertisingLite
-HOST-SUFFIX,fund.10jqka.com.cn,AdvertisingLite
 HOST-SUFFIX,funn.graphiq.com,AdvertisingLite
 HOST-SUFFIX,funshion.net.cn,AdvertisingLite
 HOST-SUFFIX,furmnas.com,AdvertisingLite

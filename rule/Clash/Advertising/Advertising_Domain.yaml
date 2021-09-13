@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-09-13 17:00:50
+# UPDATED: 2021-09-13 20:19:05
 # DOMAIN: 20905
 # DOMAIN-KEYWORD: 88
-# DOMAIN-SUFFIX: 52022
+# DOMAIN-SUFFIX: 52021
 # IP-CIDR: 244
 # IP-CIDR6: 1
-# TOTAL: 73260
+# TOTAL: 73259
 payload:
   - '0.nextyourcontent.com'
   - '0.up.qingdaonews.com'
@@ -39219,7 +39219,6 @@ payload:
   - '.fun.wormania.io'
   - '.fun.ynet.com'
   - '.fun1.arcadeprehacks.com'
-  - '.fund.10jqka.com.cn'
   - '.fundamentalcoordinatebolt.com'
   - '.fundamentalenvironmental.com'
   - '.fundardsesaz.club'

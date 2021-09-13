@@ -1,13 +1,13 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-09-13 17:00:51
+# UPDATED: 2021-09-13 20:19:05
 # DOMAIN: 15216
 # DOMAIN-KEYWORD: 88
-# DOMAIN-SUFFIX: 81834
+# DOMAIN-SUFFIX: 81833
 # IP-CIDR: 244
 # IP-CIDR6: 1
-# TOTAL: 97383
+# TOTAL: 97382
 payload:
   - DOMAIN,0001.2waky.com
   - DOMAIN,000lk3v.wcomhost.com
@@ -44666,7 +44666,6 @@ payload:
   - DOMAIN-SUFFIX,functionalclam.com
   - DOMAIN-SUFFIX,functionalcover.com
   - DOMAIN-SUFFIX,functionalcrown.com
-  - DOMAIN-SUFFIX,fund.10jqka.com.cn
   - DOMAIN-SUFFIX,fundamentalcoordinatebolt.com
   - DOMAIN-SUFFIX,fundamentalenvironmental.com
   - DOMAIN-SUFFIX,fundardsesaz.club
