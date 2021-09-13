@@ -1,15 +1,15 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-09-13 20:19:04
+# UPDATED: 2021-09-14 02:09:55
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN: 14471
+# DOMAIN: 14477
 # DOMAIN-KEYWORD: 28
 # DOMAIN-SUFFIX: 13222
 # IP-CIDR: 158
 # IP-CIDR6: 1
 # URL-REGEX: 295
-# TOTAL: 28175
+# TOTAL: 28181
 0.up.qingdaonews.com
 00-gov.cn
 0024aadd.com
@@ -58,6 +58,7 @@
 0xiaoshuo.com
 1-cl0ud.com
 1.5646.cn
+1.cn716.com
 1.feeddsp.cn
 1.guyaheng.com
 1.huilv.cc
@@ -5692,6 +5693,7 @@ g-cash.biz
 g-statistic.com
 g.delivery.net
 g.gegeyingshi.com
+g.pgu.cc
 g05.info
 g17media.com
 g22rbb7.com
@@ -6869,6 +6871,7 @@ inviziads.com
 invoc.us
 invoca.net
 invoca.solutions
+inwemo.com
 io1g.net
 iociley.com
 iocnt.net
@@ -7246,6 +7249,7 @@ keyxel.com
 khewwakrywmgxr.com
 khg.xinrongblg.com
 khgj.cn
+khzbeucrltin.com
 kickass.best
 kickass.vc
 kids-fashion.dk
@@ -8894,6 +8898,7 @@ nspot.co
 nsstatic.com
 nsstatic.net
 nstracking.com
+nsvfl7p9.com
 nszmz.com
 nt-associates.com
 ntent.com
@@ -14171,6 +14176,7 @@ xztyzs.cn
 y-track.com
 y.cgtte.com
 y.one.impact-ad.jp
+y.pzclw.cn
 y71.ylems.club
 y72yuyr9.com
 y76.ylems.club

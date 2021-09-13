@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-09-13 20:19:05
-# DOMAIN: 14471
+# UPDATED: 2021-09-14 02:09:56
+# DOMAIN: 14477
 # DOMAIN-KEYWORD: 28
 # DOMAIN-SUFFIX: 13222
 # IP-CIDR: 158
 # IP-CIDR6: 1
-# TOTAL: 27880
+# TOTAL: 27886
 payload:
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,00-gov.cn
@@ -57,6 +57,7 @@ payload:
   - DOMAIN,0xiaoshuo.com
   - DOMAIN,1-cl0ud.com
   - DOMAIN,1.5646.cn
+  - DOMAIN,1.cn716.com
   - DOMAIN,1.feeddsp.cn
   - DOMAIN,1.guyaheng.com
   - DOMAIN,1.huilv.cc
@@ -5691,6 +5692,7 @@ payload:
   - DOMAIN,g-statistic.com
   - DOMAIN,g.delivery.net
   - DOMAIN,g.gegeyingshi.com
+  - DOMAIN,g.pgu.cc
   - DOMAIN,g05.info
   - DOMAIN,g17media.com
   - DOMAIN,g22rbb7.com
@@ -6868,6 +6870,7 @@ payload:
   - DOMAIN,invoc.us
   - DOMAIN,invoca.net
   - DOMAIN,invoca.solutions
+  - DOMAIN,inwemo.com
   - DOMAIN,io1g.net
   - DOMAIN,iociley.com
   - DOMAIN,iocnt.net
@@ -7245,6 +7248,7 @@ payload:
   - DOMAIN,khewwakrywmgxr.com
   - DOMAIN,khg.xinrongblg.com
   - DOMAIN,khgj.cn
+  - DOMAIN,khzbeucrltin.com
   - DOMAIN,kickass.best
   - DOMAIN,kickass.vc
   - DOMAIN,kids-fashion.dk
@@ -8893,6 +8897,7 @@ payload:
   - DOMAIN,nsstatic.com
   - DOMAIN,nsstatic.net
   - DOMAIN,nstracking.com
+  - DOMAIN,nsvfl7p9.com
   - DOMAIN,nszmz.com
   - DOMAIN,nt-associates.com
   - DOMAIN,ntent.com
@@ -14170,6 +14175,7 @@ payload:
   - DOMAIN,y-track.com
   - DOMAIN,y.cgtte.com
   - DOMAIN,y.one.impact-ad.jp
+  - DOMAIN,y.pzclw.cn
   - DOMAIN,y71.ylems.club
   - DOMAIN,y72yuyr9.com
   - DOMAIN,y76.ylems.club

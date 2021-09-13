@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-09-13 20:19:03
-# HOST: 14471
+# UPDATED: 2021-09-14 02:09:55
+# HOST: 14477
 # HOST-KEYWORD: 28
 # HOST-SUFFIX: 13222
 # IP-CIDR: 158
 # IP6-CIDR: 1
-# TOTAL: 27880
+# TOTAL: 27886
 HOST,0.up.qingdaonews.com,AdvertisingLite
 HOST,00-gov.cn,AdvertisingLite
 HOST,0024aadd.com,AdvertisingLite
@@ -56,6 +56,7 @@ HOST,0x5.me,AdvertisingLite
 HOST,0xiaoshuo.com,AdvertisingLite
 HOST,1-cl0ud.com,AdvertisingLite
 HOST,1.5646.cn,AdvertisingLite
+HOST,1.cn716.com,AdvertisingLite
 HOST,1.feeddsp.cn,AdvertisingLite
 HOST,1.guyaheng.com,AdvertisingLite
 HOST,1.huilv.cc,AdvertisingLite
@@ -5690,6 +5691,7 @@ HOST,g-cash.biz,AdvertisingLite
 HOST,g-statistic.com,AdvertisingLite
 HOST,g.delivery.net,AdvertisingLite
 HOST,g.gegeyingshi.com,AdvertisingLite
+HOST,g.pgu.cc,AdvertisingLite
 HOST,g05.info,AdvertisingLite
 HOST,g17media.com,AdvertisingLite
 HOST,g22rbb7.com,AdvertisingLite
@@ -6867,6 +6869,7 @@ HOST,inviziads.com,AdvertisingLite
 HOST,invoc.us,AdvertisingLite
 HOST,invoca.net,AdvertisingLite
 HOST,invoca.solutions,AdvertisingLite
+HOST,inwemo.com,AdvertisingLite
 HOST,io1g.net,AdvertisingLite
 HOST,iociley.com,AdvertisingLite
 HOST,iocnt.net,AdvertisingLite
@@ -7244,6 +7247,7 @@ HOST,keyxel.com,AdvertisingLite
 HOST,khewwakrywmgxr.com,AdvertisingLite
 HOST,khg.xinrongblg.com,AdvertisingLite
 HOST,khgj.cn,AdvertisingLite
+HOST,khzbeucrltin.com,AdvertisingLite
 HOST,kickass.best,AdvertisingLite
 HOST,kickass.vc,AdvertisingLite
 HOST,kids-fashion.dk,AdvertisingLite
@@ -8892,6 +8896,7 @@ HOST,nspot.co,AdvertisingLite
 HOST,nsstatic.com,AdvertisingLite
 HOST,nsstatic.net,AdvertisingLite
 HOST,nstracking.com,AdvertisingLite
+HOST,nsvfl7p9.com,AdvertisingLite
 HOST,nszmz.com,AdvertisingLite
 HOST,nt-associates.com,AdvertisingLite
 HOST,ntent.com,AdvertisingLite
@@ -14169,6 +14174,7 @@ HOST,xztyzs.cn,AdvertisingLite
 HOST,y-track.com,AdvertisingLite
 HOST,y.cgtte.com,AdvertisingLite
 HOST,y.one.impact-ad.jp,AdvertisingLite
+HOST,y.pzclw.cn,AdvertisingLite
 HOST,y71.ylems.club,AdvertisingLite
 HOST,y72yuyr9.com,AdvertisingLite
 HOST,y76.ylems.club,AdvertisingLite

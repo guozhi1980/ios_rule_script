@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-09-13 20:19:04
-# DOMAIN: 14471
+# UPDATED: 2021-09-14 02:09:56
+# DOMAIN: 14477
 # DOMAIN-KEYWORD: 28
 # DOMAIN-SUFFIX: 13222
 # IP-CIDR: 158
 # IP-CIDR6: 1
-# TOTAL: 27880
+# TOTAL: 27886
 payload:
   - '0.up.qingdaonews.com'
   - '00-gov.cn'
@@ -57,6 +57,7 @@ payload:
   - '0xiaoshuo.com'
   - '1-cl0ud.com'
   - '1.5646.cn'
+  - '1.cn716.com'
   - '1.feeddsp.cn'
   - '1.guyaheng.com'
   - '1.huilv.cc'
@@ -5691,6 +5692,7 @@ payload:
   - 'g-statistic.com'
   - 'g.delivery.net'
   - 'g.gegeyingshi.com'
+  - 'g.pgu.cc'
   - 'g05.info'
   - 'g17media.com'
   - 'g22rbb7.com'
@@ -6868,6 +6870,7 @@ payload:
   - 'invoc.us'
   - 'invoca.net'
   - 'invoca.solutions'
+  - 'inwemo.com'
   - 'io1g.net'
   - 'iociley.com'
   - 'iocnt.net'
@@ -7245,6 +7248,7 @@ payload:
   - 'khewwakrywmgxr.com'
   - 'khg.xinrongblg.com'
   - 'khgj.cn'
+  - 'khzbeucrltin.com'
   - 'kickass.best'
   - 'kickass.vc'
   - 'kids-fashion.dk'
@@ -8893,6 +8897,7 @@ payload:
   - 'nsstatic.com'
   - 'nsstatic.net'
   - 'nstracking.com'
+  - 'nsvfl7p9.com'
   - 'nszmz.com'
   - 'nt-associates.com'
   - 'ntent.com'
@@ -14170,6 +14175,7 @@ payload:
   - 'y-track.com'
   - 'y.cgtte.com'
   - 'y.one.impact-ad.jp'
+  - 'y.pzclw.cn'
   - 'y71.ylems.club'
   - 'y72yuyr9.com'
   - 'y76.ylems.club'
